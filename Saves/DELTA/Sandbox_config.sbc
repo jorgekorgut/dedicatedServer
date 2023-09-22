@@ -9,14 +9,14 @@
     <RefinerySpeedMultiplier>10</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
     <MaxPlayers>4</MaxPlayers>
-    <MaxFloatingObjects>100</MaxFloatingObjects>
-    <TotalBotLimit>16</TotalBotLimit>
-    <MaxBackupSaves>5</MaxBackupSaves>
+    <MaxFloatingObjects>50</MaxFloatingObjects>
+    <TotalBotLimit>32</TotalBotLimit>
+    <MaxBackupSaves>3</MaxBackupSaves>
     <MaxGridSize>0</MaxGridSize>
     <MaxBlocksPerPlayer>0</MaxBlocksPerPlayer>
-    <TotalPCU>100000</TotalPCU>
-    <PiratePCU>300000</PiratePCU>
-    <MaxFactionsCount>100</MaxFactionsCount>
+    <TotalPCU>300000</TotalPCU>
+    <PiratePCU>100000</PiratePCU>
+    <MaxFactionsCount>30</MaxFactionsCount>
     <BlockLimitsEnabled>GLOBALLY</BlockLimitsEnabled>
     <EnableRemoteBlockRemoval>true</EnableRemoteBlockRemoval>
     <EnvironmentHostility>SAFE</EnvironmentHostility>
@@ -25,7 +25,7 @@
     <WeaponsEnabled>true</WeaponsEnabled>
     <ShowPlayerNamesOnHud>true</ShowPlayerNamesOnHud>
     <ThrusterDamage>true</ThrusterDamage>
-    <CargoShipsEnabled>false</CargoShipsEnabled>
+    <CargoShipsEnabled>true</CargoShipsEnabled>
     <EnableSpectator>false</EnableSpectator>
     <WorldSizeKm>0</WorldSizeKm>
     <RespawnShipDelete>false</RespawnShipDelete>
@@ -35,7 +35,7 @@
     <RealisticSound>false</RealisticSound>
     <HackSpeedMultiplier>1</HackSpeedMultiplier>
     <PermanentDeath>false</PermanentDeath>
-    <AutoSaveInMinutes>5</AutoSaveInMinutes>
+    <AutoSaveInMinutes>20</AutoSaveInMinutes>
     <EnableSaving>true</EnableSaving>
     <InfiniteAmmo>false</InfiniteAmmo>
     <EnableContainerDrops>true</EnableContainerDrops>
@@ -50,7 +50,7 @@
     <EnableOxygen>true</EnableOxygen>
     <EnableOxygenPressurization>true</EnableOxygenPressurization>
     <Enable3rdPersonView>true</Enable3rdPersonView>
-    <EnableEncounters>false</EnableEncounters>
+    <EnableEncounters>true</EnableEncounters>
     <EnableConvertToStation>true</EnableConvertToStation>
     <StationVoxelSupport>false</StationVoxelSupport>
     <EnableSunRotation>true</EnableSunRotation>
@@ -86,7 +86,7 @@
     <ExperimentalMode>true</ExperimentalMode>
     <AdaptiveSimulationQuality>true</AdaptiveSimulationQuality>
     <EnableVoxelHand>true</EnableVoxelHand>
-    <RemoveOldIdentitiesH>0</RemoveOldIdentitiesH>
+    <RemoveOldIdentitiesH>1</RemoveOldIdentitiesH>
     <TrashRemovalEnabled>true</TrashRemovalEnabled>
     <StopGridsPeriodMin>15</StopGridsPeriodMin>
     <TrashFlagsValue>7706</TrashFlagsValue>
@@ -102,7 +102,7 @@
     <VoxelAgeThreshold>24</VoxelAgeThreshold>
     <EnableResearch>false</EnableResearch>
     <EnableGoodBotHints>true</EnableGoodBotHints>
-    <OptimalSpawnDistance>15991</OptimalSpawnDistance>
+    <OptimalSpawnDistance>15985</OptimalSpawnDistance>
     <EnableAutorespawn>false</EnableAutorespawn>
     <EnableBountyContracts>true</EnableBountyContracts>
     <EnableSupergridding>false</EnableSupergridding>
@@ -110,13 +110,14 @@
     <DepositsCountCoefficient>1</DepositsCountCoefficient>
     <DepositSizeDenominator>60</DepositSizeDenominator>
     <WeatherSystem>true</WeatherSystem>
-    <HarvestRatioMultiplier>1</HarvestRatioMultiplier>
+    <HarvestRatioMultiplier>1.5</HarvestRatioMultiplier>
     <TradeFactionsCount>15</TradeFactionsCount>
     <StationsDistanceInnerRadius>10000000</StationsDistanceInnerRadius>
     <StationsDistanceOuterRadiusStart>10000000</StationsDistanceOuterRadiusStart>
     <StationsDistanceOuterRadiusEnd>30000000</StationsDistanceOuterRadiusEnd>
     <EconomyTickInSeconds>1200</EconomyTickInSeconds>
     <SimplifiedSimulation>false</SimplifiedSimulation>
+    <SuppressedWarnings />
     <EnablePcuTrading>true</EnablePcuTrading>
     <FamilySharing>true</FamilySharing>
     <EnableSelectivePhysicsUpdates>false</EnableSelectivePhysicsUpdates>
@@ -147,14 +148,14 @@
     <EnemyTargetIndicatorDistance>20</EnemyTargetIndicatorDistance>
   </Settings>
   <Mods>
+    <ModItem FriendlyName="*Unknown*">
+      <Name>857053359.sbm</Name>
+      <PublishedFileId>857053359</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Ship Speed Increase">
       <Name>416466806.sbm</Name>
       <PublishedFileId>416466806</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Star Citizen Weapons (WeaponCore)">
-      <Name>2893994687.sbm</Name>
-      <PublishedFileId>2893994687</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Aryx Weapon Enterprises [WeaponCore]">
@@ -282,26 +283,6 @@
       <PublishedFileId>914369510</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Paint Gun - realistic painting for survival + special creative features">
-      <Name>500818376.sbm</Name>
-      <PublishedFileId>500818376</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Nanite Control Facility v2.0(15) - Automated Construction">
-      <Name>219757726.sbm</Name>
-      <PublishedFileId>219757726</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="(DX11) Small Medical Station">
-      <Name>412134393.sbm</Name>
-      <PublishedFileId>412134393</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="SmartRotors: Solar">
-      <Name>1728457223.sbm</Name>
-      <PublishedFileId>1728457223</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Piston Pack">
       <Name>327627089.sbm</Name>
       <PublishedFileId>327627089</PublishedFileId>
@@ -320,16 +301,6 @@
     <ModItem FriendlyName="Tiered Engine Super Pack">
       <Name>642589539.sbm</Name>
       <PublishedFileId>642589539</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="(THYA) Shield HUD Graphics Pack 1%">
-      <Name>540003236.sbm</Name>
-      <PublishedFileId>540003236</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="(DX11) Nuke Launcher [WiP]">
-      <Name>438092735.sbm</Name>
-      <PublishedFileId>438092735</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="NPC Defense Shields Provider">
@@ -362,16 +333,6 @@
       <PublishedFileId>1825460112</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Undo">
-      <Name>2817339481.sbm</Name>
-      <PublishedFileId>2817339481</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="[QoL] Mechanical Keybinds">
-      <Name>2267007067.sbm</Name>
-      <PublishedFileId>2267007067</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Advanced Welding - detaching and reattaching blocks!">
       <Name>510790477.sbm</Name>
       <PublishedFileId>510790477</PublishedFileId>
@@ -390,11 +351,6 @@
     <ModItem FriendlyName="Rich HUD Master">
       <Name>1965654081.sbm</Name>
       <PublishedFileId>1965654081</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Build Vision 3.0">
-      <Name>1697184408.sbm</Name>
-      <PublishedFileId>1697184408</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Binoculars">
@@ -452,11 +408,6 @@
       <PublishedFileId>321588701</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="SurvivalMirror">
-      <Name>2367568900.sbm</Name>
-      <PublishedFileId>2367568900</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Whip's Camera Overlay">
       <Name>704012607.sbm</Name>
       <PublishedFileId>704012607</PublishedFileId>
@@ -472,55 +423,7 @@
       <PublishedFileId>806331071</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Bot_spawner">
-      <Name>2336089504.sbm</Name>
-      <PublishedFileId>2336089504</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="Scope Framework">
-      <Name>2754014019.sbm</Name>
-      <PublishedFileId>2754014019</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="AiEnabled v1.7">
-      <Name>2596208372.sbm</Name>
-      <PublishedFileId>2596208372</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="More Encounters - Content">
-      <Name>2411541991.sbm</Name>
-      <PublishedFileId>2411541991</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="Shower Light">
-      <Name>2841920953.sbm</Name>
-      <PublishedFileId>2841920953</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="In Depth LCDs">
-      <Name>2839553181.sbm</Name>
-      <PublishedFileId>2839553181</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="Assertive Loot">
-      <Name>2391318591.sbm</Name>
-      <PublishedFileId>2391318591</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="Text HUD API">
-      <Name>758597413.sbm</Name>
-      <PublishedFileId>758597413</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-      <IsDependency>true</IsDependency>
-    </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2023-09-22T22:03:56.6714353+00:00</LastSaveTime>
+  <LastSaveTime>2023-09-23T00:03:56.6714353+02:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>

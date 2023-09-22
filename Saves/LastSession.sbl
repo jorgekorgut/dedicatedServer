@@ -1,9 +1,8 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_LastSession xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Path>Z:\appdata\space-engineers\instances\DELTA\Saves\DELTA</Path>
+  <Path />
   <IsContentWorlds>false</IsContentWorlds>
   <IsOnline>false</IsOnline>
   <IsLobby>false</IsLobby>
-  <GameName>Star System</GameName>
   <ServerPort>0</ServerPort>
 </MyObjectBuilder_LastSession>
