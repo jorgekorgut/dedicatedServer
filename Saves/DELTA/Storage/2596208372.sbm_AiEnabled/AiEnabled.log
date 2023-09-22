@@ -1,0 +1,5 @@
+[04:43:43.024] [T1] [DS=True] DEBUG | Log Started (v1.7)
+[04:43:43.029] [T1] [DS=True] DEBUG | Defense Shields Mod found. API loaded successfully = True
+[04:43:43.037] [T1] [DS=True] DEBUG | WeaponCore Mod found. API loaded successfully = True
+[04:43:43.040] [T1] [DS=True] DEBUG |  -> No NPC-Safe WeaponCore Weapon Magazines found.
+[04:50:24.594] [T1] [DS=True] DEBUG | Mod setup completed in 0H 5M 31.6S

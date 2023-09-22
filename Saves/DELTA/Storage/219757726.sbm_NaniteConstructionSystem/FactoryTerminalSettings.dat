@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfSerializableKeyValuePairOfInt64NaniteTerminalSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SerializableKeyValuePairOfInt64NaniteTerminalSettings>
+    <Key>90897693879852595</Key>
+    <Value>
+      <AllowRepair>true</AllowRepair>
+      <AllowProjection>true</AllowProjection>
+      <AllowCleanup>true</AllowCleanup>
+      <AllowDeconstruct>true</AllowDeconstruct>
+      <AllowMining>false</AllowMining>
+      <AllowLifeSupport>false</AllowLifeSupport>
+      <MaxNanites>0</MaxNanites>
+      <UseAssemblers>true</UseAssemblers>
+    </Value>
+  </SerializableKeyValuePairOfInt64NaniteTerminalSettings>
+</ArrayOfSerializableKeyValuePairOfInt64NaniteTerminalSettings>

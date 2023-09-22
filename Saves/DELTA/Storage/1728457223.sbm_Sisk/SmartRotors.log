@@ -1,0 +1,4 @@
+[04:40:00:249] [I] [Sisk.SmartRotors.Mod->InitializeLogging()]: Logging initialized
+[04:40:00:269] [I] [Sisk.SmartRotors.Mod->InitializeNetwork()]: Initialize Network
+[04:40:00:278] [I] [Sisk.SmartRotors.Mod->InitializeNetwork()]: IsClient False, IsServer: True, IsDedicated: True
+[04:40:00:278] [I] [Sisk.SmartRotors.Mod->InitializeNetwork()]: Network initialized

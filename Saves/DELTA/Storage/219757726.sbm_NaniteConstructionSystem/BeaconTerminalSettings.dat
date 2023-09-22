@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfSerializableKeyValuePairOfInt64NaniteBeaconTerminalSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SerializableKeyValuePairOfInt64NaniteBeaconTerminalSettings>
+    <Key>118189794821773232</Key>
+    <Value>
+      <Height>200</Height>
+      <Width>200</Width>
+      <Depth>200</Depth>
+      <OffsetX>-60</OffsetX>
+      <OffsetY>-21</OffsetY>
+      <OffsetZ>-33</OffsetZ>
+      <RotationX>0</RotationX>
+      <RotationY>0</RotationY>
+      <RotationZ>0</RotationZ>
+      <HighlightArea>true</HighlightArea>
+      <AllowRepair>true</AllowRepair>
+      <AllowProjection>true</AllowProjection>
+      <AllowDeconstruction>true</AllowDeconstruction>
+    </Value>
+  </SerializableKeyValuePairOfInt64NaniteBeaconTerminalSettings>
+  <SerializableKeyValuePairOfInt64NaniteBeaconTerminalSettings>
+    <Key>102594447085469584</Key>
+    <Value>
+      <Height>200</Height>
+      <Width>200</Width>
+      <Depth>200</Depth>
+      <OffsetX>-52</OffsetX>
+      <OffsetY>-13</OffsetY>
+      <OffsetZ>-38</OffsetZ>
+      <RotationX>0</RotationX>
+      <RotationY>0</RotationY>
+      <RotationZ>0</RotationZ>
+      <HighlightArea>false</HighlightArea>
+      <AllowRepair>true</AllowRepair>
+      <AllowProjection>true</AllowProjection>
+      <AllowDeconstruction>true</AllowDeconstruction>
+    </Value>
+  </SerializableKeyValuePairOfInt64NaniteBeaconTerminalSettings>
+</ArrayOfSerializableKeyValuePairOfInt64NaniteBeaconTerminalSettings>
