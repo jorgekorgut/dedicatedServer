@@ -1,0 +1,68 @@
+[04:40:00] Initialized
+GameMode=Survival
+OnlineMode=PUBLIC
+Server=True
+DS=True
+Defined=STABLE, 
+[04:40:00] ### PaintGun v24
+[04:40:00] Loaded server settings:
+[ServerSettings]
+RequireAmmo=True
+PaintSpeedMultiplier=1
+ReplacePaintSurvival=False
+
+[04:40:00] Finding block skins...
+[04:40:00] Skin SubtypeId             Name                       DLCs                 Mod
+[04:40:00] ''                         No Skin                                         
+[04:40:00] 'Battered_Armor'           Battered                                        
+[04:40:00] 'CarbonFibre_Armor'        Carbon Fibre               StylePack            
+[04:40:00] 'Clean_Armor'              Clean                                           
+[04:40:00] 'Concrete_Armor'           Concrete                   ScrapRace            
+[04:40:00] 'Corrugated'               Corrugated                                      
+[04:40:00] 'CowMooFlage_Armor'        Cow Moo Flage                                   
+[04:40:00] 'DigitalCamouflage_Armor'  Digital Camouflage         StylePack            
+[04:40:00] 'Disco_Armor'              Disco                      Economy              
+[04:40:00] 'Dust_Armor'               Dust                       ScrapRace            
+[04:40:00] 'Frozen_Armor'             Frozen                     Frostbite            
+[04:40:00] 'Glamour_Armor'            Glamour                    Economy              
+[04:40:00] 'Golden_Armor'             Golden                     DeluxeEdition        
+[04:40:00] 'Hazard_Armor'             Hazard                     HeavyIndustry        
+[04:40:00] 'Heavy_Rust_Armor'         Heavy Rust                 ScrapRace            
+[04:40:00] 'Mossy_Armor'              Mossy                      StylePack            
+[04:40:00] 'Neon_Colorable_Lights'    Neon Colorable Lights      SparksOfTheFuture    
+[04:40:00] 'Neon_Colorable_Surface'   Neon Colorable Surface     SparksOfTheFuture    
+[04:40:00] 'Plastic'                  Plastic                    Automatons           
+[04:40:00] 'Retrofuture_Armor'        Retrofuture                ScrapRace            
+[04:40:00] 'Rusty_Armor'              Rusty                                           
+[04:40:00] 'SciFi_Armor'              Sci Fi                     SparksOfTheFuture    
+[04:40:00] 'Silver_Armor'             Silver                     Economy              
+[04:40:00] 'Wartorn'                  Wartorn                    DecorativeBlocks3    
+[04:40:00] 'Weldless'                 Weldless                                        
+[04:40:00] 'Wood_Armor'               Wood                       StylePack            
+[04:40:00] 'WoodlandCamo_Armor'       Woodland Camo              Warfare2             
+[04:50:05] PacketJoinSharePalette :: received $nower (76561198075966585)'s palette; Reply=True
+[04:50:05] + sending all players' palettes back to original sender.
+[15:18:20] PacketJoinSharePalette :: received Müller (76561198122072411)'s palette; Reply=True
+[15:18:20] + sending all players' palettes back to original sender.
+[15:18:20] PacketJoinSharePalette :: sending [NotFound!] (76561198075966585)'s palette to=76561198122072411.
+[15:26:54] PacketJoinSharePalette :: received $nower (76561198075966585)'s palette; Reply=True
+[15:26:54] + sending all players' palettes back to original sender.
+[15:26:54] PacketJoinSharePalette :: sending Müller (76561198122072411)'s palette to=76561198075966585.
+[18:15:21] PacketJoinSharePalette :: received Müller (76561198122072411)'s palette; Reply=True
+[18:15:21] + sending all players' palettes back to original sender.
+[18:15:21] PacketJoinSharePalette :: sending [NotFound!] (76561198075966585)'s palette to=76561198122072411.
+[19:27:27] PacketJoinSharePalette :: received Müller (76561198122072411)'s palette; Reply=True
+[19:27:27] + sending all players' palettes back to original sender.
+[19:27:27] PacketJoinSharePalette :: sending [NotFound!] (76561198075966585)'s palette to=76561198122072411.
+[21:45:51] PacketJoinSharePalette :: received Moura (76561199013252938)'s palette; Reply=True
+[21:45:51] + sending all players' palettes back to original sender.
+[21:45:51] PacketJoinSharePalette :: sending [NotFound!] (76561198075966585)'s palette to=76561199013252938.
+[21:45:51] PacketJoinSharePalette :: sending [NotFound!] (76561198122072411)'s palette to=76561199013252938.
+[21:49:26] PacketJoinSharePalette :: received Müller (76561198122072411)'s palette; Reply=True
+[21:49:26] + sending all players' palettes back to original sender.
+[21:49:26] PacketJoinSharePalette :: sending [NotFound!] (76561198075966585)'s palette to=76561198122072411.
+[21:49:26] PacketJoinSharePalette :: sending Moura (76561199013252938)'s palette to=76561198122072411.
+[21:59:30] PacketJoinSharePalette :: received Moura (76561199013252938)'s palette; Reply=True
+[21:59:30] + sending all players' palettes back to original sender.
+[21:59:30] PacketJoinSharePalette :: sending [NotFound!] (76561198075966585)'s palette to=76561199013252938.
+[21:59:30] PacketJoinSharePalette :: sending Müller (76561198122072411)'s palette to=76561199013252938.

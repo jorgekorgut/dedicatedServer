@@ -1,0 +1,5 @@
+09-22-23_04-12-13-248 - Logging Started
+04-19-30-757 - (NINFO) - <ClientAiAdd> packets:[1] dataTransfer:[22] validPackets:[1] invalidPackets:[0] serverReceive:[1(True)] clientReceive:[0] unknownReceive:[0]
+04-20-34-370 - (NINFO) - <ClientAiAdd> packets:[1] dataTransfer:[22] validPackets:[1] invalidPackets:[0] serverReceive:[1(True)] clientReceive:[0] unknownReceive:[0]
+04-21-41-175 - (NINFO) - <ClientAiAdd> packets:[2] dataTransfer:[44] validPackets:[2] invalidPackets:[0] serverReceive:[2(True)] clientReceive:[0] unknownReceive:[0]
+04-28-11-616 - (NINFO) - <ClientAiAdd> packets:[4] dataTransfer:[88] validPackets:[4] invalidPackets:[0] serverReceive:[4(True)] clientReceive:[0] unknownReceive:[0]

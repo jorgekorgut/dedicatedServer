@@ -1,0 +1,74 @@
+GridName, MainOwner, TotalDamage, PrimaryDamage, AOEDamage, ShieldDamage, ProjectileDamage
+Cloverleaf Raider, , 125542, 87242, 38300, 0, 0
+(NPC-ACS) Wasp Drone, , 119108, 119108, 0, 0, 0
+(NPC-ACS) Wasp Drone, , 109714, 93733, 15981, 0, 0
+The Little Sea Rover, , 41780, 40048, 1732, 0, 0
+(NPC-ACS) WKZ-LG Masque 01-AT2, , 1144859, 223351, 478722, 442786, 0
+(NPC-AI) Drone Repair Facility #04, , 2530, 1980, 550, 0, 0
+(NPC-AI) Research Base #44, , 28800, 28800, 0, 0, 0
+Cloverleaf Raider, , 171678, 32734, 138944, 0, 0
+The Little Sea Rover, , 190096, 117915, 72181, 0, 0
+Static Grid 1249, , 1731242, 405952, 428194, 897096, 0
+[Keen]-Cursor-Mk1, , 96053, 3, 93298, 2752, 0
+(NPC-PLX) Ward of Lothian, , 101, 0, 0, 0, 101
+(NPC-ACS) THI-430-B Thrush, , 62, 0, 0, 0, 62
+(NPC-ACS) Iapetus 01-AT2, , 370, 0, 0, 0, 370
+Cloverleaf Raider, , 41393, 41337, 56, 0, 0
+(NPC-ACS) Sunflower-SF5, , 146195, 54748, 0, 91447, 0
+The Little Sea Rover, , 78171, 2, 67602, 10567, 0
+The Little Sea Rover, , 2040, 0, 0, 2040, 0
+(NPC-ACS) Buzzard Mk.07-T, , 452987, 338260, 14442, 100285, 0
+[SEMS]-Arrowhead-Mk-1, , 12010, 11962, 48, 0, 0
+(NPC-ACS) 'Humboldt' Exploration Ship 02, , 809467, 519669, 0, 289752, 46
+The Little Sea Rover, , 18980, 17680, 1300, 0, 0
+The Little Sea Rover, , 137835, 110855, 0, 26980, 0
+The Little Sea Rover, , 3625, 3553, 72, 0, 0
+Cloverleaf Raider, , 1440, 448, 992, 0, 0
+[VC]-Strike-Fighter, , 11008, 0, 0, 11008, 0
+[SEMS]-Arrowhead-Mk-1, , 104471, 7, 16400, 88064, 0
+[SEMS]-Arrowhead-Mk-1, , 6706, 6706, 0, 0, 0
+[SEMS]-Arrowhead-Mk-1, , 174644, 27816, 0, 146828, 0
+[SEMS]-Arrowhead-Mk-1, , 159080, 10502, 148578, 0, 0
+[ISL]-Atlas-AO-720, , 76708, 65151, 11557, 0, 0
+(NPC-IBR) Fortress Tower, , 101395, 55340, 0, 46055, 0
+(NPC-IBR) Defense Installation, , 37698, 6951, 4748, 25999, 0
+(NPC-IBR) Defense Installation, , 81345, 2, 71558, 9785, 0
+(NPC-IBR) Defense Installation, , 718669, 258536, 0, 460133, 0
+[VC]-Strike-Fighter, , 72643, 6021, 23800, 42822, 0
+(NPC-ACS) Sunflower-SF5-AT2, , 103960, 93880, 0, 10080, 0
+[SEMS]-Arrowhead-Mk-1, , 291831, 137271, 129500, 25057, 3
+(NPC-ACS) Cubiculus One-AT1, , 530111, 293370, 135130, 101611, 0
+[SEMS]-Arrowhead-Mk-1, , 140373, 100123, 0, 40250, 0
+(NPC-ACS) Panini Sidecar 02, , 565155, 511102, 54053, 0, 0
+(NPC-AI) Research Base #43, , 10957, 7364, 400, 3193, 0
+(NPC-AI) Research Base #43, , 190163, 37040, 0, 153107, 16
+The Little Sea Rover, , 123728, 121504, 2224, 0, 0
+(NPC-IBR) Mobile Drilling Platform, , 147044, 111243, 0, 35801, 0
+(NPC-ACS) Peon-AT2, , 4, 0, 0, 0, 4
+(NPC-ACS) The Stingray 01, , 2, 0, 0, 0, 2
+(NPC-IBR) Transport Courier, , 2773753, 36591, 57535, 2679627, 0
+(NPC-IBR) Escort Drone, , 68318, 44289, 0, 24029, 0
+[VC]-Strike-Fighter, , 277247, 38163, 66078, 173006, 0
+(NPC-IBR) Escort Drone, , 19741, 2025, 0, 17716, 0
+[VC]-Strike-Fighter, , 87541, 14720, 43750, 29071, 0
+(NPC-ACS) Mosquito Drone, , 39672, 0, 0, 39672, 0
+(NPC-ACS) Mosquito Drone, , 1134, 0, 0, 1134, 0
+(NPC-ACS) Carryall 01-AT1, , 783277, 226, 0, 783051, 0
+(NPC-IBR) Sky Factory, , 1052145, 86644, 771944, 193383, 174
+(NPC-PLX) Arrowhead, , 38, 0, 0, 0, 38
+(NPC-PLX) Arrowhead, , 20, 0, 0, 0, 20
+[VC]-Strike-Fighter, , 75407, 40757, 34650, 0, 0
+[VC]-Strike-Fighter, , 79363, 54613, 24750, 0, 0
+[VC]-Strike-Fighter, , 29864, 10873, 18991, 0, 0
+[VC]-Strike-Fighter, , 119337, 17434, 0, 101903, 0
+(NPC-ACS) WKZ-LG Mjolnir 01-AT2, , 449141, 0, 0, 449130, 11
+(NPC-PLX) Frontier Outpost, , 1397252, 409162, 51379, 936564, 147
+(NPC-PLX) Heroes Pride, , 969389, 169759, 556013, 243617, 0
+(NPC-PLX) Heroes Pride, , 59920, 9274, 22812, 27834, 0
+(NPC-ACS) WKZ-LG Mercury-AT2, , 1503548, 198041, 757023, 548484, 0
+(NPC-PLX) Oban Tide Mk2, , 183615, 104797, 8236, 70582, 0
+(NPC-ACS) Peon, , 87038, 18851, 0, 68187, 0
+[Keen]-Thunderhog, , 157238, 44979, 144, 112115, 0
+ [Junk]-Junker-Space-Drone, , 337610, 212691, 108500, 16419, 0
+ [Junk]-Junker-Space-Drone, , 376921, 231456, 9408, 136057, 0
+(NPC-ACS) WKZ-LG Bio-weapon Transport, , 878359, 4537, 809090, 64728, 4

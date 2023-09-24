@@ -1,0 +1,532 @@
+092223-23:27:06:9188    FactionCore    RegisterEarly Complete... NoUpdate
+092223-23:28:05:0782    RelationshipManager    Constructing!
+092223-23:28:05:1328    FactionsDump    enforcementDictionary:	284179457810047125	UCMF
+092223-23:28:05:1330    FactionsDump    enforcementDictionary:	240660586638177550	SEPD
+092223-23:28:05:1330    FactionsDump    lawfulDictionary:	220784628216473383	CIVL
+092223-23:28:05:1330    FactionsDump    lawfulDictionary:	284179457810047125	UCMF
+092223-23:28:05:1330    FactionsDump    lawfulDictionary:	240660586638177550	SEPD
+092223-23:28:05:1331    FactionsDump    lawfulDictionary:	251724014794291522	ISTG
+092223-23:28:05:1331    FactionsDump    lawfulDictionary:	273870961303768452	AMPH
+092223-23:28:05:1331    FactionsDump    lawfulDictionary:	267398996571602432	KUSS
+092223-23:28:05:1331    FactionsDump    lawfulDictionary:	255205594046527825	HS
+092223-23:28:05:1331    FactionsDump    lawfulDictionary:	240013388734726818	MA-I
+092223-23:28:05:1331    FactionsDump    lawfulDictionary:	255337593422843459	EXMC
+092223-23:28:05:1331    FactionsDump    lawfulDictionary:	234189767961712876	IMDC
+092223-23:28:05:1331    FactionsDump    pirateDictionary:	273060811546874192	SPRT
+092223-23:28:05:1331    FactionsDump    pirateDictionary:	230005086136561203	MMEC
+092223-23:28:05:1331    FactionsDump    npcDictionary:	273060811546874192	SPRT
+092223-23:28:05:1331    FactionsDump    npcDictionary:	220784628216473383	CIVL
+092223-23:28:05:1331    FactionsDump    npcDictionary:	284179457810047125	UCMF
+092223-23:28:05:1331    FactionsDump    npcDictionary:	240660586638177550	SEPD
+092223-23:28:05:1331    FactionsDump    npcDictionary:	251724014794291522	ISTG
+092223-23:28:05:1331    FactionsDump    npcDictionary:	230005086136561203	MMEC
+092223-23:28:05:1331    FactionsDump    npcDictionary:	273870961303768452	AMPH
+092223-23:28:05:1332    FactionsDump    npcDictionary:	267398996571602432	KUSS
+092223-23:28:05:1332    FactionsDump    npcDictionary:	255205594046527825	HS
+092223-23:28:05:1332    FactionsDump    npcDictionary:	240013388734726818	MA-I
+092223-23:28:05:1332    FactionsDump    npcDictionary:	255337593422843459	EXMC
+092223-23:28:05:1332    FactionsDump    npcDictionary:	234189767961712876	IMDC
+092223-23:28:05:1332    FactionsDump    _nonEemNpcFactionDictionary:	270184222006364636	SPID
+092223-23:28:05:1332    FactionsDump    _nonEemNpcFactionDictionary:	238541583554611769	PARALLAX
+092223-23:28:05:1332    FactionsDump    _nonEemNpcFactionDictionary:	269939021752338114	ASSERT
+092223-23:28:05:1332    FactionsDump    _nonEemNpcFactionDictionary:	286114054273501418	IMBER
+092223-23:28:05:1332    FactionsDump    _nonEemNpcFactionDictionary:	282917851827572590	CORRUPT
+092223-23:28:05:1332    FactionsDump    _nonEemNpcFactionDictionary:	260052935521577410	ISLF
+092223-23:28:05:1332    FactionsDump    _nonEemNpcFactionDictionary:	227816149238607166	Junk
+092223-23:28:05:1332    FactionsDump    _nonEemNpcFactionDictionary:	287903586359121113	SEMS
+092223-23:28:05:1332    FactionsDump    _nonEemNpcFactionDictionary:	256641049513017746	VCOR
+092223-23:28:05:1332    FactionsDump    _nonEemNpcFactionDictionary:	255124585487003545	ORKS
+092223-23:28:05:1333    FactionsDump    _nonEemNpcFactionDictionary:	259043858399849837	NOMAD
+092223-23:28:05:1333    FactionsDump    _nonEemNpcFactionDictionary:	276579543805912165	BINC
+092223-23:28:05:1333    FactionsDump    _nonEemNpcFactionDictionary:	224858799482786218	SCDS
+092223-23:28:05:1333    FactionsDump    _nonEemNpcFactionDictionary:	248462078414672990	OTFI
+092223-23:28:05:1333    FactionsDump    _nonEemNpcFactionDictionary:	268162821607750026	UNIT
+092223-23:28:05:1333    FactionsDump    _nonEemNpcFactionDictionary:	216271827404255272	BLBT
+092223-23:28:05:1333    FactionsDump    _nonEemNpcFactionDictionary:	225890921479700249	LEGN
+092223-23:28:05:1333    FactionsDump    _nonEemNpcFactionDictionary:	225167058632684111	OBSD
+092223-23:28:05:1333    FactionsDump    _nonEemNpcFactionDictionary:	234603578368014962	FLWR
+092223-23:28:05:1333    FactionsDump    _nonEemNpcFactionDictionary:	244415395926804248	AZRE
+092223-23:28:05:1333    FactionsDump    _nonEemNpcFactionDictionary:	278886646639432147	RSBC
+092223-23:28:05:1333    FactionsDump    _nonEemNpcFactionDictionary:	217167608058499927	ENGR
+092223-23:28:05:1333    FactionsDump    _nonEemNpcFactionDictionary:	236677238820809680	MDFR
+092223-23:28:05:1333    FactionsDump    _nonEemNpcFactionDictionary:	220727698288071485	ALPB
+092223-23:28:05:1334    FactionsDump    _nonEemNpcFactionDictionary:	270689215079835470	DMGD
+092223-23:28:05:1334    FactionsDump    _nonEemNpcFactionDictionary:	228638415247156572	BTTL
+092223-23:28:05:1334    FactionsDump    _nonEemNpcFactionDictionary:	239404371167848067	MCHB
+092223-23:28:05:1334    FactionsDump    _nonEemNpcFactionDictionary:	240886784583789769	PRME
+092223-23:28:05:1334    FactionsDump    _nonEemNpcFactionDictionary:	273546591127278658	PREN
+092223-23:28:05:1334    FactionsDump    _nonEemNpcFactionDictionary:	229935403711246570	SENT
+092223-23:28:05:1334    FactionsDump    _nonEemNpcFactionDictionary:	285480544908475559	JKHP
+092223-23:28:05:1334    FactionsDump    _nonEemNpcFactionDictionary:	244221854089502869	RCDR
+092223-23:28:05:1334    FactionsDump    _nonEemNpcFactionDictionary:	243839378086995790	OPER
+092223-23:28:05:1334    FactionsDump    _nonEemNpcFactionDictionary:	284366740910703067	MTLM
+092223-23:28:05:1334    FactionsDump    _nonEemNpcFactionDictionary:	224143417929842620	CRTG
+092223-23:28:05:1334    FactionsDump    _nonEemNpcFactionDictionary:	262984974113498397	FIBR
+092223-23:28:05:1334    FactionsDump    _nonEemNpcFactionDictionary:	240052823377440589	PCKP
+092223-23:28:05:1334    FactionsDump    _nonEemNpcFactionDictionary:	268145936720125849	FGHT
+092223-23:28:05:1334    FactionsDump    _nonEemNpcFactionDictionary:	238161035691786606	FUTR
+092223-23:28:05:1334    FactionsDump    _nonEemNpcFactionDictionary:	233227301506718090	CLBT
+092223-23:28:05:1335    FactionsDump    _nonEemNpcFactionDictionary:	224778148976568410	BLDR
+092223-23:28:05:1335    FactionsDump    _nonEemNpcFactionDictionary:	267702663186683626	CLTR
+092223-23:28:05:1335    FactionsDump    _nonEemNpcFactionDictionary:	220793548169936172	OBSR
+092223-23:28:05:1335    FactionsDump    _nonEemNpcFactionDictionary:	237105197304509209	SPMG
+092223-23:28:05:1335    FactionsDump    _nonEemNpcFactionDictionary:	286861261084402261	STDC
+092223-23:28:05:1335    FactionsDump    _nonEemNpcFactionDictionary:	282970412586879587	ISMN
+092223-23:28:05:1335    FactionsDump    _nonEemNpcFactionDictionary:	243156747821569350	UNSR
+092223-23:28:05:1335    FactionsDump    _nonEemNpcFactionDictionary:	246864556685945054	RODC
+092223-23:28:05:1335    FactionsDump    _nonEemNpcFactionDictionary:	286619172940582937	MEMN
+092223-23:28:05:1335    FactionsDump    _nonEemNpcFactionDictionary:	224717848976317590	RLTC
+092223-23:28:05:1335    FactionsDump    _nonEemNpcFactionDictionary:	280153872264522761	STHS
+092223-23:28:05:1335    FactionsDump    _nonEemNpcFactionDictionary:	222996635449604896	UVAL
+092223-23:28:05:1335    FactionsDump    _nonEemNpcFactionDictionary:	221336740270035660	DVSL
+092223-23:28:05:1335    FactionsDump    _nonEemNpcFactionDictionary:	264532845744326239	UNWE
+092223-23:28:05:1335    FactionsDump    _nonEemNpcFactionDictionary:	278969770977540981	SCIN
+092223-23:28:05:1335    FactionsDump    _nonEemNpcFactionDictionary:	255499851435024197	IMMA
+092223-23:28:05:1336    FactionsDump    _nonEemNpcFactionDictionary:	236727615770942486	DVSB
+092223-23:28:05:1336    FactionsDump    _nonEemNpcFactionDictionary:	286207551837461775	SMSB
+092223-23:28:05:1336    FactionsDump    playerDictionary:	262145205765407714	DLT
+092223-23:28:05:1343    RelationshipManager    Constructed!
+092223-23:28:05:1344    FactionCore    Initialized... BeforeSimulation
+092223-23:30:37:9421    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856132	senderId:	0	
+092223-23:30:37:9487    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856132	senderId:	0	
+092223-23:30:38:0907    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856133	senderId:	0	
+092223-23:30:38:0908    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856133	senderId:	0	
+092223-23:30:38:1183    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856134	senderId:	0	
+092223-23:30:38:1184    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856134	senderId:	0	
+092223-23:30:38:1545    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856135	senderId:	0	
+092223-23:30:38:1547    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856135	senderId:	0	
+092223-23:30:38:3774    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856136	senderId:	0	
+092223-23:30:38:3774    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856136	senderId:	0	
+092223-23:30:43:5793    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856137	senderId:	0	
+092223-23:30:43:5794    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856137	senderId:	0	
+092223-23:30:43:6281    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856138	senderId:	0	
+092223-23:30:43:6281    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856138	senderId:	0	
+092223-23:30:43:6420    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856139	senderId:	0	
+092223-23:30:43:6421    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856139	senderId:	0	
+092223-23:30:43:6546    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856140	senderId:	0	
+092223-23:30:43:6546    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856140	senderId:	0	
+092223-23:30:43:6735    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856141	senderId:	0	
+092223-23:30:43:6736    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856141	senderId:	0	
+092223-23:30:48:9995    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856142	senderId:	0	
+092223-23:30:49:0001    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856142	senderId:	0	
+092223-23:30:49:0236    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856143	senderId:	0	
+092223-23:30:49:0237    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856143	senderId:	0	
+092223-23:30:49:0500    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856144	senderId:	0	
+092223-23:30:49:0502    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856144	senderId:	0	
+092223-23:30:49:0718    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856145	senderId:	0	
+092223-23:30:49:0718    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856145	senderId:	0	
+092223-23:30:49:1004    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856146	senderId:	0	
+092223-23:30:49:1006    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856146	senderId:	0	
+092223-23:30:54:3417    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856147	senderId:	0	
+092223-23:30:54:3426    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856147	senderId:	0	
+092223-23:30:54:3626    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856148	senderId:	0	
+092223-23:30:54:3627    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856148	senderId:	0	
+092223-23:30:54:5555    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856149	senderId:	0	
+092223-23:30:54:5557    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856149	senderId:	0	
+092223-23:30:54:5856    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856150	senderId:	0	
+092223-23:30:54:5856    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856150	senderId:	0	
+092223-23:30:54:6072    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856151	senderId:	0	
+092223-23:30:54:6073    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856151	senderId:	0	
+092223-23:31:49:9109    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856152	senderId:	0	
+092223-23:31:49:9110    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856152	senderId:	0	
+092223-23:31:49:9330    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856153	senderId:	0	
+092223-23:31:49:9332    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856153	senderId:	0	
+092223-23:31:49:9594    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856154	senderId:	0	
+092223-23:31:49:9595    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856154	senderId:	0	
+092223-23:31:49:9905    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856155	senderId:	0	
+092223-23:31:49:9906    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856155	senderId:	0	
+092223-23:31:50:0258    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856156	senderId:	0	
+092223-23:31:50:0259    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856156	senderId:	0	
+092223-23:31:55:1725    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856157	senderId:	0	
+092223-23:31:55:1732    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856157	senderId:	0	
+092223-23:31:55:2022    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856158	senderId:	0	
+092223-23:31:55:2023    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856158	senderId:	0	
+092223-23:31:55:4010    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856159	senderId:	0	
+092223-23:31:55:4017    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856159	senderId:	0	
+092223-23:31:55:4328    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856160	senderId:	0	
+092223-23:31:55:4329    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856160	senderId:	0	
+092223-23:31:55:4584    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856161	senderId:	0	
+092223-23:31:55:4586    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856161	senderId:	0	
+092223-23:32:00:6314    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856162	senderId:	0	
+092223-23:32:00:6315    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856162	senderId:	0	
+092223-23:32:00:6575    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856163	senderId:	0	
+092223-23:32:00:6578    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856163	senderId:	0	
+092223-23:32:00:6727    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856164	senderId:	0	
+092223-23:32:00:6728    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856164	senderId:	0	
+092223-23:32:00:6942    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856165	senderId:	0	
+092223-23:32:00:6942    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856165	senderId:	0	
+092223-23:32:00:7258    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856166	senderId:	0	
+092223-23:32:00:7260    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856166	senderId:	0	
+092223-23:32:06:0498    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856167	senderId:	0	
+092223-23:32:06:0501    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856167	senderId:	0	
+092223-23:32:06:0781    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856168	senderId:	0	
+092223-23:32:06:0781    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856168	senderId:	0	
+092223-23:32:06:0910    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856169	senderId:	0	
+092223-23:32:06:0911    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856169	senderId:	0	
+092223-23:32:06:1208    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856170	senderId:	0	
+092223-23:32:06:1208    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856170	senderId:	0	
+092223-23:32:06:1507    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856171	senderId:	0	
+092223-23:32:06:1508    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856171	senderId:	0	
+092223-23:34:03:9381    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856172	senderId:	0	
+092223-23:34:03:9382    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856172	senderId:	0	
+092223-23:34:03:9582    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856173	senderId:	0	
+092223-23:34:03:9583    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856173	senderId:	0	
+092223-23:34:03:9822    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856174	senderId:	0	
+092223-23:34:03:9823    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856174	senderId:	0	
+092223-23:34:04:0162    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856175	senderId:	0	
+092223-23:34:04:0172    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856175	senderId:	0	
+092223-23:34:04:0468    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856176	senderId:	0	
+092223-23:34:04:0469    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856176	senderId:	0	
+092223-23:34:09:3799    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856177	senderId:	0	
+092223-23:34:09:3800    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856177	senderId:	0	
+092223-23:34:09:4000    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856178	senderId:	0	
+092223-23:34:09:4000    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856178	senderId:	0	
+092223-23:34:09:4300    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856179	senderId:	0	
+092223-23:34:09:4301    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856179	senderId:	0	
+092223-23:34:09:4444    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856180	senderId:	0	
+092223-23:34:09:4446    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856180	senderId:	0	
+092223-23:34:09:4668    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856181	senderId:	0	
+092223-23:34:09:4668    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856181	senderId:	0	
+092223-23:34:16:1750    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856182	senderId:	0	
+092223-23:34:16:1750    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856182	senderId:	0	
+092223-23:34:16:1912    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856183	senderId:	0	
+092223-23:34:16:1913    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856183	senderId:	0	
+092223-23:34:16:3855    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856184	senderId:	0	
+092223-23:34:16:3855    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856184	senderId:	0	
+092223-23:34:16:4035    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856185	senderId:	0	
+092223-23:34:16:4036    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856185	senderId:	0	
+092223-23:34:16:4247    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856186	senderId:	0	
+092223-23:34:16:4247    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856186	senderId:	0	
+092223-23:34:20:3395    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856187	senderId:	0	
+092223-23:34:20:3395    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856187	senderId:	0	
+092223-23:34:20:3633    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856188	senderId:	0	
+092223-23:34:20:3635    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856188	senderId:	0	
+092223-23:34:20:3930    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856189	senderId:	0	
+092223-23:34:20:3930    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856189	senderId:	0	
+092223-23:34:20:4125    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856190	senderId:	0	
+092223-23:34:20:4126    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856190	senderId:	0	
+092223-23:34:20:4424    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856191	senderId:	0	
+092223-23:34:20:4425    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856191	senderId:	0	
+092323-13:37:15:8946    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856192	senderId:	0	
+092323-13:37:15:8947    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856192	senderId:	0	
+092323-13:37:15:9212    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856193	senderId:	0	
+092323-13:37:15:9212    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856193	senderId:	0	
+092323-13:37:15:9393    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856194	senderId:	0	
+092323-13:37:15:9400    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856194	senderId:	0	
+092323-13:37:15:9548    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856195	senderId:	0	
+092323-13:37:15:9548    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856195	senderId:	0	
+092323-13:37:15:9809    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856196	senderId:	0	
+092323-13:37:15:9810    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856196	senderId:	0	
+092323-13:37:21:1481    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856197	senderId:	0	
+092323-13:37:21:1481    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856197	senderId:	0	
+092323-13:37:21:3502    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856198	senderId:	0	
+092323-13:37:21:3503    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856198	senderId:	0	
+092323-13:37:21:3741    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856199	senderId:	0	
+092323-13:37:21:3741    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856199	senderId:	0	
+092323-13:37:21:3943    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856200	senderId:	0	
+092323-13:37:21:3944    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856200	senderId:	0	
+092323-13:37:21:4151    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856201	senderId:	0	
+092323-13:37:21:4152    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856201	senderId:	0	
+092323-13:37:26:7560    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856202	senderId:	0	
+092323-13:37:26:7570    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856202	senderId:	0	
+092323-13:37:26:7856    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856203	senderId:	0	
+092323-13:37:26:7857    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856203	senderId:	0	
+092323-13:37:26:7995    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856204	senderId:	0	
+092323-13:37:26:7995    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856204	senderId:	0	
+092323-13:37:26:8264    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856205	senderId:	0	
+092323-13:37:26:8265    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856205	senderId:	0	
+092323-13:37:26:8449    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856206	senderId:	0	
+092323-13:37:26:8450    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856206	senderId:	0	
+092323-13:37:32:2041    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856207	senderId:	0	
+092323-13:37:32:2044    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856207	senderId:	0	
+092323-13:37:32:2323    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856208	senderId:	0	
+092323-13:37:32:2324    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856208	senderId:	0	
+092323-13:37:32:2507    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856209	senderId:	0	
+092323-13:37:32:2507    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856209	senderId:	0	
+092323-13:37:32:2663    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856210	senderId:	0	
+092323-13:37:32:2663    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856210	senderId:	0	
+092323-13:37:32:2944    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856211	senderId:	0	
+092323-13:37:32:2945    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856211	senderId:	0	
+092323-16:32:43:5789    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856212	senderId:	0	
+092323-16:32:43:5790    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856212	senderId:	0	
+092323-16:32:43:5985    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856213	senderId:	0	
+092323-16:32:43:5985    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856213	senderId:	0	
+092323-16:32:43:6296    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856214	senderId:	0	
+092323-16:32:43:6297    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856214	senderId:	0	
+092323-16:32:43:6562    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856215	senderId:	0	
+092323-16:32:43:6563    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856215	senderId:	0	
+092323-16:32:43:6777    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856216	senderId:	0	
+092323-16:32:43:6779    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856216	senderId:	0	
+092323-16:32:49:0263    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856217	senderId:	0	
+092323-16:32:49:0270    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856217	senderId:	0	
+092323-16:32:49:0548    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856218	senderId:	0	
+092323-16:32:49:0548    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856218	senderId:	0	
+092323-16:32:49:0856    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856219	senderId:	0	
+092323-16:32:49:0857    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856219	senderId:	0	
+092323-16:32:49:1190    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856220	senderId:	0	
+092323-16:32:49:1191    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856220	senderId:	0	
+092323-16:32:49:1521    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856221	senderId:	0	
+092323-16:32:49:1523    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856221	senderId:	0	
+092323-16:32:54:4635    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856222	senderId:	0	
+092323-16:32:54:4647    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856222	senderId:	0	
+092323-16:32:54:4934    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856223	senderId:	0	
+092323-16:32:54:4936    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856223	senderId:	0	
+092323-16:32:54:5185    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856224	senderId:	0	
+092323-16:32:54:5186    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856224	senderId:	0	
+092323-16:32:54:5332    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856225	senderId:	0	
+092323-16:32:54:5333    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856225	senderId:	0	
+092323-16:32:54:5517    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856226	senderId:	0	
+092323-16:32:54:5519    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856226	senderId:	0	
+092323-16:32:59:7335    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856227	senderId:	0	
+092323-16:32:59:7336    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856227	senderId:	0	
+092323-16:32:59:9338    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856228	senderId:	0	
+092323-16:32:59:9339    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856228	senderId:	0	
+092323-16:32:59:9556    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856229	senderId:	0	
+092323-16:32:59:9558    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856229	senderId:	0	
+092323-16:32:59:9839    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856230	senderId:	0	
+092323-16:32:59:9841    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856230	senderId:	0	
+092323-16:33:00:0125    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856231	senderId:	0	
+092323-16:33:00:0126    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856231	senderId:	0	
+092323-17:18:51:5358    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856233	senderId:	0	
+092323-17:18:51:5359    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856233	senderId:	0	
+092323-17:18:51:5749    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856234	senderId:	0	
+092323-17:18:51:5749    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856234	senderId:	0	
+092323-17:18:51:6126    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856235	senderId:	0	
+092323-17:18:51:6128    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856235	senderId:	0	
+092323-17:18:51:6437    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856236	senderId:	0	
+092323-17:18:51:6439    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856236	senderId:	0	
+092323-17:18:51:8562    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856237	senderId:	0	
+092323-17:18:51:8562    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856237	senderId:	0	
+092323-17:18:57:2342    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856238	senderId:	0	
+092323-17:18:57:2347    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856238	senderId:	0	
+092323-17:18:57:4511    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856239	senderId:	0	
+092323-17:18:57:4513    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856239	senderId:	0	
+092323-17:18:57:4778    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856240	senderId:	0	
+092323-17:18:57:4778    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856240	senderId:	0	
+092323-17:18:57:4957    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856241	senderId:	0	
+092323-17:18:57:4958    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856241	senderId:	0	
+092323-17:18:57:5260    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856242	senderId:	0	
+092323-17:18:57:5260    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856242	senderId:	0	
+092323-17:19:03:0808    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856243	senderId:	0	
+092323-17:19:03:0809    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856243	senderId:	0	
+092323-17:19:03:1163    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856244	senderId:	0	
+092323-17:19:03:1165    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856244	senderId:	0	
+092323-17:19:03:1383    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856245	senderId:	0	
+092323-17:19:03:1383    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856245	senderId:	0	
+092323-17:19:03:1713    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856246	senderId:	0	
+092323-17:19:03:1715    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856246	senderId:	0	
+092323-17:19:03:2020    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856247	senderId:	0	
+092323-17:19:03:2021    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856247	senderId:	0	
+092323-17:19:08:7617    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856248	senderId:	0	
+092323-17:19:08:7618    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856248	senderId:	0	
+092323-17:19:08:7943    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856249	senderId:	0	
+092323-17:19:08:7944    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856249	senderId:	0	
+092323-17:19:08:8257    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856250	senderId:	0	
+092323-17:19:08:8258    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856250	senderId:	0	
+092323-17:19:08:8558    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856251	senderId:	0	
+092323-17:19:08:8559    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856251	senderId:	0	
+092323-17:19:08:8917    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856252	senderId:	0	
+092323-17:19:08:8917    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856252	senderId:	0	
+092323-21:14:22:7598    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856253	senderId:	0	
+092323-21:14:22:7599    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856253	senderId:	0	
+092323-21:14:22:9838    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856254	senderId:	0	
+092323-21:14:22:9840    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856254	senderId:	0	
+092323-21:14:23:0105    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856255	senderId:	0	
+092323-21:14:23:0106    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856255	senderId:	0	
+092323-21:14:23:0386    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856256	senderId:	0	
+092323-21:14:23:0387    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856256	senderId:	0	
+092323-21:14:23:0622    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856257	senderId:	0	
+092323-21:14:23:0622    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856257	senderId:	0	
+092323-21:14:28:3930    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856258	senderId:	0	
+092323-21:14:28:3932    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856258	senderId:	0	
+092323-21:14:28:4146    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856259	senderId:	0	
+092323-21:14:28:4146    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856259	senderId:	0	
+092323-21:14:28:4344    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856260	senderId:	0	
+092323-21:14:28:4346    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856260	senderId:	0	
+092323-21:14:28:4653    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856261	senderId:	0	
+092323-21:14:28:4654    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856261	senderId:	0	
+092323-21:14:28:4910    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856262	senderId:	0	
+092323-21:14:28:4911    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856262	senderId:	0	
+092323-21:14:33:8890    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856263	senderId:	0	
+092323-21:14:33:8891    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856263	senderId:	0	
+092323-21:14:33:9227    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856264	senderId:	0	
+092323-21:14:33:9229    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856264	senderId:	0	
+092323-21:14:33:9436    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856265	senderId:	0	
+092323-21:14:33:9436    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856265	senderId:	0	
+092323-21:14:33:9769    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856266	senderId:	0	
+092323-21:14:33:9770    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856266	senderId:	0	
+092323-21:14:34:1791    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856267	senderId:	0	
+092323-21:14:34:1793    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856267	senderId:	0	
+092323-21:14:39:5441    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856268	senderId:	0	
+092323-21:14:39:5442    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856268	senderId:	0	
+092323-21:14:39:5634    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856269	senderId:	0	
+092323-21:14:39:5636    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856269	senderId:	0	
+092323-21:14:39:5950    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856270	senderId:	0	
+092323-21:14:39:5950    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856270	senderId:	0	
+092323-21:14:39:6143    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856271	senderId:	0	
+092323-21:14:39:6143    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856271	senderId:	0	
+092323-21:14:39:6350    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856272	senderId:	0	
+092323-21:14:39:6351    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856272	senderId:	0	
+092323-21:23:00:6603    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856273	senderId:	0	
+092323-21:23:00:6604    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856273	senderId:	0	
+092323-21:23:00:8858    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856274	senderId:	0	
+092323-21:23:00:8859    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856274	senderId:	0	
+092323-21:23:00:9233    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856275	senderId:	0	
+092323-21:23:00:9234    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856275	senderId:	0	
+092323-21:23:00:9508    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856276	senderId:	0	
+092323-21:23:00:9509    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856276	senderId:	0	
+092323-21:23:00:9822    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856277	senderId:	0	
+092323-21:23:00:9823    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856277	senderId:	0	
+092323-21:23:06:3457    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856278	senderId:	0	
+092323-21:23:06:3458    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856278	senderId:	0	
+092323-21:23:06:4073    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856279	senderId:	0	
+092323-21:23:06:4074    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856279	senderId:	0	
+092323-21:23:06:6415    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856280	senderId:	0	
+092323-21:23:06:6416    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856280	senderId:	0	
+092323-21:23:06:6875    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856281	senderId:	0	
+092323-21:23:06:6875    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856281	senderId:	0	
+092323-21:23:06:7389    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856282	senderId:	0	
+092323-21:23:06:7390    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856282	senderId:	0	
+092323-21:23:12:1590    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856283	senderId:	0	
+092323-21:23:12:1603    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856283	senderId:	0	
+092323-21:23:12:3788    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856284	senderId:	0	
+092323-21:23:12:3790    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856284	senderId:	0	
+092323-21:23:12:4068    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856285	senderId:	0	
+092323-21:23:12:4068    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856285	senderId:	0	
+092323-21:23:12:4235    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856286	senderId:	0	
+092323-21:23:12:4235    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856286	senderId:	0	
+092323-21:23:12:4454    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856287	senderId:	0	
+092323-21:23:12:4455    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856287	senderId:	0	
+092323-21:23:18:0467    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856288	senderId:	0	
+092323-21:23:18:0467    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856288	senderId:	0	
+092323-21:23:18:0748    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856289	senderId:	0	
+092323-21:23:18:0750    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856289	senderId:	0	
+092323-21:23:18:0908    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856290	senderId:	0	
+092323-21:23:18:0909    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856290	senderId:	0	
+092323-21:23:18:1211    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856291	senderId:	0	
+092323-21:23:18:1213    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856291	senderId:	0	
+092323-21:23:18:1549    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856292	senderId:	0	
+092323-21:23:18:1550    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856292	senderId:	0	
+092323-21:45:21:9315    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856293	senderId:	0	
+092323-21:45:21:9317    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856293	senderId:	0	
+092323-21:45:21:9703    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856294	senderId:	0	
+092323-21:45:21:9704    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856294	senderId:	0	
+092323-21:45:22:0064    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856295	senderId:	0	
+092323-21:45:22:0064    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856295	senderId:	0	
+092323-21:45:22:0357    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856296	senderId:	0	
+092323-21:45:22:0358    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856296	senderId:	0	
+092323-21:45:22:0701    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856297	senderId:	0	
+092323-21:45:22:0702    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856297	senderId:	0	
+092323-21:45:27:7640    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856298	senderId:	0	
+092323-21:45:27:7642    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856298	senderId:	0	
+092323-21:45:27:8021    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856299	senderId:	0	
+092323-21:45:27:8023    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856299	senderId:	0	
+092323-21:45:27:8461    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856300	senderId:	0	
+092323-21:45:27:8462    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856300	senderId:	0	
+092323-21:45:27:8767    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856301	senderId:	0	
+092323-21:45:27:8769    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856301	senderId:	0	
+092323-21:45:27:9107    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856302	senderId:	0	
+092323-21:45:27:9107    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856302	senderId:	0	
+092323-21:45:33:4858    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856303	senderId:	0	
+092323-21:45:33:4859    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856303	senderId:	0	
+092323-21:45:33:5201    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856304	senderId:	0	
+092323-21:45:33:5202    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856304	senderId:	0	
+092323-21:45:33:5375    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856305	senderId:	0	
+092323-21:45:33:5375    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856305	senderId:	0	
+092323-21:45:33:5593    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856306	senderId:	0	
+092323-21:45:33:5593    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856306	senderId:	0	
+092323-21:45:33:7709    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856307	senderId:	0	
+092323-21:45:33:7710    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856307	senderId:	0	
+092323-21:45:39:1819    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856308	senderId:	0	
+092323-21:45:39:1820    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856308	senderId:	0	
+092323-21:45:39:2172    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856309	senderId:	0	
+092323-21:45:39:2174    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856309	senderId:	0	
+092323-21:45:39:2400    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856310	senderId:	0	
+092323-21:45:39:2401    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856310	senderId:	0	
+092323-21:45:39:4622    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856311	senderId:	0	
+092323-21:45:39:4624    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856311	senderId:	0	
+092323-21:45:39:4983    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856312	senderId:	0	
+092323-21:45:39:4985    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856312	senderId:	0	
+092323-23:38:09:8298    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856313	senderId:	0	
+092323-23:38:09:8299    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856313	senderId:	0	
+092323-23:38:09:8682    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856314	senderId:	0	
+092323-23:38:09:8684    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856314	senderId:	0	
+092323-23:38:09:8929    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856315	senderId:	0	
+092323-23:38:09:8936    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856315	senderId:	0	
+092323-23:38:10:1525    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856316	senderId:	0	
+092323-23:38:10:1527    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856316	senderId:	0	
+092323-23:38:10:1990    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856317	senderId:	0	
+092323-23:38:10:1991    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856317	senderId:	0	
+092323-23:38:15:8042    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856318	senderId:	0	
+092323-23:38:15:8043    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856318	senderId:	0	
+092323-23:38:15:8341    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856319	senderId:	0	
+092323-23:38:15:8342    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856319	senderId:	0	
+092323-23:38:15:8620    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856320	senderId:	0	
+092323-23:38:15:8621    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856320	senderId:	0	
+092323-23:38:15:8930    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856321	senderId:	0	
+092323-23:38:15:8930    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856321	senderId:	0	
+092323-23:38:15:9200    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856322	senderId:	0	
+092323-23:38:15:9200    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856322	senderId:	0	
+092323-23:38:21:4081    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856323	senderId:	0	
+092323-23:38:21:4082    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856323	senderId:	0	
+092323-23:38:21:4273    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856324	senderId:	0	
+092323-23:38:21:4274    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856324	senderId:	0	
+092323-23:38:21:4561    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856325	senderId:	0	
+092323-23:38:21:4561    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856325	senderId:	0	
+092323-23:38:21:4817    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856326	senderId:	0	
+092323-23:38:21:4819    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856326	senderId:	0	
+092323-23:38:21:5181    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856327	senderId:	0	
+092323-23:38:21:5182    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856327	senderId:	0	
+092323-23:38:26:8535    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856328	senderId:	0	
+092323-23:38:26:8552    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856328	senderId:	0	
+092323-23:38:26:8965    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856329	senderId:	0	
+092323-23:38:26:8965    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856329	senderId:	0	
+092323-23:38:26:9150    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856330	senderId:	0	
+092323-23:38:26:9151    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856330	senderId:	0	
+092323-23:38:26:9461    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856331	senderId:	0	
+092323-23:38:26:9461    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856331	senderId:	0	
+092323-23:38:26:9782    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856332	senderId:	0	
+092323-23:38:26:9783    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856332	senderId:	0	
+092423-10:40:17:2482    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856333	senderId:	0	
+092423-10:40:17:2498    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856333	senderId:	0	
+092423-10:40:17:4600    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856334	senderId:	0	
+092423-10:40:17:4601    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856334	senderId:	0	
+092423-10:40:17:4822    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856335	senderId:	0	
+092423-10:40:17:4824    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856335	senderId:	0	
+092423-10:40:17:5223    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856336	senderId:	0	
+092423-10:40:17:5223    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856336	senderId:	0	
+092423-10:40:17:5463    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856337	senderId:	0	
+092423-10:40:17:5464    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856337	senderId:	0	
+092423-10:40:22:7139    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856338	senderId:	0	
+092423-10:40:22:7146    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856338	senderId:	0	
+092423-10:40:22:9171    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856339	senderId:	0	
+092423-10:40:22:9171    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856339	senderId:	0	
+092423-10:40:22:9381    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856340	senderId:	0	
+092423-10:40:22:9384    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856340	senderId:	0	
+092423-10:40:22:9563    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856341	senderId:	0	
+092423-10:40:22:9564    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856341	senderId:	0	
+092423-10:40:22:9784    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856342	senderId:	0	
+092423-10:40:22:9785    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856342	senderId:	0	
+092423-10:40:28:1598    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856343	senderId:	0	
+092423-10:40:28:1599    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856343	senderId:	0	
+092423-10:40:28:1784    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856344	senderId:	0	
+092423-10:40:28:1785    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856344	senderId:	0	
+092423-10:40:28:3722    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856345	senderId:	0	
+092423-10:40:28:3724    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856345	senderId:	0	
+092423-10:40:28:4016    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856346	senderId:	0	
+092423-10:40:28:4016    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856346	senderId:	0	
+092423-10:40:28:4271    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856347	senderId:	0	
+092423-10:40:28:4271    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856347	senderId:	0	
+092423-10:40:33:9399    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856348	senderId:	0	
+092423-10:40:33:9399    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856348	senderId:	0	
+092423-10:40:33:9583    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856349	senderId:	0	
+092423-10:40:33:9584    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856349	senderId:	0	
+092423-10:40:33:9775    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856350	senderId:	0	
+092423-10:40:33:9776    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856350	senderId:	0	
+092423-10:40:33:9966    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856351	senderId:	0	
+092423-10:40:33:9966    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856351	senderId:	0	
+092423-10:40:34:0183    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856352	senderId:	0	
+092423-10:40:34:0183    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856352	senderId:	0	
+092423-11:42:18:6150    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	234189767961712876	tag:	IMDC	toFaction:	234189767961712876	tag:	IMDC	playerId:	144115188075856333	senderId:	0	
+092423-11:42:18:6942    FactionStateChanged    Action:	FactionMemberAcceptJoin	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856353	senderId:	0	
+092423-11:42:18:6943    FactionStateChanged    Action:	FactionMemberKick	fromFaction:	273060811546874192	tag:	SPRT	toFaction:	273060811546874192	tag:	SPRT	playerId:	144115188075856353	senderId:	0	

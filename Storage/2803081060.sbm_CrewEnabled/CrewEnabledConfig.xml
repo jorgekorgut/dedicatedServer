@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Configuration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Logging>false</Logging>
+  <RazeInteriorTurrets>false</RazeInteriorTurrets>
+  <Note>
+    =======================================================================
+    The 'Supported' sections immediately following this note are for your 
+    information only. They are to help you configure your Crew definitions.
+        
+    These sections show which characters, weapons, and sound files are 
+    available in your game based on the mods you have included.
+
+    These entries are formatted so you can copy and paste them directly 
+    into the appropriate part of the Crew sections.
+    =======================================================================
+</Note>
+  <SupportedCharacters>
+    <SubtypeId>Default_Astronaut</SubtypeId>
+    <SubtypeId>Default_Astronaut_Female</SubtypeId>
+    <SubtypeId>Drone_Bot</SubtypeId>
+    <SubtypeId>Boss_Bot</SubtypeId>
+    <SubtypeId>Police_Bot</SubtypeId>
+    <SubtypeId>Target_Dummy</SubtypeId>
+    <SubtypeId>Space_Skeleton</SubtypeId>
+    <SubtypeId>Ghost_Bot</SubtypeId>
+  </SupportedCharacters>
+  <SupportedHandWeapons>
+    <SubtypeId>SemiAutoPistolItem</SubtypeId>
+    <SubtypeId>FullAutoPistolItem</SubtypeId>
+    <SubtypeId>ElitePistolItem</SubtypeId>
+    <SubtypeId>AutomaticRifleItem</SubtypeId>
+    <SubtypeId>PreciseAutomaticRifleItem</SubtypeId>
+    <SubtypeId>RapidFireAutomaticRifleItem</SubtypeId>
+    <SubtypeId>UltimateAutomaticRifleItem</SubtypeId>
+    <SubtypeId>BasicHandHeldLauncherItem</SubtypeId>
+    <SubtypeId>AdvancedHandHeldLauncherItem</SubtypeId>
+    <SubtypeId>PhysicalPaintGun</SubtypeId>
+    <SubtypeId>BinocularsItem</SubtypeId>
+  </SupportedHandWeapons>
+  <SupportedSounds />
+  <CrewDefinitions>
+    <Crew>
+      <Description>Common Human Crew</Description>
+      <Visor>Automatic</Visor>
+      <Frequency>6</Frequency>
+      <RequiredCrew>3</RequiredCrew>
+      <Activation>0.2</Activation>
+      <MeanFillPercent>0.3</MeanFillPercent>
+      <MinimumCrewSize>3</MinimumCrewSize>
+      <MaximumCrewSize xsi:nil="true" />
+      <CrewMember>
+        <SubtypeId>Default_Astronaut</SubtypeId>
+        <SubtypeId>Default_Astronaut_Female</SubtypeId>
+        <SubtypeId>Astronaut_Nosuit</SubtypeId>
+        <SubtypeId>Astronaut_Nosuit</SubtypeId>
+        <SubtypeId>SE_astronautNoSuit</SubtypeId>
+        <SubtypeId>SE_astronautNoSuit</SubtypeId>
+        <SubtypeId>SE_astronautNoSuitFemale</SubtypeId>
+        <SubtypeId>SE_astronautNoSuitFemale</SubtypeId>
+        <SubtypeId>Male Astronaut 1</SubtypeId>
+        <SubtypeId>Male Astronaut 2</SubtypeId>
+        <SubtypeId>Male Astronaut 3</SubtypeId>
+        <SubtypeId>Male Astronaut 4</SubtypeId>
+        <SubtypeId>Male Astronaut 5</SubtypeId>
+        <SubtypeId>Male Astronaut 6</SubtypeId>
+        <SubtypeId>Female Astronaut 1</SubtypeId>
+        <SubtypeId>Female Astronaut 2</SubtypeId>
+        <SubtypeId>Female Astronaut 3</SubtypeId>
+        <SubtypeId>Female Astronaut 4</SubtypeId>
+        <SubtypeId>Female Astronaut 5</SubtypeId>
+        <SubtypeId>Female Astronaut 6</SubtypeId>
+      </CrewMember>
+      <Captain>
+        <SubtypeId>Default_Astronaut</SubtypeId>
+        <SubtypeId>Default_Astronaut_Female</SubtypeId>
+      </Captain>
+      <HandWeapons>
+        <SubtypeId>SemiAutoPistolItem</SubtypeId>
+        <SubtypeId>FullAutoPistolItem</SubtypeId>
+      </HandWeapons>
+      <IdleSounds>
+        <SubtypeId>CrewVoicesColonistIdle</SubtypeId>
+      </IdleSounds>
+      <TauntSounds>
+        <SubtypeId>CrewVoicesColonistTaunt</SubtypeId>
+      </TauntSounds>
+      <PainSounds>
+        <SubtypeId>CrewVoicesColonistPain</SubtypeId>
+      </PainSounds>
+    </Crew>
+    <Crew>
+      <Description>Attack Robots</Description>
+      <Visor>None</Visor>
+      <Frequency>2</Frequency>
+      <RequiredCrew>4</RequiredCrew>
+      <Activation>0.2</Activation>
+      <MeanFillPercent>1</MeanFillPercent>
+      <MinimumCrewSize xsi:nil="true" />
+      <MaximumCrewSize xsi:nil="true" />
+      <CrewMember>
+        <SubtypeId>Police_Bot</SubtypeId>
+      </CrewMember>
+      <Captain>
+        <SubtypeId>Boss_Bot</SubtypeId>
+      </Captain>
+      <HandWeapons>
+        <SubtypeId>AutomaticRifleItem</SubtypeId>
+        <SubtypeId>RapidFireAutomaticRifleItem</SubtypeId>
+      </HandWeapons>
+      <IdleSounds>
+        <SubtypeId>CrewVoicesAttackRobotIdle</SubtypeId>
+      </IdleSounds>
+      <TauntSounds>
+        <SubtypeId>CrewVoicesAttackRobotTaunt</SubtypeId>
+        <SubtypeId>CrewVoicesAttackRobotPain</SubtypeId>
+      </TauntSounds>
+      <PainSounds>
+        <SubtypeId>CrewVoicesAttackRobotPain</SubtypeId>
+      </PainSounds>
+    </Crew>
+    <Crew>
+      <Description>Psychotic Robots</Description>
+      <Visor>None</Visor>
+      <Frequency>1</Frequency>
+      <RequiredCrew>6</RequiredCrew>
+      <Activation>0.2</Activation>
+      <MeanFillPercent xsi:nil="true" />
+      <MinimumCrewSize xsi:nil="true" />
+      <MaximumCrewSize>11</MaximumCrewSize>
+      <OverrideCrewColor>
+        <Red>245</Red>
+        <Blue>245</Blue>
+        <Green>245</Green>
+      </OverrideCrewColor>
+      <CrewMember>
+        <SubtypeId>Target_Dummy</SubtypeId>
+      </CrewMember>
+      <Captain>
+        <SubtypeId>Target_Dummy</SubtypeId>
+      </Captain>
+      <HandWeapons>
+        <SubtypeId>ElitePistolItem</SubtypeId>
+        <SubtypeId>UltimateAutomaticRifleItem</SubtypeId>
+      </HandWeapons>
+      <IdleSounds>
+        <SubtypeId>CrewVoicesPsychoticRobotIdle</SubtypeId>
+      </IdleSounds>
+      <TauntSounds>
+        <SubtypeId>CrewVoicesPsychoticRobotTaunt</SubtypeId>
+      </TauntSounds>
+      <PainSounds>
+        <SubtypeId>CrewVoicesPsychoticRobotPain</SubtypeId>
+        <SubtypeId>CrewVoicesPsychoticRobotIdle</SubtypeId>
+      </PainSounds>
+    </Crew>
+    <Crew>
+      <Description>Veteran Pirates</Description>
+      <Visor>Automatic</Visor>
+      <Frequency>2</Frequency>
+      <RequiredCrew>3</RequiredCrew>
+      <Activation>0.2</Activation>
+      <MeanFillPercent xsi:nil="true" />
+      <MinimumCrewSize>5</MinimumCrewSize>
+      <MaximumCrewSize>30</MaximumCrewSize>
+      <Factions>
+        <FactionTag>SPRT</FactionTag>
+      </Factions>
+      <CrewMember>
+        <SubtypeId>Old Astronaut Male</SubtypeId>
+        <SubtypeId>Old Astronaut no Suit</SubtypeId>
+        <SubtypeId>Old Astronaut Female</SubtypeId>
+        <SubtypeId>Old Astronaut Female no suit</SubtypeId>
+      </CrewMember>
+      <Captain>
+        <SubtypeId>Old Astronaut Male</SubtypeId>
+        <SubtypeId>Old Astronaut Female</SubtypeId>
+      </Captain>
+      <HandWeapons>
+        <SubtypeId>FullAutoPistolItem</SubtypeId>
+        <SubtypeId>RapidFireAutomaticRifleItem</SubtypeId>
+      </HandWeapons>
+      <IdleSounds>
+        <SubtypeId>CrewVoicesPirateIdle</SubtypeId>
+      </IdleSounds>
+      <TauntSounds>
+        <SubtypeId>CrewVoicesPirateTaunt</SubtypeId>
+      </TauntSounds>
+      <PainSounds>
+        <SubtypeId>CrewVoicesPiratePain</SubtypeId>
+      </PainSounds>
+    </Crew>
+  </CrewDefinitions>
+  <BlacklistFactions>
+    <FactionTag>QARC</FactionTag>
+  </BlacklistFactions>
+</Configuration>
