@@ -1,0 +1,5 @@
+[23:23:26/00] Initialized; 2023 September 22 (Friday) 23:23:26; GameVersion=1.203.24
+ModWorkshopId=514062285; ModName=BuildInfo (extra block+terminal info, air leak finder); ModService=Steam
+GameMode=Survival; OnlineMode=PUBLIC
+Server=True; DS=True
+Defined=STABLE, 

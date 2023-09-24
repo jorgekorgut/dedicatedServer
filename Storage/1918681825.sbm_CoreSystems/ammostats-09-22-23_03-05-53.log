@@ -1,0 +1,496 @@
+Name, BaseDamage, BaseDamageType, AreaDamageType, DetDamageType, ShieldDamageType, LargeGridModifier, SmallGridModifier, ArmorModifier, LightArmorModifier, HeavyArmorModifier, NonArmorModifier, ShieldsModifier, ShieldBypass, FragmentName, FragmentQuanty, FragmentDegrees, BBHRadius, BBHDamage, BBHDepth, BBHMaxAbsorb, BBHFalloff, EOLRadius, EOLDamage, EOLDepth, EOLMaxAbsorb, EOLFalloff, AccelPerSec, MaxSpeed, MaxTrajectory, MaxLifeTime
+Energy 3S, 1200, Kinetic, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 1, -1, MagicFragment, 100, 15, 5, 5, 1, 0, Pooled, 5, 5, 1, 0, Squeeze, 0, 500, 2540, 900
+Energy 2S, 1000, Kinetic, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 1, -1, MagicFragment, 100, 15, 5, 5, 1, 0, Pooled, 5, 5, 1, 0, Squeeze, 0, 500, 2540, 900
+Energy 1S, 672, Kinetic, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 1, -1, MagicFragment, 100, 15, 5, 5, 1, 0, Pooled, 5, 5, 1, 0, Squeeze, 0, 500, 2540, 900
+Energy 3L, 6000, Kinetic, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 1, -1, MagicFragment, 100, 15, 5, 5, 1, 0, Pooled, 5, 5, 1, 0, Squeeze, 0, 500, 2540, 900
+Energy 2L, 5000, Kinetic, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 1, -1, MagicFragment, 100, 15, 5, 5, 1, 0, Pooled, 5, 5, 1, 0, Squeeze, 0, 500, 2540, 900
+Energy 1L, 3360, Kinetic, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 1, -1, MagicFragment, 100, 15, 5, 5, 1, 0, Pooled, 5, 5, 1, 0, Squeeze, 0, 500, 2540, 900
+Ballistic 1S, 1000, Kinetic, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 1, -1, MagicFragment, 100, 15, 5, 5, 1, 0, Pooled, 5, 5, 1, 0, Squeeze, 0, 500, 2540, 900
+Ballistic 2S, 1300, Kinetic, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 1, -1, MagicFragment, 100, 15, 5, 5, 1, 0, Pooled, 5, 5, 1, 0, Squeeze, 0, 500, 2540, 900
+Ballistic 3S, 1600, Kinetic, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 1, -1, MagicFragment, 100, 15, 5, 5, 1, 0, Pooled, 5, 5, 1, 0, Squeeze, 0, 500, 2540, 900
+Ballistic 1L, 5000, Kinetic, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 1, -1, MagicFragment, 100, 15, 5, 5, 1, 0, Pooled, 5, 5, 1, 0, Squeeze, 0, 500, 1540, 900
+Ballistic 2L, 6500, Kinetic, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 1, -1, MagicFragment, 100, 15, 5, 5, 1, 0, Pooled, 5, 5, 1, 0, Squeeze, 0, 500, 1540, 900
+Ballistic 3L, 8000, Kinetic, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 1, -1, MagicFragment, 100, 15, 5, 5, 1, 0, Pooled, 5, 5, 1, 0, Squeeze, 0, 500, 1540, 900
+EnergyCannon 1S, 1600, Kinetic, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 1, -1, MagicFragment, 100, 15, 5, 5, 1, 0, Pooled, 5, 5, 1, 0, Squeeze, 0, 500, 2225, 900
+EnergyCannon 2S, 2000, Kinetic, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 1, -1, MagicFragment, 100, 15, 5, 5, 1, 0, Pooled, 5, 5, 1, 0, Squeeze, 0, 500, 2225, 900
+EnergyCannon 3S, 2400, Kinetic, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 1, -1, MagicFragment, 100, 15, 5, 5, 1, 0, Pooled, 5, 5, 1, 0, Squeeze, 0, 500, 2225, 900
+EnergyCannon 1L, 8000, Kinetic, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 1, -1, MagicFragment, 100, 15, 5, 5, 1, 0, Pooled, 5, 5, 1, 0, Squeeze, 0, 500, 2225, 900
+EnergyCannon 2L, 10000, Kinetic, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 1, -1, MagicFragment, 100, 15, 5, 5, 1, 0, Pooled, 5, 5, 1, 0, Squeeze, 0, 500, 2225, 900
+EnergyCannon 3L, 12000, Kinetic, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 1, -1, MagicFragment, 100, 15, 5, 5, 1, 0, Pooled, 5, 5, 1, 0, Squeeze, 0, 500, 2225, 900
+Ballistic Cannon 1S, 2000, Kinetic, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 1, -1, MagicFragment, 100, 15, 5, 5, 1, 0, Pooled, 5, 5, 1, 0, Squeeze, 0, 500, 2540, 900
+Ballistic Cannon 2S, 2600, Kinetic, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 1, -1, MagicFragment, 100, 15, 5, 5, 1, 0, Pooled, 5, 5, 1, 0, Squeeze, 0, 500, 2540, 900
+Ballistic Cannon 3S, 3200, Kinetic, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 1, -1, MagicFragment, 100, 15, 5, 5, 1, 0, Pooled, 5, 5, 1, 0, Squeeze, 0, 500, 2540, 900
+Ballistic Cannon 1S, 2000, Kinetic, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 1, -1, MagicFragment, 100, 15, 5, 5, 1, 0, Pooled, 5, 5, 1, 0, Squeeze, 0, 500, 2540, 900
+Ballistic Cannon 2S, 2600, Kinetic, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 1, -1, MagicFragment, 100, 15, 5, 5, 1, 0, Pooled, 5, 5, 1, 0, Squeeze, 0, 500, 2540, 900
+Ballistic Cannon 3S, 3200, Kinetic, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 1, -1, MagicFragment, 100, 15, 5, 5, 1, 0, Pooled, 5, 5, 1, 0, Squeeze, 0, 500, 2540, 900
+40mm ATLAS, 80, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, 0.75, -1, -1, 1.35, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1000, 1200, 0
+40mm ATLAS, 80, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, 0.75, -1, -1, 1.35, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1000, 1200, 0
+40mm ATLAS, 80, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, 0.75, -1, -1, 1.35, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1000, 1200, 0
+AryxAuroraAmmo, 200, Energy, Energy, Energy, Energy, -1, -1, 1.2, -1, -1, 2, 10, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 30000, 3000, 0
+400nm Pulse Laser, 90, Energy, Energy, Energy, Energy, 0.75, -1, 0.5, -1, -1, -1, 10, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 3000, 0
+400nm Pulse Laser, 90, Energy, Energy, Energy, Energy, 0.75, -1, 0.5, -1, -1, -1, 10, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 3000, 0
+AryxAutocannonAmmoWC, 200, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, 1.25, -1, -1, 2, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1000, 5000, 0
+AryxAutocannonAmmoWC, 200, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, 1.25, -1, -1, 2, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1000, 5000, 0
+AryxAutocannonAmmoWC, 200, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, 1.25, -1, -1, 2, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1000, 5000, 0
+AryxNovaAmmo, 500, Energy, Energy, Energy, Energy, 1, 1, 1, 1, 1, 5, 10, 0.75, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 950, 1500, 0
+AryxEnergyNovaAmmo, 800, Energy, Energy, Energy, Energy, 1, 1, 1, 1, 1, 5, 12, 0, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 800, 1500, 0
+Punisher AP 70mm, 1200, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, 2, -1, 8, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1200, 3000, 0
+Punisher HE 70mm, 20, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, 1.5, -1, -1, 3, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 3.5, 2000, 1, 0, Linear, 0, 1200, 3000, 0
+AryxFlakShrapWC, 150, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, 0.5, -1, -1, -1, 2, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 100, 25, 0
+Punisher AP 70mm, 1200, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, 2, -1, 8, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1200, 3000, 0
+Punisher HE 70mm, 20, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, 1.5, -1, -1, 3, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 3.5, 2000, 1, 0, Linear, 0, 1200, 3000, 0
+AryxFlakShrapWC, 150, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, 0.5, -1, -1, -1, 2, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 100, 25, 0
+Punisher AP 70mm, 1200, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, 2, -1, 8, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1200, 3000, 0
+Punisher HE 70mm, 20, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, 1.5, -1, -1, 3, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 3.5, 2000, 1, 0, Linear, 0, 1200, 3000, 0
+AryxFlakShrapWC, 150, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, 0.5, -1, -1, -1, 2, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 100, 25, 0
+Striker Missile, 10, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, 2, 5, -1, Striker Missile Stage 2, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 1, 0, Linear, 0, 100, 10000, 60
+Striker Missile Stage 2, 10, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, 2, 1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 5, 25000, 2, 0, Linear, 350, 400, 10000, 6000
+Disrupt-Striker Missile, 10, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, 0.15, -1, -1, -1, 5, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 5, 25000, 2, 0, Linear, 350, 400, 10000, 6000
+Drain-Striker Missile, 10, Energy, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 1, -1, Striker Missile Drain Effect, 1, 1, 0, 0, 0, 0, NoFallOff, 5, 2000, 2, 0, Linear, 350, 400, 10000, 6000
+Striker Missile Drain Effect, 1, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, -1, -1, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 400, 10, 10
+Devastator Fusion Torpedo, 1, Energy, Energy, Energy, Energy, -1, -1, 2, -1, -1, 2, 0.001, -1, Devastator Torpedo, 1, 0, 0, 0, 0, 0, NoFallOff, 3, 5000, 10, 0, Linear, 200, 200, 10000, 120
+Shieldbreaker-Devastator Torpedo, 1, Energy, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 50, -1, AryxEnergyTorp, 1, 0, 0, 0, 0, 0, NoFallOff, 3, 5000, 10, 0, Linear, 200, 200, 10000, 120
+Devastator Torpedo, 1, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, 1.5, -1, 2, 1E-06, -1, AryxKineticFrags, 100, 360, 0, 0, 0, 0, NoFallOff, 8, 100000, 5, 0, Linear, 300, 300, 10000, 3600
+AryxEnergyTorpEMPCharge, 1, Energy, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 0.01, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 10, 0
+AryxEnergyTorp, 1, Energy, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 50, -1, AryxEnergyTorpEMPCharge, 1, 0, 0, 0, 0, 0, NoFallOff, 10, 5000, 5, 0, Linear, 300, 300, 10000, 3600
+Ion Devastator Torpedo, 1, Energy, Energy, Energy, Energy, -1, -1, 2, -1, -1, 2, 0.001, -1, Concussion Devastator Launched, 1, 0, 0, 0, 0, 0, NoFallOff, 3, 5000, 10, 0, Linear, 200, 200, 10000, 120
+Concussion Devastator Launched, 1, Energy, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 1E-06, -1, Concussion Devastator EMP, 1, 1, 0, 0, 0, 0, NoFallOff, 1, 5, 1, 0, Linear, 300, 300, 10000, 3600
+Concussion Devastator EMP, 1, Energy, Energy, Energy, Energy, 1, 1, 1, 1, 1, 10, -1, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 1, 1, 1, 0, Linear, 0, 40, 80, 20
+AryxKineticFrags, 500, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, 2, -1, -1, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1000, 50, 0
+Sabre Missile, 10, Kinetic, Kinetic, Energy, Energy, -1, -1, -1, 2.5, 2, 3, 1, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 5, 12500, 2, 0, Linear, 250, 550, 10000, 6000
+Sabre Missile Full Speed, 1, Kinetic, Kinetic, Energy, Energy, -1, -1, -1, 2.5, 2, 3, 1, -1, Missile Frags, 50, 60, 0, 0, 0, 0, NoFallOff, 5, 12500, 2, 0, Linear, 250, 550, 10000, 6000
+Disrupt-Sabre Missile, 5000, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, 0.5, -1, -1, -1, 25, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 3, 6750, 1, 0, Linear, 250, 550, 10000, 6000
+Lancer Missile Full Speed, 1, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, 0.5, -1, -1, -1, 25, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 3.5, 15000, 1, 0, Linear, 400, 550, 10000, 6000
+Missile Frags, 100, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, -1, 1E-05, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 100, 100, 5000, 30
+Armoured-Sabre Missile, 10, Kinetic, Kinetic, Energy, Energy, -1, -1, -1, 2.5, 5, 3, 1, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 5, 9000, 2, 0, Linear, 100, 350, 10000, 6000
+Sabre Missile, 10, Kinetic, Kinetic, Energy, Energy, -1, -1, -1, 2.5, 2, 3, 1, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 5, 12500, 2, 0, Linear, 250, 550, 10000, 6000
+Sabre Missile Full Speed, 1, Kinetic, Kinetic, Energy, Energy, -1, -1, -1, 2.5, 2, 3, 1, -1, Missile Frags, 50, 60, 0, 0, 0, 0, NoFallOff, 5, 12500, 2, 0, Linear, 250, 550, 10000, 6000
+Disrupt-Sabre Missile, 5000, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, 0.5, -1, -1, -1, 25, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 3, 6750, 1, 0, Linear, 250, 550, 10000, 6000
+Lancer Missile Full Speed, 1, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, 0.5, -1, -1, -1, 25, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 3.5, 15000, 1, 0, Linear, 400, 550, 10000, 6000
+Missile Frags, 100, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, -1, 1E-05, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 100, 100, 5000, 30
+Armoured-Sabre Missile, 10, Kinetic, Kinetic, Energy, Energy, -1, -1, -1, 2.5, 5, 3, 1, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 5, 9000, 2, 0, Linear, 100, 350, 10000, 6000
+Sabre Missile, 10, Kinetic, Kinetic, Energy, Energy, -1, -1, -1, 2.5, 2, 3, 1, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 5, 12500, 2, 0, Linear, 250, 550, 10000, 6000
+Sabre Missile Full Speed, 1, Kinetic, Kinetic, Energy, Energy, -1, -1, -1, 2.5, 2, 3, 1, -1, Missile Frags, 50, 60, 0, 0, 0, 0, NoFallOff, 5, 12500, 2, 0, Linear, 250, 550, 10000, 6000
+Disrupt-Sabre Missile, 5000, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, 0.5, -1, -1, -1, 25, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 3, 6750, 1, 0, Linear, 250, 550, 10000, 6000
+Lancer Missile Full Speed, 1, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, 0.5, -1, -1, -1, 25, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 3.5, 15000, 1, 0, Linear, 400, 550, 10000, 6000
+Missile Frags, 100, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, -1, 1E-05, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 100, 100, 5000, 30
+Armoured-Sabre Missile, 10, Kinetic, Kinetic, Energy, Energy, -1, -1, -1, 2.5, 5, 3, 1, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 5, 9000, 2, 0, Linear, 100, 350, 10000, 6000
+Flechette84mmAmmoDef, 1, Kinetic, Kinetic, Kinetic, Kinetic, 0.5, 1.5, -1, 2.5, -1, 2, 1, -1, Flechette84mmFullSpeed, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 1, 0, Linear, 0, 20, 5000, 30
+Disruptor84mmAmmoDef, 1, Energy, Energy, Energy, Energy, 0.25, 1.5, -1, -1, -1, 2, 20, -1, Disruptor84mmFullSpeed, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 1, 0, Linear, 0, 20, 5000, 30
+Flechette84mmFullSpeed, 1, Kinetic, Kinetic, Kinetic, Kinetic, 1, 2, -1, -1, -1, 2, 1, -1, Missile Frags, 50, 180, 0, 0, 0, 0, NoFallOff, 2.5, 3500, 1, 0, Linear, 250, 600, 5000, 6000
+Disruptor84mmFullSpeed, 1, Energy, Energy, Energy, Energy, 0.25, 1.5, -1, -1, -1, 2, 20, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 2.5, 800, 2.5, 0, Linear, 900, 600, 5000, 6000
+Flechette84mmAmmoDef, 1, Kinetic, Kinetic, Kinetic, Kinetic, 0.5, 1.5, -1, 2.5, -1, 2, 1, -1, Flechette84mmFullSpeed, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 1, 0, Linear, 0, 20, 5000, 30
+Disruptor84mmAmmoDef, 1, Energy, Energy, Energy, Energy, 0.25, 1.5, -1, -1, -1, 2, 20, -1, Disruptor84mmFullSpeed, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 1, 0, Linear, 0, 20, 5000, 30
+Flechette84mmFullSpeed, 1, Kinetic, Kinetic, Kinetic, Kinetic, 1, 2, -1, -1, -1, 2, 1, -1, Missile Frags, 50, 180, 0, 0, 0, 0, NoFallOff, 2.5, 3500, 1, 0, Linear, 250, 600, 5000, 6000
+Disruptor84mmFullSpeed, 1, Energy, Energy, Energy, Energy, 0.25, 1.5, -1, -1, -1, 2, 20, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 2.5, 800, 2.5, 0, Linear, 900, 600, 5000, 6000
+Missile Frags, 100, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, -1, 1E-05, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 100, 100, 5000, 30
+Flechette84mmAmmoDef, 1, Kinetic, Kinetic, Kinetic, Kinetic, 0.5, 1.5, -1, 2.5, -1, 2, 1, -1, Flechette84mmFullSpeed, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 1, 0, Linear, 0, 20, 5000, 30
+Disruptor84mmAmmoDef, 1, Energy, Energy, Energy, Energy, 0.25, 1.5, -1, -1, -1, 2, 20, -1, Disruptor84mmFullSpeed, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 1, 0, Linear, 0, 20, 5000, 30
+Flechette84mmFullSpeed, 1, Kinetic, Kinetic, Kinetic, Kinetic, 1, 2, -1, -1, -1, 2, 1, -1, Missile Frags, 50, 180, 0, 0, 0, 0, NoFallOff, 2.5, 3500, 1, 0, Linear, 250, 600, 5000, 6000
+Disruptor84mmFullSpeed, 1, Energy, Energy, Energy, Energy, 0.25, 1.5, -1, -1, -1, 2, 20, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 2.5, 800, 2.5, 0, Linear, 900, 600, 5000, 6000
+Missile Frags, 100, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, -1, 1E-05, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 100, 100, 5000, 30
+AryxFlakAmmoWC, 100, Kinetic, Kinetic, Kinetic, Kinetic, -1, 5, 0.5, -1, -1, -1, 2, -1, AryxFlakShrapWC, 8, 360, 0, 0, 0, 0, NoFallOff, 1, 0, 0, 0, Linear, 0, 800, 900, 0
+AryxFlakShrapWC, 150, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, 0.5, -1, -1, -1, 2, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 100, 25, 0
+AryxHeavyFlakAmmoWC, 200, Kinetic, Kinetic, Kinetic, Kinetic, -1, 5, 0.5, -1, -1, -1, 2, -1, AryxHeavyFlakShrapWC, 16, 360, 0, 0, 0, 0, NoFallOff, 1, 0, 1, 0, Linear, 0, 800, 2000, 0
+AryxHeavyFlakShrapWC, 300, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, 0.5, -1, -1, -1, 2, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 100, 25, 0
+Oculus Laser, 6.25, Energy, Energy, Energy, Energy, 0.75, -1, 0.5, -1, -1, 1.5, 7, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 3000, 0
+AryxLightCoilgunAmmoWC, 5000, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, -1, 25, -1, AryxLightCoilgunPiercingAmmoWC, 1, 0, 0, 0, 0, 0, NoFallOff, 3, 15000, 2, 0, Curve, 0, 0, 9000, 6000
+AryxLightCoilgunPiercingAmmoWC, 21750, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, -1, 0.1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 1000, 6000
+AryxSmallFocusBeamAmmo, 50, Energy, Energy, Energy, Energy, -1, -1, -1, -1, -1, 1.5, 10, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 2000, 0
+AryxSmallFocusPulseAmmo, 4500, Energy, Energy, Energy, Energy, -1, -1, -1, -1, -1, 3, 15, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 2000, 0
+25mm CODEX Ammunition, 30, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, 0.5, -1, -1, 1.35, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 650, 1200, 0
+25mm CODEX Ammunition, 30, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, 0.5, -1, -1, 1.35, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 650, 1200, 0
+25mm CODEX Ammunition, 30, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, 0.5, -1, -1, 1.35, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 650, 1200, 0
+25mm CODEX Ammunition, 30, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, 0.5, -1, -1, 1.35, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 650, 1200, 0
+25mm CODEX Ammunition, 30, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, 0.5, -1, -1, 1.35, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 650, 1200, 0
+Helios Energy Bolt, 4000, Energy, Energy, Energy, Energy, -1, -1, 0.75, -1, -1, -1, 10, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 2.5, 12500, 1, 0, Linear, 0, 2000, 10000, 0
+AryxRailgunAmmoWC, 60000, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, 2, -1, -1, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 9000, 10000, 6000
+AryxPDRailgunAmmo, 15500, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, -1, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 4999, 10000, 6000
+AryxNucleonLaserAmmo, 200, Energy, Energy, Energy, Energy, -1, -1, 0.5, -1, -1, 5, 20, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1500, 400, 0
+AryxShotgunAmmoWC, 6000, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, 2, 3, -1, -1, 5, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1500, 1000, 6000
+Smart Projectile Ammo, 650, Kinetic, Kinetic, Kinetic, Kinetic, -1, 5, 1.25, -1, -1, 2, 2, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 200, 700, 1500, 1500
+Energy Smart Ammo, 600, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, 0.5, -1, -1, 2, 7.5, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 200, 700, 1500, 1500
+MainAmmo, 2250, Energy, Energy, Energy, Energy, -1, -1, -1, 2.5, -1, -1, 3, -1, None, 0, 0, 4, 10000, 2, 0, Pooled, 0, 0, 0, 0, NoFallOff, 0, 0, 10000, 0
+AWELightningAmmo, 120, Energy, Energy, Energy, Energy, 0, 0, -1, -1, -1, -1, 1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 600, 10000, 0
+EMP Charge, 1000, Energy, Energy, Energy, Energy, -1, -1, -1, -1, -1, 100, 1, 0, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 1, 0
+Trident Plasma Beam, 300, Energy, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 10, 0, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 800, 4000, 0
+AryxWarriorAmmoAP, 1050, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, 2, 1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 900, 5000, 0
+120mm Heavy Shell, 750, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, 0.5, -1, -1, -1, 4, -1, AryxKineticFrags, 10, 360, 0, 0, 0, 0, NoFallOff, 3, 1500, 1, 0, Linear, 0, 900, 3500, 0
+AryxKineticFrags, 500, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, 2, -1, -1, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1000, 50, 0
+240mm Heavy Shell, 1250, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, -1, 2, -1, AryxKineticFrags, 25, 360, 0, 0, 0, 0, NoFallOff, 3, 1000, 1.5, 0, Linear, 0, 900, 4000, 0
+AryxKineticFrags, 500, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, 2, -1, -1, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1000, 50, 0
+240mm Heavy Shell, 1250, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, -1, 2, -1, AryxKineticFrags, 25, 360, 0, 0, 0, 0, NoFallOff, 3, 1000, 1.5, 0, Linear, 0, 900, 4000, 0
+AryxKineticFrags, 500, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, 2, -1, -1, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1000, 50, 0
+480mm Heavy Shell, 5000, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, 0.5, -1, -1, 1.5, 2, -1, AryxKineticFrags, 40, 360, 0, 0, 0, 0, NoFallOff, 4, 7000, 2, 0, Linear, 0, 900, 4000, 0
+AryxKineticFrags, 500, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, 2, -1, -1, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1000, 50, 0
+600mm Heavy Shell, 6000, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, 0.5, -1, -1, 1.5, 2, -1, AryxKineticFrags, 50, 360, 0, 0, 0, 0, NoFallOff, 5, 10000, 2, 0, Linear, 0, 900, 4000, 0
+AryxKineticFrags, 500, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, 2, -1, -1, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1000, 50, 0
+600mm Heavy Shell, 6000, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, 0.5, -1, -1, 1.5, 2, -1, AryxKineticFrags, 50, 360, 0, 0, 0, 0, NoFallOff, 5, 10000, 2, 0, Linear, 0, 900, 4000, 0
+AryxKineticFrags, 500, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, 2, -1, -1, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1000, 50, 0
+600mm Heavy Shell, 6000, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, 0.5, -1, -1, 1.5, 2, -1, AryxKineticFrags, 50, 360, 0, 0, 0, 0, NoFallOff, 5, 10000, 2, 0, Linear, 0, 900, 4000, 0
+AryxKineticFrags, 500, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, 2, -1, -1, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1000, 50, 0
+Quasar Energy Bolt, 20000, Energy, Energy, Energy, Energy, -1, -1, -1, -1, 0.5, 1, 15, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 3, 50000, 1, 0, Linear, 0, 1800, 5000, 0
+Quasar Energy Bolt, 10000, Energy, Energy, Energy, Energy, -1, -1, -1, 0.95, 0.5, -1, 15, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 3, 50000, 1, 0, Linear, 0, 1800, 5000, 0
+Thane Fusion Warhead, 1, Kinetic, Kinetic, Kinetic, Kinetic, 1, 1, 1, 2, 2, 2, 1E-06, -1, Thane Fusion Warhead Fired, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 1, 0, Linear, 0, 25, 12500, 60
+Thane Fusion Warhead Fired, 1, Kinetic, Kinetic, Kinetic, Kinetic, 1, 1, 1, 2, 2, 2, 0.1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 20, 250000, 7, 0, Linear, 40, 800, 12500, 3600
+Javelin Kinetic Penetrator, 1, Kinetic, Kinetic, Kinetic, Kinetic, 1, 1, 9999999, 9999999, 999999, 2, 1E-06, -1, Javelin FullSpeed, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 1, 0, Linear, 0, 25, 12500, 60
+Javelin FullSpeed, 9999999, Kinetic, Kinetic, Kinetic, Kinetic, 999999, 999999, 999999, 999999, 999999, 9999999, 1E-06, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 1, 0, Linear, 40, 800, 12500, 3600
+Breacher Armourbuster Warhead, 1, Kinetic, Kinetic, Kinetic, Kinetic, 1, 1, 1, 2, 2, 2, 1E-06, -1, Breacher Armourbuster FullSpeed, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 1, 0, Linear, 0, 25, 12500, 60
+Breacher Armourbuster FullSpeed, 200000, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, 5000, -1, -1, 1E-05, 0.1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 20, 75000, 10, 0, Linear, 40, 800, 12500, 3600
+Desolator Field Warhead, 1, Energy, Energy, Energy, Energy, 1, 1, 1, 1, 1, 2, 1E-06, -1, AWE Desolator Supernuke, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 1, 0, Linear, 0, 25, 12500, 60
+AWE Desolator Supernuke, 5E+07, Energy, Energy, Energy, Energy, 1, 1, 1, 1, 1, 1, 1E-06, 0, AryxDesolatorFieldCharge, 1, 1, 0, 0, 0, 0, NoFallOff, 20, 5000, 10, 0, Linear, 40, 800, 12500, 3600
+AryxDesolatorFieldCharge, 1, Energy, Energy, Energy, Energy, 1, 1, 1, 1, 1, 1, 1E-07, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 100, 0
+AryxDesolatorPullCharge, 1E+09, Energy, Energy, Energy, Energy, 1E+08, 1E+08, 1, 1, 1, 1, 1E-06, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 1, 0
+Broadsword Disruptor Warhead, 1, Kinetic, Kinetic, Kinetic, Kinetic, 1, 1, 1, 2, 2, 2, 1E-06, -1, Broadsword Disruptor FullSpeed, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 1, 0, Linear, 0, 25, 12500, 60
+Broadsword Disruptor FullSpeed, 1000, Energy, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 50, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 10, 7500, 5, 0, Linear, 40, 800, 12500, 3600
+Annihilator Antimatter Torpedo Hyperion, 1, Kinetic, Kinetic, Kinetic, Kinetic, 1, 1, 1, 2, 2, 2, 1E-06, -1, Annihilator Torpedo Hyperion, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 1, 0, Linear, 0, 25, 12500, 60
+Annihilator Torpedo Hyperion, 1, Kinetic, Kinetic, Kinetic, Kinetic, 1, 1, 1, 2, 2, 2, 0.1, -1, Large Antimatter Bolt, 1, 1, 0, 0, 0, 0, NoFallOff, 5, 5, 1, 0, Linear, 40, 800, 12500, 3600
+Large Antimatter Bolt, 500, Energy, Energy, Energy, Energy, 1, 1, 1, 1, 2.5, 10, -1, -1, Large Antimatter Bolt, 2, 360, 0, 0, 0, 0, NoFallOff, 1, 1, 1, 0, Linear, 0, 40, 80, 20
+Kingsword Nuclear Charge, 100000, Kinetic, Kinetic, Kinetic, Kinetic, 100000, 100000, 100000, 100000, 100000, 100000, 1000, -1, , 0, 0, 13.5, 100000, 3, 0, Linear, 0, 0, 0, 0, NoFallOff, 0, 3000, 50000, 0
+Singularity Bolt, 1, Energy, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 5, 0, Singularity Stage 2, 1, 5, 0, 0, 0, 0, NoFallOff, 1, 1, 1, 0, Linear, 0, 3000, 8000, 6000
+Singularity Frags, 1000000, Kinetic, Kinetic, Kinetic, Kinetic, 1, 1, -1, -1, -1, -1, -1, -1, Singularity Gravity, 1, 0.1, 0, 0, 0, 0, NoFallOff, 1, 1, 1, 0, Linear, 0, 0.1, 1, 1
+Singularity Gravity, 1000, Kinetic, Kinetic, Kinetic, Kinetic, 1, 1, 1, 1, 5, 10, -1, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0.1, 1000, 3600
+Singularity Horizon, 1000, Kinetic, Kinetic, Kinetic, Kinetic, 1, 1, 8, 1, 1, 1, -1, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0.1, 1000, 3600
+Singularity Gravity Damage, 1000, Kinetic, Kinetic, Kinetic, Kinetic, 1, 1, -1, -1, -1, -1, -1, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0.1, 1000, 3600
+Singularity Stage 2, 1000000, Kinetic, Kinetic, Kinetic, Kinetic, 1, 1, -1, -1, -1, -1, -1, -1, Singularity Frags, 1, 0.1, 0, 0, 0, 0, NoFallOff, 1, 1, 1, 0, Linear, 0, 0.1, 30, 300
+AryxReaperAmmoWC, 5000, Kinetic, Energy, Energy, Kinetic, -1, -1, -1, -1, 1.5, 2, 5, -1, Reaper Antimatter Bolt, 4, 360, 0, 0, 0, 0, NoFallOff, 5, 25000, 1, 0, Linear, 0, 2150, 10000, 0
+Reaper Antimatter Bolt, 600, Energy, Energy, Energy, Energy, 1, 1, 1, 1, 2.5, 2, -1, -1, Reaper Antimatter Bolt, 2, 360, 0, 0, 0, 0, NoFallOff, 1, 1, 1, 0, Linear, 0, 40, 80, 20
+AryxRailgunAmmoWC, 60000, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, 2, -1, -1, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 9000, 10000, 6000
+AryxGaussAmmoWC, 112500, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, -1, 0.001, -1, None, 0, 0, 1.20000004768372, 1000, 3, 0, Pooled, 0, 0, 0, 0, NoFallOff, 0, 4999, 50000, 6000
+Radiowave, 1, Energy, Energy, Energy, Energy, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 50000, 0
+Radiowave, 1, Energy, Energy, Energy, Energy, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 50000, 0
+AryxSmallFocusBeamAmmo, 50, Energy, Energy, Energy, Energy, -1, -1, -1, -1, -1, 1.5, 10, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 2000, 0
+AryxSmallFocusPulseAmmo, 4500, Energy, Energy, Energy, Energy, -1, -1, -1, -1, -1, 3, 15, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 2000, 0
+Interceptor PD Rocket, 1, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, -1, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, Linear, 250, 600, 5000, 6000
+Sidekick Combat Drone, 1, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, -1, -1, -1, AryxATLASAmmoDroneWC, 1, 1, 0, 0, 0, 0, NoFallOff, 3, 5000, 2, 0, Linear, 100, 300, 400000, 3600
+AryxATLASAmmoDroneWC, 120, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, 0.5, -1, -1, 1.35, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 400, 1200, 0
+Falcon Combat Drone, 1, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, -1, -1, -1, 120mm Heavy Shell, 1, 1, 0, 0, 0, 0, NoFallOff, 3, 5000, 2, 0, Linear, 100, 300, 400000, 3600
+120mm Heavy Shell, 750, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, 0.5, -1, -1, -1, 4, -1, AryxKineticFrags, 10, 360, 0, 0, 0, 0, NoFallOff, 3, 1500, 1, 0, Linear, 0, 900, 3500, 0
+Stormrider Combat Drone, 1, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, -1, -1, -1, AryxEnergyNovaAmmo, 1, 1, 0, 0, 0, 0, NoFallOff, 3, 5000, 2, 0, Linear, 100, 300, 400000, 3600
+AryxEnergyNovaAmmo, 800, Energy, Energy, Energy, Energy, 1, 1, 1, 1, 1, 5, 12, 0, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 800, 1500, 0
+AryxGaussAmmoWC, 112500, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, -1, 0.001, -1, None, 0, 0, 1.20000004768372, 1000, 3, 0, Pooled, 0, 0, 0, 0, NoFallOff, 0, 4999, 50000, 6000
+Zarya Pulse Laser, 35, Energy, Energy, Energy, Energy, -1, -1, 0.5, -1, -1, -1, 5, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 3000, 0
+AryxSmallFocusBeamLanceAmmo, 100, Energy, Energy, Energy, Energy, -1, -1, 0.35, -1, -1, -1, 10, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 5000, 0
+AryxSmallFocusPulseLanceAmmo, 32000, Energy, Energy, Energy, Energy, -1, -1, 0.5, -1, -1, 2, 10, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 5000, 0
+Devastator Fusion Torpedo, 1, Energy, Energy, Energy, Energy, -1, -1, 2, -1, -1, 2, 0.001, -1, Devastator Torpedo, 1, 0, 0, 0, 0, 0, NoFallOff, 3, 5000, 10, 0, Linear, 200, 200, 10000, 120
+Shieldbreaker-Devastator Torpedo, 1, Energy, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 50, -1, AryxEnergyTorp, 1, 0, 0, 0, 0, 0, NoFallOff, 3, 5000, 10, 0, Linear, 200, 200, 10000, 120
+Devastator Torpedo, 1, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, 1.5, -1, 2, 1E-06, -1, AryxKineticFrags, 100, 360, 0, 0, 0, 0, NoFallOff, 8, 100000, 5, 0, Linear, 300, 300, 10000, 3600
+AryxEnergyTorpEMPCharge, 1, Energy, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 0.01, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 10, 0
+AryxEnergyTorp, 1, Energy, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 50, -1, AryxEnergyTorpEMPCharge, 1, 0, 0, 0, 0, 0, NoFallOff, 10, 5000, 5, 0, Linear, 300, 300, 10000, 3600
+Ion Devastator Torpedo, 1, Energy, Energy, Energy, Energy, -1, -1, 2, -1, -1, 2, 0.001, -1, Concussion Devastator Launched, 1, 0, 0, 0, 0, 0, NoFallOff, 3, 5000, 10, 0, Linear, 200, 200, 10000, 120
+Concussion Devastator Launched, 1, Energy, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 1E-06, -1, Concussion Devastator EMP, 1, 1, 0, 0, 0, 0, NoFallOff, 1, 5, 1, 0, Linear, 300, 300, 10000, 3600
+Concussion Devastator EMP, 1, Energy, Energy, Energy, Energy, 1, 1, 1, 1, 1, 10, -1, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 1, 1, 1, 0, Linear, 0, 40, 80, 20
+AryxKineticFrags, 500, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, 2, -1, -1, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1000, 50, 0
+480mm Heavy Shell, 5000, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, 0.5, -1, -1, 1.5, 2, -1, AryxKineticFrags, 40, 360, 0, 0, 0, 0, NoFallOff, 4, 7000, 2, 0, Linear, 0, 900, 4000, 0
+AryxKineticFrags, 500, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, 2, -1, -1, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1000, 50, 0
+850mm Ferrous, 7000, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, 5, 25, -1, AryxHeavyCoilgunPiercingAmmoWC, 1, 0, 0, 0, 0, 0, NoFallOff, 5, 35000, 2, 0, Curve, 0, 0, 9000, 6000
+AryxHeavyCoilgunPiercingAmmoWC, 75000, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, 1E+09, 1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 1000, 6000
+AryxTeslaBeamAmmo, 500, Energy, Energy, Energy, Energy, -1, -1, 0.35, -1, -1, -1, 1, -1, AryxTeslaBeamAmmo, 2, 60, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 40, 0
+85mm AP ECHO, 750, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, -1, 2, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1500, 10000, 0
+85mm HE ECHO, 100, Kinetic, Kinetic, Kinetic, Kinetic, -1, 0.5, 0.75, -1, -1, 2, 2, -1, HE Echo Frags, 20, 90, 0, 0, 0, 0, NoFallOff, 2, 600, 1, 0, Pooled, 0, 800, 10000, 0
+HE Echo Frags, 10, Kinetic, Kinetic, Kinetic, Kinetic, -1, 2.5, -1, -1, -1, 2, 4, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 300, 50, 0
+AryxPDRailgunAmmo, 15500, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, -1, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 4999, 10000, 6000
+AryxWarriorAmmoAP, 1050, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, 2, 1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 900, 5000, 0
+Spartan Energy Bolt, 500, Energy, Energy, Energy, Energy, -1, 2, -1, -1, -1, -1, 10, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1400, 3000, 0
+MG61T Vulcan Ammo, 120, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, 1.35, 2, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1000, 2500, 0
+Red Flare, 1, Energy, Energy, Energy, Energy, 0, 0, 0, 0, 0, 0, 0, 0, Red Flare Burn, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 25, 100, 240
+Red Flare Burn, 1, Energy, Energy, Energy, Energy, 0, 0, 0, 0, 0, 0, 0, 0, , 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 10000, 600
+Blue Flare, 1, Energy, Energy, Energy, Energy, 0, 0, 0, 0, 0, 0, 0, 0, Blue Flare Burn, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 25, 100, 240
+Blue Flare Burn, 1, Energy, Energy, Energy, Energy, 0, 0, 0, 0, 0, 0, 0, 0, , 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 10000, 600
+Green Flare, 1, Energy, Energy, Energy, Energy, 0, 0, 0, 0, 0, 0, 0, 0, Green Flare Burn, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 25, 100, 240
+Green Flare Burn, 1, Energy, Energy, Energy, Energy, 0, 0, 0, 0, 0, 0, 0, 0, , 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 10000, 600
+720nm Laser - MODRED, 35, Energy, Energy, Energy, Energy, -1, -1, 0.75, -1, -1, -1, 10, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 3000, 0
+580nm Laser - MODYEL, 75, Energy, Energy, Energy, Energy, -1, -1, 0.75, -1, -1, -1, 10, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 3000, 0
+525nm Laser - MODGRN, 150, Energy, Energy, Energy, Energy, -1, -1, 0.75, -1, -1, -1, 10, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 3000, 0
+450nm Laser - MODBLU, 200, Energy, Energy, Energy, Energy, -1, -1, 0.75, -1, -1, -1, 10, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 3000, 0
+380nm Laser - MODVIO, 250, Energy, Energy, Energy, Energy, -1, -1, 0.75, -1, -1, -1, 10, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 3000, 0
+240mm Heavy Shell [Windfall], 4500, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, 0.55, -1, -1, 1.5, 2, -1, AryxKineticFrags, 25, 360, 0, 0, 0, 0, NoFallOff, 3, 9000, 2, 0, Linear, 0, 900, 4000, 0
+AryxKineticFrags, 500, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, 2, -1, -1, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1000, 50, 0
+Furion Plasma, 1, Energy, Energy, Energy, Energy, -1, -1, -1, -1, -1, 5, 10, 0, FurionPlasmaFrags, 1, 1, 0, 0, 0, 0, NoFallOff, 10, 4000, 1, 0, Linear, 0, 250, 1500, 360
+Pulsar Energy Bolt, 5000, Energy, Energy, Energy, Energy, -1, -1, -1, 0.95, 0.5, -1, 15, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 3, 23000, 1, 0, Linear, 0, 1800, 5000, 0
+Red Flare, 1, Energy, Energy, Energy, Energy, 0, 0, 0, 0, 0, 0, 0, 0, Red Flare Burn, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 25, 100, 240
+Red Flare Burn, 1, Energy, Energy, Energy, Energy, 0, 0, 0, 0, 0, 0, 0, 0, , 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 10000, 600
+Blue Flare, 1, Energy, Energy, Energy, Energy, 0, 0, 0, 0, 0, 0, 0, 0, Blue Flare Burn, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 25, 100, 240
+Blue Flare Burn, 1, Energy, Energy, Energy, Energy, 0, 0, 0, 0, 0, 0, 0, 0, , 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 10000, 600
+Green Flare, 1, Energy, Energy, Energy, Energy, 0, 0, 0, 0, 0, 0, 0, 0, Green Flare Burn, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 25, 100, 240
+Green Flare Burn, 1, Energy, Energy, Energy, Energy, 0, 0, 0, 0, 0, 0, 0, 0, , 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 10000, 600
+Gladius Missile, 10, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, 3, 1, -1, Gladius Missile Launched, 1, 5, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 100, 100, 8000, 300
+Gladius Missile Launched, 10, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, 3, 2, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 5, 16000, 2.5, 0, Linear, 200, 400, 8000, 6000
+Impulse Gladius Missile, 10, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, 3, 1, -1, Impulse Gladius Missile Launched, 1, 5, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 100, 100, 8000, 300
+Impulse Gladius Missile Launched, 10, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, 3, 2, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 5, 4000, 2.5, 0, Linear, 200, 400, 8000, 6000
+Gladius Phase Missile, 10, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, 3, 1, -1, Gladius Phase Missile Launched, 1, 5, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 100, 100, 8000, 300
+Gladius Phase Missile Launched, 10, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, 3, 2, 1, , 0, 0, 0, 0, 0, 0, NoFallOff, 3, 8500, 1.5, 0, Linear, 200, 400, 8000, 6000
+Centurion Ion Beam, 60, Energy, Energy, Energy, Energy, -1, -1, 0.35, -1, -1, -1, 10, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 5000, 0
+Centurion Ion Pulse, 1000, Energy, Energy, Energy, Energy, -1, -1, 0.5, -1, -1, 2, 10, -1, Centurion EMP Fragment, 1, 1, 0, 0, 0, 0, NoFallOff, 3.5, 3000, 1, 0, Curve, 0, 0, 5000, 0
+Centurion EMP Fragment, 1, Energy, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, -1, 0, Centurion JumpNull Fragment, 1, 1, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 1000, 0
+Centurion JumpNull Fragment, 1, Energy, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, -1, 0, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 1000, 0
+Centurion Ion Beam Muzzleflash, 100, Energy, Energy, Energy, Energy, -1, -1, 0.35, -1, -1, -1, 10, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 0, 1, 1, 0, Curve, 0, 0, 1, 0
+Medusa Phase Bolt, 2500, Energy, Energy, Energy, Energy, 1, 1, 1, 1, 1, 5, 10, 0.5, None, 0, 0, 0, 0, 0, 0, NoFallOff, 3, 2500, 1, 0, Linear, 0, 900, 3500, 0
+1000mm Avalanche Mortar Shell, 2000, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, 0.75, -1, -1, 1, 8, -1, AryxKineticFrags, 25, 1, 0, 0, 0, 0, NoFallOff, 25, 50000, 1, 0, Linear, 0, 400, 10000, 1500
+AryxKineticFrags, 500, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, 2, -1, -1, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1000, 50, 0
+Mini Graviton Traction Beam, 1, Energy, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, -1, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 100, 0
+Argus Laser, 75, Energy, Energy, Energy, Energy, -1, -1, -1, -1, -1, 1.5, 5, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 500, 0
+Shrike Bomb, 1000, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, 1.5, -1, 2, 5, 1, , 0, 0, 0, 0, 0, 0, NoFallOff, 8, 100000, 5, 0, Linear, 0, 1, 10000, 1800
+Starfall Rail-Rocket, 1, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, 2, -1, -1, 2, 0.001, -1, Starfall Rail-Rocket Flight Stage, 1, 15, 0, 0, 0, 0, NoFallOff, 1, 1, 1, 0, Linear, 250, 500, 15000, 120
+Starfall Rail-Rocket Flight Stage, 1, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, 1.5, -1, 2, 3, -1, Starfall Rail-Rocket Deadlock Stage, 1, 1, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 500, 1500, 15000, 3600
+Starfall Rail-Rocket Deadlock Stage, 1, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, 1.5, -1, 2, 1, -1, AryxKineticFrags, 100, 360, 0, 0, 0, 0, NoFallOff, 10, 100000, 7, 0, Linear, 1000, 2000, 2500, 3600
+AryxKineticFrags, 500, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, 2, -1, -1, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1000, 50, 0
+120mm Heavy Shell [Storm], 1000, Kinetic, Kinetic, Kinetic, Kinetic, -1, 0.75, 0.5, -1, -1, -1, 4, -1, AryxKineticFrags, 10, 360, 0, 0, 0, 0, NoFallOff, 3, 1500, 1, 0, Linear, 0, 800, 3500, 0
+AryxKineticFrags, 500, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, 2, -1, -1, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1000, 50, 0
+Sabre Missile Single-use, 10, Kinetic, Kinetic, Energy, Energy, -1, -1, -1, 2.5, 2, 3, 1, -1, , 0, 0, 0, 0, 0, 0, NoFallOff, 5, 12500, 2, 0, Linear, 250, 550, 5000, 6000
+Spartan Energy Bolt, 500, Energy, Energy, Energy, Energy, -1, 2, -1, -1, -1, -1, 10, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1400, 3000, 0
+AryxNovaAmmo, 500, Energy, Energy, Energy, Energy, 1, 1, 1, 1, 1, 5, 10, 0.75, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 950, 1500, 0
+AryxNucleonLaserAmmo, 200, Energy, Energy, Energy, Energy, -1, -1, 0.5, -1, -1, 5, 20, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1500, 400, 0
+Nyx Phase Missile, 10, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, 3, 1, -1, Nyx Phase Missile Launched, 1, 5, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 100, 100, 8000, 150
+Nyx Phase Missile Launched, 10, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, 3, 2, 1, , 0, 0, 0, 0, 0, 0, NoFallOff, 3, 5000, 1, 0, Linear, 200, 400, 8000, 6000
+400nm Pulse Laser, 90, Energy, Energy, Energy, Energy, 0.75, -1, 0.5, -1, -1, -1, 10, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 3000, 0
+AP, 7500, Kinetic, Kinetic, Energy, Kinetic, -1, 0.3, -1, 0.5, -1, 0.75, 1.5, -1, MXA_CoilgunH_APFuse, 1, 0, 1.5, 150, 1, 0, Curve, 0, 0, 0, 0, NoFallOff, 0, 1080, 8500, 0
+MXA_CoilgunH_APFuse, 3000, Kinetic, Kinetic, Energy, Kinetic, -1, 0.3, -1, 0.5, -1, 0.75, 1.5, -1, MXA_CoilgunH_Shrapnel, 50, 120, 1.5, 150, 1, 0, Curve, 0, 0, 0, 0, Curve, 0, 10, 3.5, 600
+MXA_CoilgunH_Shrapnel, 125, Kinetic, Kinetic, Energy, Kinetic, -1, -1, 0.5, -1, -1, 2, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 400, 30, 0
+HE, 250, Kinetic, Kinetic, Energy, 2, -1, 0.3, -1, -1, 0.4, -1, 2.5, -1, MXA_CoilgunH_Shrapnel, 80, 360, 0, 0, 0, 0, NoFallOff, 3.5, 2000, 0, 0, Curve, 0, 980, 8500, 600
+Guided, 9, Kinetic, Kinetic, Energy, Kinetic, -1, 0.3, 1.25, -1, -1, 0.75, 0.6, -1, MXA_CoilgunH_GAmmo, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1080, 8000, 6
+MXA_CoilgunH_GAmmo, 6000, Kinetic, Kinetic, Energy, Kinetic, -1, 0.3, -1, 0.5, -1, 0.75, 1.9, -1, MXA_CoilgunH_Shrapnel, 50, 270, 1.5, 150, 1, 0, Curve, 2.5, 650, 1.75, 0, Curve, 50, 1080, 8500, 600
+AP, 500, Kinetic, Kinetic, Energy, Kinetic, -1, 0.33, 1.25, 0.5, -1, 0.75, 1, -1, MXA_CoilgunL_Shrapnel, 25, 100, 0.75, 75, 0.375, 0, Curve, 0, 0, 0, 0, NoFallOff, 0, 1100, 6000, 600
+MXA_CoilgunL_Shrapnel, 75, Kinetic, Kinetic, Energy, Kinetic, -1, -1, -1, -1, -1, -1, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 800, 40, 600
+Flak, 10, Kinetic, Kinetic, Energy, Energy, 0, 0, -1, -1, -1, -1, 0, -1, MXA_CoilgunL_Flak, 1, 0, 0, 0, 0, 0, NoFallOff, 3, 0, 0, 0, Pooled, 0, 900, 5000, 600
+MXA_CoilgunL_Flak, 10, Kinetic, Kinetic, Energy, Energy, -1, 0.33, -1, 0.5, -1, -1, 2.5, -1, MXA_CoilgunL_Shrapnel, 25, 360, 0, 0, 0, 0, NoFallOff, 3, 400, 0, 0, Curve, 0, 900, 1, 1
+HE, 180, Kinetic, Kinetic, Energy, 2, 1, 0.66, -1, 0.5, -1, -1, -1, -1, None, 0, 0, 0.5, 50, 0.25, 0, Curve, 0, 0, 0, 0, NoFallOff, 0, 1200, 3000, 600
+Prox, 75, Kinetic, Kinetic, Energy, 2, 1, 1.25, -1, -1, 0.4, -1, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1200, 3000, 600
+HE, 180, Kinetic, Kinetic, Energy, 2, 1, 0.66, -1, 0.5, -1, -1, -1, -1, None, 0, 0, 0.5, 50, 0.25, 0, Curve, 0, 0, 0, 0, NoFallOff, 0, 1200, 3000, 600
+Prox, 75, Kinetic, Kinetic, Energy, 2, 1, 1.25, -1, -1, 0.4, -1, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1200, 3000, 600
+HE, 180, Kinetic, Kinetic, Energy, 2, 1, 0.66, -1, 0.5, -1, -1, -1, -1, None, 0, 0, 0.5, 50, 0.25, 0, Curve, 0, 0, 0, 0, NoFallOff, 0, 1200, 3000, 600
+Prox, 75, Kinetic, Kinetic, Energy, 2, 1, 1.25, -1, -1, 0.4, -1, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1200, 3000, 600
+HE, 180, Kinetic, Kinetic, Energy, 2, 1, 0.66, -1, 0.5, -1, -1, -1, -1, None, 0, 0, 0.5, 50, 0.25, 0, Curve, 0, 0, 0, 0, NoFallOff, 0, 1200, 3000, 600
+Prox, 75, Kinetic, Kinetic, Energy, 2, 1, 1.25, -1, -1, 0.4, -1, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1200, 3000, 600
+AP, 7500, Kinetic, Kinetic, Energy, Kinetic, -1, 0.3, -1, 0.5, -1, 0.75, 1.5, -1, MXA_BreakWater_APFuse, 1, 0, 2, 700, 1, 0, Curve, 0, 0, 0, 0, NoFallOff, 0, 1000, 10000, 0
+MXA_BreakWater_APFuse, 10500, Kinetic, Kinetic, Energy, Kinetic, -1, 0.3, -1, 0.5, -1, 0.75, 1.5, -1, MXA_BreakWater_Shrapnel, 50, 120, 1, 150, 0.5, 0, Curve, 1, 150, 0.5, 0, Curve, 0, 10, 3.5, 600
+MXA_BreakWater_Shrapnel, 375, Kinetic, Kinetic, Energy, Kinetic, -1, -1, 0.9, -1, -1, 2, 0.1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1500, 40, 0
+HE, 500, Kinetic, Kinetic, Energy, 2, -1, 0.3, -1, -1, 0.4, -1, 2.5, -1, MXA_BreakWater_Shrapnel, 70, 360, 0, 0, 0, 0, NoFallOff, 5, 3600, 0, 0, Curve, 0, 940, 10000, 600
+Guided, 18, Kinetic, Kinetic, Energy, 2, -1, 0.3, 1.25, -1, -1, 0.75, 0.6, -1, MXA_BreakWater_GAmmo, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1000, 10000, 6
+MXA_BreakWater_GAmmo, 12000, Kinetic, Kinetic, Energy, Kinetic, -1, 0.3, -1, 0.5, -1, 0.75, 1.9, -1, MXA_BreakWater_Shrapnel, 50, 270, 1.5, 120, 0.75, 0, Curve, 3, 1200, 1, 0, Curve, 50, 1000, 10000, 900
+MXA_Sabre_Coilgun_Ammo, 112.5, Kinetic, Kinetic, Energy, 2, 0.5, -1, -1, 0.5, -1, -1, -1, -1, MXA_Sabre_Coilgun_Shrapnel, 0, 360, 0, 0, 0, 0, NoFallOff, 0.5, 250, 0.25, 0, Curve, 0, 800, 1200, 0
+MXA_Sabre_Coilgun_Shrapnel, 5, Kinetic, Kinetic, Energy, 2, 1, 1.5, -1, -1, 0.8, -1, 0.25, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1500, 40, 0
+MXA_Sabre_Coilgun_Ammo, 112.5, Kinetic, Kinetic, Energy, 2, 0.5, -1, -1, 0.5, -1, -1, -1, -1, MXA_Sabre_Coilgun_Shrapnel, 0, 360, 0, 0, 0, 0, NoFallOff, 0.5, 250, 0.25, 0, Curve, 0, 800, 1200, 0
+MXA_Sabre_Coilgun_Shrapnel, 5, Kinetic, Kinetic, Energy, 2, 1, 1.5, -1, -1, 0.8, -1, 0.25, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1500, 40, 0
+AP, 700, Kinetic, Kinetic, Energy, Kinetic, -1, -1, 1.25, -1, -1, 0.75, 1.5, -1, MXA_SoFCoilgun_Shrapnel, 25, 100, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1025, 8000, 600
+MXA_SoFCoilgun_Shrapnel, 75, Kinetic, Kinetic, Energy, Kinetic, -1, -1, 0.75, -1, -1, 2, 0.2, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1500, 40, 600
+HE, 7, Kinetic, Kinetic, Energy, 2, -1, 0.33, -1, -1, 0.4, -1, 2.5, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 3, 600, 2, 0, Linear, 0, 1000, 8000, 600
+Low Power, 57000, Kinetic, Kinetic, Energy, Kinetic, -1, 0.3, 0.5, -1, -1, -1, 4, -1, MXA_MACL_Shrapnel, 75, 270, 1.75, 5000, 1, 0, NoFalloff, 0, 0, 0, 0, NoFallOff, 0, 4100, 3000, 0
+MXA_MACL_Shrapnel, 7500, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, 1.2, 0.1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 3000, 400, 0
+High Power, 315, Kinetic, Kinetic, Energy, 2, -1, 0.3, -1, 0.5, -1, -1, 0, -1, MXA_MACL_Impact, 1, 0, 0, 0, 0, 0, NoFallOff, 5, 16500, 1, 0, Curve, 0, 0, 3000, 600
+MXA_MACL_Impact, 315000, Kinetic, Kinetic, Energy, Kinetic, -1, 0.3, -1, 0.5, -1, -1, 5, -1, MXA_MACL_Shrapnel, 100, 150, 1.75, 5000, 1, 0, NoFalloff, 0, 0, 0, 0, NoFallOff, 0, 5000, 3000, 0
+Low Power, 42750, Kinetic, Kinetic, Energy, Kinetic, -1, 0.3, 0.5, -1, -1, -1, 4, -1, MXA_MACL_S_Shrapnel, 75, 270, 1.29999995231628, 2500, 0.75, 0, NoFalloff, 0, 0, 0, 0, NoFallOff, 0, 4100, 3000, 0
+MXA_MACL_S_Shrapnel, 3750, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, 1.2, 0.1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 3000, 400, 0
+High Power, 236, Kinetic, Kinetic, Energy, 2, -1, 0.3, 0.01, -1, -1, -1, 0, -1, MXA_MACL_S_HPAmmo, 1, 0, 0, 0, 0, 0, NoFallOff, 7.5, 16500, 3.75, 0, Curve, 0, 0, 3000, 600
+MXA_MACL_S_HPAmmo, 236250, Kinetic, Kinetic, Energy, Kinetic, -1, 0.3, 0.5, -1, -1, -1, 5, -1, MXA_MACL_S_Shrapnel, 100, 270, 1.29999995231628, 3750, 1, 0, NoFalloff, 0, 0, 0, 0, NoFallOff, 0, 5000, 3000, 0
+Low P, 400000, Kinetic, Kinetic, Energy, Kinetic, -1, 0.3, 0.25, -1, -1, -1, 3, -1, MXA_SMAC_Shrapnel, 75, 180, 3, 40000, 1.5, 0, Curve, 0, 0, 0, 0, NoFallOff, 0, 5000, 3000, 0
+MXA_SMAC_Shrapnel, 16500, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, 0.5, 2, -1, 0.1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1500, 60, 0
+MXA_SMAC_HPAmmo, 2800000, Kinetic, Kinetic, Energy, Kinetic, -1, 0.3, 0.25, -1, -1, -1, 4, -1, MXA_SMAC_Shrapnel, 100, 180, 4, 49500, 2, 0, Curve, 0, 0, 0, 0, NoFallOff, 0, 4100, 3000, 0
+High Power, 2800, Kinetic, Kinetic, Energy, 2, -1, 0.3, -1, 0.3, -1, -1, 0, -1, MXA_SMAC_HPAmmo, 1, 0, 0, 0, 0, 0, NoFallOff, 7.5, 35000, 5, 0, Exponential, 0, 0, 3000, 600
+Low Power, 42750, Kinetic, Kinetic, Energy, Kinetic, -1, 0.3, 0.5, -1, -1, -1, 4, -1, MXA_MACL_S_Shrapnel, 75, 270, 1.29999995231628, 2500, 0.75, 0, NoFalloff, 0, 0, 0, 0, NoFallOff, 0, 4100, 3000, 0
+MXA_MACL_S_Shrapnel, 3750, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, 1.2, 0.1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 3000, 400, 0
+High Power, 236, Kinetic, Kinetic, Energy, 2, -1, 0.3, 0.01, -1, -1, -1, 0, -1, MXA_MACL_S_HPAmmo, 1, 0, 0, 0, 0, 0, NoFallOff, 7.5, 16500, 3.75, 0, Curve, 0, 0, 3000, 600
+MXA_MACL_S_HPAmmo, 236250, Kinetic, Kinetic, Energy, Kinetic, -1, 0.3, 0.5, -1, -1, -1, 5, -1, MXA_MACL_S_Shrapnel, 100, 270, 1.29999995231628, 3750, 1, 0, NoFalloff, 0, 0, 0, 0, NoFallOff, 0, 5000, 3000, 0
+Low Power, 25650, Kinetic, Kinetic, Energy, Kinetic, -1, 0.3, 0.5, -1, -1, -1, 4, -1, MXA_M2MAC_S_Shrapnel, 75, 270, 1.5, 2250, 0, 0, NoFalloff, 0, 0, 0, 0, NoFallOff, 0, 4100, 3000, 0
+MXA_M2MAC_S_Shrapnel, 3375, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, 1.2, 0.1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 3000, 400, 0
+High Power, 142, Kinetic, Kinetic, Energy, 2, -1, 0.3, 0.01, -1, -1, -1, 0, -1, MXA_M2MAC_S_HPAmmo, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 3000, 600
+MXA_M2MAC_S_HPAmmo, 236250, Kinetic, Kinetic, Energy, Kinetic, -1, 0.3, 0.5, -1, -1, -1, 5, -1, MXA_M2MAC_S_Shrapnel, 100, 270, 1.25, 2250, 0.75, 0, NoFalloff, 0, 0, 0, 0, NoFallOff, 0, 5000, 3000, 0
+Explosive, 1, Kinetic, Kinetic, Energy, 2, -1, 0.5, -1, -1, -1, -1, -1, -1, MXA_ArcherPods_AccelStage, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 25, 10000, 90
+MXA_ArcherPods_AccelStage, 1, Kinetic, Kinetic, Energy, 2, -1, 0.5, -1, -1, -1, -1, -1, -1, MXA_ArcherPods_Stage, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 500, 25, 10000, 60
+MXA_ArcherPods_Stage, 1, Kinetic, Kinetic, Energy, 2, -1, 0.5, -1, 0.5, -1, 0.5, 2, -1, MXA_ArcherPods_Shrapnel, 0, 270, 0, 0, 0, 0, NoFallOff, 6, 3200, 3, 0, Curve, 25, 275, 11000, 3600
+MXA_ArcherPods_Shrapnel, 10, Kinetic, Kinetic, Energy, Kinetic, -1, -1, -1, -1, 1.5, -1, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 5, 0
+Kinetic, 1, Kinetic, Kinetic, Energy, 2, -1, 0.5, -1, -1, -1, -1, -1, -1, MXA_ArcherPods_KineticAccelStage, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 25, 10000, 90
+MXA_ArcherPods_KineticAccelStage, 1, Kinetic, Kinetic, Energy, 2, -1, 0.5, -1, -1, -1, -1, -1, -1, MXA_ArcherPods_KineticStage, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 500, 25, 10000, 60
+MXA_ArcherPods_KineticStage, 4200, Kinetic, Kinetic, Energy, Kinetic, -1, 0.5, -1, 0.5, -1, -1, 1.5, -1, MXA_ArcherPods_KineticShrapnel, 20, 270, 0, 0, 0, 0, NoFallOff, 2, 200, 1, 0, Curve, 25, 275, 11000, 3600
+MXA_ArcherPods_KineticShrapnel, 300, Kinetic, Kinetic, Energy, Kinetic, -1, -1, 0.5, 0.5, -1, 1.5, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 5, 0
+Explosive, 1, Kinetic, Kinetic, Energy, Energy, -1, 0.5, -1, -1, -1, -1, 1, -1, MXA_M58ArcherPods_AccelStage, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 30, 10000, 90
+MXA_M58ArcherPods_AccelStage, 1, Kinetic, Kinetic, Energy, Energy, -1, -1, -1, -1, -1, -1, -1, -1, MXA_M58ArcherPods_Stage, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 500, 30, 10000, 60
+MXA_M58ArcherPods_Stage, 1, Kinetic, Kinetic, Energy, Energy, -1, 0.33, -1, 0.5, -1, 0.5, -1, -1, MXA_M58ArcherPods_Shrapnel, 0, 270, 0, 0, 0, 0, NoFallOff, 5, 1200, 1, 0, Curve, 30, 300, 10000, 3600
+MXA_M58ArcherPods_Shrapnel, 5, Kinetic, Kinetic, Energy, Energy, -1, 0.33, -1, 0.5, -1, 0.5, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 400, 5, 0
+Kinetic, 1, Kinetic, Kinetic, Energy, Energy, -1, 0.5, -1, -1, -1, -1, -1, -1, MXA_M58ArcherPods_KineticAccelStage, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 30, 10000, 90
+MXA_M58ArcherPods_KineticAccelStage, 1, Kinetic, Kinetic, Energy, Energy, -1, 0.5, -1, -1, -1, -1, -1, -1, MXA_M58ArcherPods_KineticStage, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 500, 30, 10000, 60
+MXA_M58ArcherPods_KineticStage, 1400, Kinetic, Kinetic, Energy, Energy, -1, 0.33, -1, 0.5, 1.5, -1, -1, -1, MXA_M58ArcherPods_KineticShrapnel, 10, 270, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 30, 300, 10000, 3600
+MXA_M58ArcherPods_KineticShrapnel, 100, Kinetic, Kinetic, Energy, Energy, -1, 0.33, -1, 0.5, -1, 1.5, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 5, 0
+Explosive, 1, Kinetic, Kinetic, Energy, Energy, -1, 0.5, -1, 0.75, 1.5, -1, -1, -1, MXA_M58ArcherPods_S_AccelStage, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 35, 8000, 90
+MXA_M58ArcherPods_S_AccelStage, 1, Kinetic, Kinetic, Energy, Energy, -1, 0.5, -1, 0.75, 1.5, -1, -1, -1, MXA_M58ArcherPods_S_Stage, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 500, 35, 8000, 60
+MXA_M58ArcherPods_S_Stage, 1, Kinetic, Kinetic, Energy, Energy, -1, 0.5, -1, 0.5, -1, 0.5, 2, -1, MXA_M58ArcherPods_S_Shrapnel, 0, 270, 0, 0, 0, 0, NoFallOff, 3, 700, 2, 0, Curve, 35, 350, 8000, 3600
+MXA_M58ArcherPods_S_Shrapnel, 2.5, Kinetic, Kinetic, Energy, Energy, -1, 0.33, -1, 0.5, -1, 0.5, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 5, 0
+Kinetic, 1, Kinetic, Kinetic, Energy, Energy, -1, 0.5, -1, 0.75, 1.5, -1, -1, -1, MXA_M58ArcherPods_S_KineticAccelStage, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 35, 8000, 90
+MXA_M58ArcherPods_S_KineticAccelStage, 1, Kinetic, Kinetic, Energy, Energy, -1, 0.5, -1, 0.75, 1.5, -1, -1, -1, MXA_M58ArcherPods_S_KineticStage, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 500, 35, 8000, 60
+MXA_M58ArcherPods_S_KineticStage, 800, Kinetic, Kinetic, Energy, Energy, -1, 0.5, -1, 0.5, -1, -1, 1.5, -1, MXA_M58ArcherPods_S_KineticShrapnel, 10, 270, 0, 0, 0, 0, NoFallOff, 1, 70, 0.25, 0, Curve, 35, 350, 8000, 3600
+MXA_M58ArcherPods_S_KineticShrapnel, 25, Kinetic, Kinetic, Energy, Energy, -1, 0.33, 0.5, 0.5, -1, 1.5, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 5, 0
+MXA_Shiva_Ammo, 10, Kinetic, Kinetic, Energy, Energy, -1, 0.5, -1, -1, -1, -1, 1, -1, MXA_Shiva_AmmoE, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 25, 12500, 60
+MXA_Shiva_EMPStage, 1, Kinetic, Energy, Energy, Energy, -1, 0.3, -1, -1, -1, 10, 0.75, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 10, 1, 30
+MXA_Shiva_AmmoE, 1, Kinetic, Kinetic, Energy, Energy, -1, 0.33, -1, 0.33, -1, 0.5, -1, -1, MXA_Shiva_EMPStage, 1, 0, 0, 0, 0, 0, NoFallOff, 50, 825000, 0, 0, Pooled, 25, 300, 12500, 3600
+Fixed, 1, Kinetic, Kinetic, Energy, 2, -1, -1, -1, -1, -1, -1, -1, -1, MXA_Moray_Mine, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 5, 20, 0
+MXA_Moray_Mine, 1, Kinetic, Kinetic, Energy, 2, -1, -1, -1, -1, -1, -1, -1, -1, MXA_Moray_Shrapnel, 100, 360, 0, 0, 0, 0, NoFallOff, 8, 7500, 0, 0, Curve, 1, 0, 0, 0
+Smart, 1, Kinetic, Kinetic, Energy, 2, -1, -1, -1, -1, -1, -1, -1, -1, MXA_Moray_SMine, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 5, 20, 0
+MXA_Moray_SMine, 1, Kinetic, Kinetic, Energy, 2, -1, 0.3, -1, 0.5, -1, -1, -1, -1, MXA_Moray_Shrapnel, 100, 360, 0, 0, 0, 0, NoFallOff, 8, 7500, 0, 0, Curve, 7.5, 50, 0, 0
+MXA_Moray_Shrapnel, 500, Kinetic, Kinetic, Energy, Kinetic, -1, 0.33, -1, 0.5, -1, -1, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1000, 40, 0
+25mm NATO, 150, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, 0.9, 0.4, -1, 2, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 800, 1500, 300
+25mm NATO, 150, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, 0.9, 0.4, -1, 2, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 800, 1500, 300
+25mm NATO, 150, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, 0.9, 0.4, -1, 2, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 800, 1500, 300
+25mm NATO, 150, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, 0.9, 0.4, -1, 2, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 800, 1500, 300
+200mm Missile, 1, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, 0.9, 0.7, 1.2, 2, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 5, 500, 1, 0, Linear, 200, 200, 2500, 1200
+200mm Missile, 1, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, 0.9, 0.7, 1.2, 2, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 5, 500, 1, 0, Linear, 200, 200, 2500, 1200
+200mm Missile, 1, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, 0.9, 0.7, 1.2, 2, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 5, 500, 1, 0, Linear, 200, 200, 2500, 1200
+200mm Missile, 1, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, 0.9, 0.7, 1.2, 2, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 5, 500, 1, 0, Linear, 200, 200, 2500, 1200
+200mm Missile, 1, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, 0.9, 0.7, 1.2, 2, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 5, 500, 1, 0, Linear, 200, 200, 2500, 1200
+200mm Missile, 1, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, 0.9, 0.7, 1.2, 2, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 5, 500, 1, 0, Linear, 200, 200, 2500, 1200
+MR-50A, 30, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, 0.3, 0.1, -1, 0.2, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 600, 400, 100
+5.56x45mm, 30, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, 0.3, 0.1, -1, 0.2, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 600, 400, 100
+Autocannon Shell, 500, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, 0.6, -1, 2, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 600, 2500, 420
+Autocannon Shell, 500, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, 0.6, -1, 2, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 600, 2500, 420
+Assault Cannon Shell, 4000, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, -1, 3, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 600, 3000, 480
+Assault Cannon Shell, 4000, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, -1, 3, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 600, 3000, 480
+Assault Cannon Shell, 4000, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, -1, 3, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 600, 3000, 480
+Artillery Shell, 17000, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, -1, 4, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 500, 3500, 600
+Artillery Shell, 17000, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, -1, 4, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 500, 3500, 600
+Large Railgun Slug, 50000, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, -1, 5, -1, None, 0, 0, 5, 5, 1, 0, Pooled, 0, 0, 0, 0, NoFallOff, 0, 2000, 5000, 300
+Small Railgun Slug, 8000, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, -1, 5, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1000, 3500, 300
+R75ammo, 3100, Kinetic, Energy, Energy, Kinetic, -1, 0.3, -1, -1, 2, 0.8, 1.5, -1, railgunShrapnel, 3, 45, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 3000, 8000, 200
+railgunShrapnel, 3000, Kinetic, Energy, Energy, Kinetic, -1, 0.2, -1, -1, -1, 0.8, 1.5, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 3000, 15, 20
+RailFXshots, 500, Energy, Energy, Energy, Energy, -1, 0.5, -1, -1, -1, -1, 25, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 3000, 1000, 60
+RailFXshots2, 1, Kinetic, Energy, Energy, Kinetic, -1, 0.1, -1, -1, -1, -1, 1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1300, 400, 60
+R75ammo, 3100, Kinetic, Energy, Energy, Kinetic, -1, 0.3, -1, -1, 2, 0.8, 1.5, -1, railgunShrapnel, 3, 45, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 3000, 8000, 200
+railgunShrapnel, 3000, Kinetic, Energy, Energy, Kinetic, -1, 0.2, -1, -1, -1, 0.8, 1.5, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 3000, 15, 20
+RailFXshots, 500, Energy, Energy, Energy, Energy, -1, 0.5, -1, -1, -1, -1, 25, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 3000, 1000, 60
+RailFXshots2, 1, Kinetic, Energy, Energy, Kinetic, -1, 0.1, -1, -1, -1, -1, 1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1300, 400, 60
+R150ammo, 18000, Kinetic, Energy, Energy, Kinetic, -1, 0.2, -1, -1, 2, 0.8, 1.5, -1, railgunShrapnel2, 3, 45, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 2500, 10000, 440
+railgunShrapnel2, 8000, Kinetic, Energy, Energy, Kinetic, -1, 0.5, -1, -1, -1, 0.8, 1.5, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 500, 25, 60
+RailFXshot, 800, Energy, Energy, Energy, Energy, -1, 0.1, -1, -1, -1, -1, 25, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 2500, 1200, 60
+RailFXshot2, 1, Kinetic, Energy, Energy, Kinetic, -1, 0.1, -1, -1, -1, -1, 1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1100, 500, 60
+railgunShrapnel2B, 80, Kinetic, Energy, Energy, Kinetic, -1, 0.5, -1, -1, -1, -1, 0.1, -1, railgunShrapnel2, 15, 90, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 2200, 85, 30
+R150ammo, 18000, Kinetic, Energy, Energy, Kinetic, -1, 0.2, -1, -1, 2, 0.8, 1.5, -1, railgunShrapnel2, 3, 45, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 2500, 10000, 440
+railgunShrapnel2, 8000, Kinetic, Energy, Energy, Kinetic, -1, 0.5, -1, -1, -1, 0.8, 1.5, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 500, 25, 60
+RailFXshot, 800, Energy, Energy, Energy, Energy, -1, 0.1, -1, -1, -1, -1, 25, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 2500, 1200, 60
+RailFXshot2, 1, Kinetic, Energy, Energy, Kinetic, -1, 0.1, -1, -1, -1, -1, 1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1100, 500, 60
+railgunShrapnel2B, 80, Kinetic, Energy, Energy, Kinetic, -1, 0.5, -1, -1, -1, -1, 0.1, -1, railgunShrapnel2, 15, 90, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 2200, 85, 30
+R250ammo, 32500, Kinetic, Energy, Energy, Kinetic, -1, 0.2, -1, -1, 2, 0.8, 1.5, -1, railgunShrapnel3, 3, 65, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 2000, 10000, 440
+railgunShrapnel3, 10000, Kinetic, Energy, Energy, Kinetic, -1, 0.3, -1, -1, -1, 0.8, 1.5, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 2000, 35, 20
+RailFXshotl, 1000, Energy, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 25, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 2000, 1400, 60
+RailFXshotl2, 1, Kinetic, Energy, Energy, Kinetic, -1, 0.1, -1, -1, -1, -1, 1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1100, 500, 60
+R250ammo, 32500, Kinetic, Energy, Energy, Kinetic, -1, 0.2, -1, -1, 2, 0.8, 1.5, -1, railgunShrapnel3, 3, 65, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 2000, 10000, 440
+railgunShrapnel3, 10000, Kinetic, Energy, Energy, Kinetic, -1, 0.3, -1, -1, -1, 0.8, 1.5, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 2000, 35, 20
+RailFXshotl, 1000, Energy, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 25, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 2000, 1400, 60
+RailFXshotl2, 1, Kinetic, Energy, Energy, Kinetic, -1, 0.1, -1, -1, -1, -1, 1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1100, 500, 60
+R250ammo, 32500, Kinetic, Energy, Energy, Kinetic, -1, 0.2, -1, -1, 2, 0.8, 1.5, -1, railgunShrapnel3, 3, 65, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 2000, 10000, 440
+railgunShrapnel3, 10000, Kinetic, Energy, Energy, Kinetic, -1, 0.3, -1, -1, -1, 0.8, 1.5, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 2000, 35, 20
+RailFXshotl, 1000, Energy, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 25, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 2000, 1400, 60
+RailFXshotl2, 1, Kinetic, Energy, Energy, Kinetic, -1, 0.1, -1, -1, -1, -1, 1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1100, 500, 60
+R250ammo, 32500, Kinetic, Energy, Energy, Kinetic, -1, 0.2, -1, -1, 2, 0.8, 1.5, -1, railgunShrapnel3, 3, 65, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 2000, 10000, 440
+railgunShrapnel3, 10000, Kinetic, Energy, Energy, Kinetic, -1, 0.3, -1, -1, -1, 0.8, 1.5, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 2000, 35, 20
+RailFXshotl, 1000, Energy, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 25, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 2000, 1400, 60
+RailFXshotl2, 1, Kinetic, Energy, Energy, Kinetic, -1, 0.1, -1, -1, -1, -1, 1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1100, 500, 60
+R250ammo, 32500, Kinetic, Energy, Energy, Kinetic, -1, 0.2, -1, -1, 2, 0.8, 1.5, -1, railgunShrapnel3, 3, 65, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 2000, 10000, 440
+railgunShrapnel3, 10000, Kinetic, Energy, Energy, Kinetic, -1, 0.3, -1, -1, -1, 0.8, 1.5, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 2000, 35, 20
+RailFXshotl, 1000, Energy, Energy, Energy, Energy, -1, -1, -1, -1, -1, -1, 25, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 2000, 1400, 60
+RailFXshotl2, 1, Kinetic, Energy, Energy, Kinetic, -1, 0.1, -1, -1, -1, -1, 1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 1100, 500, 60
+AMSLaser, 7, Energy, Energy, Energy, Energy, 0.1, 0.1, -1, -1, 0, -1, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 1500, 0
+30mmAmmoT, 50, Kinetic, Energy, Energy, Kinetic, 0.01, -1, -1, -1, 0.01, -1, 0.5, -1, 30mmAmmoTR, 1, 120, 0, 0, 0, 0, NoFallOff, 1, 1, 0, 0, Pooled, 0, 800, 2200, 200
+30mmAmmoAP, 120, Kinetic, Energy, Energy, Kinetic, 0.8, -1, -1, 1.5, 0.3, -1, 1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 800, 2200, 200
+30mmAmmoHE, 1, Kinetic, Energy, Energy, Kinetic, 0.4, -1, -1, 5, 0.01, -1, 1.2, -1, 30mmCRAMAmmoS, 1, 0, 0, 0, 0, 0, NoFallOff, 1, 20, 0.5, 0, Linear, 0, 800, 2200, 200
+30mmDUAmmo, 1, Kinetic, Energy, Energy, Kinetic, 0.3, -1, -1, 5, 0.1, -1, 1.2, -1, 30mmCRAMAmmoS, 1, 0, 0, 0, 0, 0, NoFallOff, 1, 30, 0.5, 0, Linear, 0, 800, 2200, 200
+30mmAmmoDU, 180, Kinetic, Energy, Energy, Kinetic, 0.8, -1, -1, -1, 0.4, -1, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 800, 2200, 200
+30mmCRAMAmmo, 1, Kinetic, Energy, Energy, Energy, 0.3, -1, -1, 0.8, 0.01, -1, 1.2, -1, 30mmCRAMAmmoS, 1, 0, 0, 0, 0, 0, NoFallOff, 1, 30, 0.5, 0, Linear, 0, 1000, 2000, 200
+30mmCRAMAmmoS, 1, Kinetic, Energy, Energy, Kinetic, -1, -1, -1, -1, -1, -1, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 810, 200, 8
+30mmAmmoTR, 5, Kinetic, Energy, Energy, Kinetic, 0.01, -1, -1, -1, 0.01, -1, 0.5, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 75, 200, 120
+30mmAmmoBlank, 1, Kinetic, Energy, Energy, Kinetic, 0.4, -1, -1, -1, 0.01, -1, 1.2, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 800, 10, 20
+30mmAmmoBlank2, 1, Kinetic, Energy, Energy, Kinetic, 0.4, -1, -1, -1, 0.01, -1, 1.2, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 800, 10, 20
+30mmAmmoTT, 50, Kinetic, Energy, Energy, Kinetic, 0.01, -1, -1, -1, 0.01, -1, 0.5, -1, 30mmAmmoTR, 1, 100, 0, 0, 0, 0, NoFallOff, 0.5, 1, 0, 0, Curve, 0, 800, 2200, 200
+30mmAmmoAP, 120, Kinetic, Energy, Energy, Kinetic, 0.8, -1, -1, 1.5, 0.3, -1, 1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 800, 2200, 200
+30mmAmmoHE, 1, Kinetic, Energy, Energy, Kinetic, 0.4, -1, -1, 5, 0.01, -1, 1.2, -1, 30mmCRAMAmmoS, 1, 0, 0, 0, 0, 0, NoFallOff, 1, 20, 0.5, 0, Linear, 0, 800, 2200, 200
+30mmDUAmmoT, 1, Kinetic, Energy, Energy, Kinetic, 0.3, -1, -1, -1, 0.1, -1, 1.2, -1, 30mmCRAMAmmoS, 1, 0, 0, 0, 0, 0, NoFallOff, 1, 30, 0.5, 0, Linear, 0, 800, 2200, 200
+30mmAmmoDU, 180, Kinetic, Energy, Energy, Kinetic, 0.8, -1, -1, -1, 0.4, -1, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 800, 2200, 200
+30mmCRAMAmmo, 1, Kinetic, Energy, Energy, Energy, 0.3, -1, -1, 0.8, 0.01, -1, 1.2, -1, 30mmCRAMAmmoS, 1, 0, 0, 0, 0, 0, NoFallOff, 1, 30, 0.5, 0, Linear, 0, 1000, 2000, 200
+30mmCRAMAmmoS, 1, Kinetic, Energy, Energy, Kinetic, -1, -1, -1, -1, -1, -1, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 810, 200, 8
+30mmAmmoTR, 5, Kinetic, Energy, Energy, Kinetic, 0.01, -1, -1, -1, 0.01, -1, 0.5, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 75, 200, 120
+LV203mmammo, 1, Energy, Energy, Energy, Energy, -1, 0.4, -1, -1, 0.4, 0.8, 4, -1, H203ShrapBase, 1, 0, 0, 0, 0, 0, NoFallOff, 5, 300, 0, 0, InvCurve, 0, 125, 20000, 3000
+MV203mmammo, 1, Energy, Energy, Energy, Energy, -1, 0.4, -1, -1, 0.4, 0.8, 4, -1, H203ShrapBase, 1, 0, 0, 0, 0, 0, NoFallOff, 5, 300, 0, 0, InvCurve, 0, 225, 20000, 3000
+HV203mmammo, 1, Kinetic, Energy, Energy, Energy, -1, 0.4, -1, -1, 0.4, 0.8, 4, -1, H203ShrapBase, 1, 0, 0, 0, 0, 0, NoFallOff, 5, 300, 0, 0, InvCurve, 0, 325, 20000, 3000
+H203mmammoShrap, 200, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, -1, 4, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 300, 60
+H203ShrapBase, 10, Kinetic, Kinetic, Kinetic, Kinetic, -1, 0.4, -1, 0.9, 0.4, 0.8, 4, -1, H203mmammoShrap, 50, 360, 0, 0, 0, 0, NoFallOff, 5, 7500, 0, 0, Pooled, 0, 0, 5, 5
+HVF203mmammo, 1, Kinetic, Energy, Energy, Energy, -1, 0.4, -1, -1, 0.4, -1, 3, -1, H203ShrapBase, 1, 0, 0, 0, 0, 0, NoFallOff, 2, 2000, 4, 0, Linear, 0, 325, 3500, 780
+Flak100mm, 1, Kinetic, Kinetic, Kinetic, Kinetic, -1, 0.5, -1, -1, 0.4, -1, 4, -1, C100mmShrapnelbase, 1, 0, 0, 0, 0, 0, NoFallOff, 20, 0.1, 0, 0, Pooled, 0, 800, 2500, 400
+C100mmShrapnel, 150, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, 0.5, -1, 4, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 50, 20
+C100mmShrapnelbase, 10, Kinetic, Kinetic, Kinetic, Kinetic, -1, 0.5, -1, -1, 0.4, 0.8, 4, -1, C100mmShrapnel, 25, 80, 0, 0, 0, 0, NoFallOff, 2.5, 2000, 0, 0, Pooled, 0, 0, 2, 3
+HE100mm, 1, Kinetic, Kinetic, Kinetic, Kinetic, -1, 0.5, -1, -1, 0.4, -1, 4, -1, C100mmShrapnelbase, 1, 0, 0, 0, 0, 0, NoFallOff, 2.5, 50, 1, 0, InvCurve, 0, 800, 8000, 800
+Flak200mm, 1, Energy, Energy, Energy, Energy, -1, 0.4, -1, -1, 0.4, 0.8, 4, -1, C200mmPDAOE, 1, 0, 0, 0, 0, 0, NoFallOff, 7.5, 100, 0, 0, InvCurve, 0, 650, 3500, 600
+C200mmShrapnel, 200, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, -1, 4, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 40, 20
+C200mmShrapnelbase, 10, Kinetic, Kinetic, Kinetic, Kinetic, -1, 0.4, -1, -1, 0.4, 0.8, 4, -1, C200mmShrapnel, 50, 360, 0, 0, 0, 0, NoFallOff, 5, 7500, 0, 0, Pooled, 0, 0, 2, 3
+HE203mm, 1, Energy, Energy, Energy, Energy, -1, 0.4, -1, -1, 0.4, 0.8, 4, -1, C200mmShrapnelbase, 1, 0, 0, 0, 0, 0, NoFallOff, 5, 300, 0, 0, InvCurve, 0, 650, 8000, 1000
+AP203mm, 2000, Kinetic, Kinetic, Kinetic, Kinetic, -1, 0.4, -1, -1, 1.5, 0.8, 1.5, -1, C200mmAPHEShrapbase, 1, 120, 0, 0, 0, 0, NoFallOff, 1, 0.1, 0, 0, Pooled, 0, 600, 8000, 1000
+C200mmAPHEShrapbase, 6000, Kinetic, Kinetic, Kinetic, Kinetic, -1, 0.4, -1, -1, 1.5, 0.8, 1.5, -1, C200mmShrapnel, 25, 360, 0, 0, 0, 0, NoFallOff, 5, 200, 0, 0, InvCurve, 0, 100, 100, 200
+C200mmPDAOE, 0.1, Kinetic, Kinetic, Kinetic, Kinetic, -1, 0.4, -1, -1, 0.4, 0.8, 4, -1, C200mmShrapnelbase, 1, 0, 0, 0, 0, 0, NoFallOff, 35, 0.1, 0, 0, Pooled, 0, 0, 1, 3
+C300AP, 5100, Kinetic, Kinetic, Kinetic, Kinetic, -1, 0.3, -1, -1, 1.5, -1, 1.5, -1, C300mmAPHEShrapbase, 1, 120, 0, 0, 0, 0, NoFallOff, 1, 0.1, 0, 0, Pooled, 0, 500, 10000, 2000
+C300mmShrapnel, 1000, Energy, Energy, Energy, Energy, -1, 0.5, -1, -1, 0.9, -1, 0.5, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 30, 20
+C300HE, 1, Kinetic, Kinetic, Kinetic, Kinetic, -1, 0.3, -1, 0.7, 0.4, 0.8, 6, -1, C300mmHEShrapbase, 1, 0, 0, 0, 0, 0, NoFallOff, 3.5, 4500, 0, 0, InvCurve, 0, 550, 10000, 2000
+C300G, 6, Kinetic, Kinetic, Kinetic, Kinetic, -1, 0.2, -1, -1, 0.8, 0.8, 6, -1, C300GSecond, 1, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 550, 4000, 30
+C300GSecond, 10, Kinetic, Kinetic, Kinetic, Kinetic, -1, 0.3, -1, -1, 0.4, 0.8, 6, -1, C300mmHEShrapbase, 1, 0, 0, 0, 0, 0, NoFallOff, 2, 1000, 0, 0, InvCurve, 200, 100, 4000, 1000
+C300mmAPHEShrapbase, 14000, Kinetic, Kinetic, Kinetic, Kinetic, -1, 0.2, -1, -1, 1.5, 0.8, 1.5, -1, C300mmShrapnel, 25, 360, 0, 0, 0, 0, NoFallOff, 2.5, 5000, 0, 0, InvCurve, 0, 100, 100, 200
+C300mmHEShrapbase, 10, Kinetic, Kinetic, Kinetic, Kinetic, -1, 0.2, -1, -1, 0.4, 0.8, 6, -1, C300mmShrapnel, 25, 360, 0, 0, 0, 0, NoFallOff, 4, 30000, 0, 0, Pooled, 0, 100, 10, 100
+C400AP, 16500, Kinetic, Kinetic, Kinetic, Kinetic, -1, 0.3, -1, -1, 2, 0.8, 2, -1, C400mmAPHEShrapbase, 1, 120, 0, 0, 0, 0, NoFallOff, 1, 0.1, 0, 0, Pooled, 0, 400, 10000, 2000
+C400mmShrapnel, 2000, Kinetic, Kinetic, Kinetic, Energy, -1, 0.5, -1, 1.2, 0.8, 0.8, 0.5, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 30, 20
+C400HE, 1, Kinetic, Energy, Energy, Energy, -1, 0.3, -1, 0.8, 0.4, -1, 6, -1, C400mmHEShrapbase, 1, 0, 0, 0, 0, 0, NoFallOff, 3.5, 2000, 0, 0, InvCurve, 0, 450, 10000, 2000
+C400Cluster, 6, Kinetic, Energy, Energy, Kinetic, -1, 0.2, -1, -1, -1, -1, -1, -1, C400CSecond, 40, 25, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 400, 4000, 1000
+C400mmAPHEShrapbase, 14000, Kinetic, Kinetic, Kinetic, Kinetic, -1, 0.2, -1, -1, 2, 0.8, 1.5, -1, C400mmShrapnel, 25, 360, 0, 0, 0, 0, NoFallOff, 3, 6000, 0, 0, InvCurve, 0, 100, 100, 200
+C400CSecond, 10, Kinetic, Energy, Energy, Energy, -1, 0.3, -1, 0.7, 0.4, -1, 4, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 2.5, 2175, 2, 0, InvCurve, 0, 150, 600, 1000
+C400mmHEShrapbase, 10, Kinetic, Kinetic, Kinetic, Kinetic, -1, 0.2, -1, -1, 0.8, 0.8, 8, -1, C400mmShrapnel, 25, 360, 0, 0, 0, 0, NoFallOff, 5, 58000, 0, 0, Pooled, 0, 100, 10, 100
+30mmAmmoT, 50, Kinetic, Energy, Energy, Kinetic, 0.01, -1, -1, -1, 0.01, -1, 0.5, -1, 30mmAmmoTR, 1, 120, 0, 0, 0, 0, NoFallOff, 1, 1, 0, 0, Pooled, 0, 800, 2200, 200
+30mmAmmoAP, 120, Kinetic, Energy, Energy, Kinetic, 0.8, -1, -1, 1.5, 0.3, -1, 1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 800, 2200, 200
+30mmAmmoHE, 1, Kinetic, Energy, Energy, Kinetic, 0.4, -1, -1, 5, 0.01, -1, 1.2, -1, 30mmCRAMAmmoS, 1, 0, 0, 0, 0, 0, NoFallOff, 1, 20, 0.5, 0, Linear, 0, 800, 2200, 200
+30mmDUAmmo, 1, Kinetic, Energy, Energy, Kinetic, 0.3, -1, -1, 5, 0.1, -1, 1.2, -1, 30mmCRAMAmmoS, 1, 0, 0, 0, 0, 0, NoFallOff, 1, 30, 0.5, 0, Linear, 0, 800, 2200, 200
+30mmAmmoDU, 180, Kinetic, Energy, Energy, Kinetic, 0.8, -1, -1, -1, 0.4, -1, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 800, 2200, 200
+30mmCRAMAmmo, 1, Kinetic, Energy, Energy, Energy, 0.3, -1, -1, 0.8, 0.01, -1, 1.2, -1, 30mmCRAMAmmoS, 1, 0, 0, 0, 0, 0, NoFallOff, 1, 30, 0.5, 0, Linear, 0, 1000, 2000, 200
+30mmCRAMAmmoS, 1, Kinetic, Energy, Energy, Kinetic, -1, -1, -1, -1, -1, -1, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 810, 200, 8
+30mmAmmoTR, 5, Kinetic, Energy, Energy, Kinetic, 0.01, -1, -1, -1, 0.01, -1, 0.5, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 75, 200, 120
+30mmAmmoT, 50, Kinetic, Energy, Energy, Kinetic, 0.01, -1, -1, -1, 0.01, -1, 0.5, -1, 30mmAmmoTR, 1, 120, 0, 0, 0, 0, NoFallOff, 1, 1, 0, 0, Pooled, 0, 800, 2200, 200
+30mmAmmoAP, 120, Kinetic, Energy, Energy, Kinetic, 0.8, -1, -1, 1.5, 0.3, -1, 1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 800, 2200, 200
+30mmAmmoHE, 1, Kinetic, Energy, Energy, Kinetic, 0.4, -1, -1, 5, 0.01, -1, 1.2, -1, 30mmCRAMAmmoS, 1, 0, 0, 0, 0, 0, NoFallOff, 1, 20, 0.5, 0, Linear, 0, 800, 2200, 200
+30mmDUAmmo, 1, Kinetic, Energy, Energy, Kinetic, 0.3, -1, -1, 5, 0.1, -1, 1.2, -1, 30mmCRAMAmmoS, 1, 0, 0, 0, 0, 0, NoFallOff, 1, 30, 0.5, 0, Linear, 0, 800, 2200, 200
+30mmAmmoDU, 180, Kinetic, Energy, Energy, Kinetic, 0.8, -1, -1, -1, 0.4, -1, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 800, 2200, 200
+30mmCRAMAmmo, 1, Kinetic, Energy, Energy, Energy, 0.3, -1, -1, 0.8, 0.01, -1, 1.2, -1, 30mmCRAMAmmoS, 1, 0, 0, 0, 0, 0, NoFallOff, 1, 30, 0.5, 0, Linear, 0, 1000, 2000, 200
+30mmCRAMAmmoS, 1, Kinetic, Energy, Energy, Kinetic, -1, -1, -1, -1, -1, -1, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 810, 200, 8
+30mmAmmoTR, 5, Kinetic, Energy, Energy, Kinetic, 0.01, -1, -1, -1, 0.01, -1, 0.5, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 75, 200, 120
+C500AP, 16500, Kinetic, Kinetic, Kinetic, Kinetic, -1, 0.3, -1, -1, 2, -1, 1.5, -1, C500mmAPHEShrapbase, 1, 120, 0, 0, 0, 0, NoFallOff, 1, 0.1, 0, 0, Pooled, 0, 400, 10000, 2000
+C500mmShrapnel, 3000, Energy, Energy, Energy, Energy, -1, 0.5, -1, -1, 0.9, -1, 0.5, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 40, 20
+C500HE, 1, Kinetic, Energy, Energy, Energy, -1, 0.3, -1, 0.8, 0.4, 0.8, 8, -1, C500mmHEShrapbase, 1, 0, 0, 0, 0, 0, NoFallOff, 5, 3000, 0, 0, InvCurve, 0, 450, 10000, 2000
+C500Casaba, 65, Energy, Energy, Energy, Energy, -1, 0.2, -1, -1, 2, 0.8, 10, -1, C500CasabaP, 1, 0, 0, 0, 0, 0, NoFallOff, 8, 100000, 0, 0, Pooled, 0, 3500, 5000, 200
+C500NSecond, 10, Kinetic, Kinetic, Kinetic, Kinetic, -1, 0.3, -1, -1, 0.4, 0.8, 6, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 3500, 5000, 120
+C500mmAPHEShrapbase, 16500, Kinetic, Kinetic, Kinetic, Kinetic, -1, 0.2, -1, -1, 2, 0.8, 1.5, -1, C500mmShrapnel, 25, 360, 0, 0, 0, 0, NoFallOff, 4, 8000, 0, 0, InvCurve, 0, 100, 100, 200
+C500Effect, 10, Kinetic, Kinetic, Kinetic, Kinetic, -1, 0.3, -1, -1, 0.4, 0.8, 6, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 60, 200, 200
+C500CasabaP, 50000, Energy, Energy, Energy, Energy, -1, 0.2, -1, -1, 5, -1, 10, 1, C500Chain, 5, 45, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 200, 100, 60
+C500mmHEShrapbase, 1, Kinetic, Kinetic, Kinetic, Kinetic, -1, 0.2, -1, -1, 0.8, 0.8, 10, -1, C500mmShrapnel, 25, 360, 0, 0, 0, 0, NoFallOff, 7.5, 60000, 0, 0, Pooled, 0, 100, 10, 100
+C500Chain, 5000, Energy, Energy, Energy, Energy, -1, 0.5, -1, -1, 0.9, -1, 0.5, 1, C500Chain, 2, 40, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 100, 18, 600
+C500EMP, 300, Energy, Energy, Energy, Energy, -1, 0.5, -1, -1, -1, -1, 100, 1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 1000, 15
+C500EMPBase, 10, Kinetic, Kinetic, Kinetic, Kinetic, -1, 0.3, -1, -1, 0.4, 0.8, 6, -1, C500EMP, 1, 5, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 5, 5000, 15
+30mmAmmoT, 50, Kinetic, Energy, Energy, Kinetic, 0.01, -1, -1, -1, 0.01, -1, 0.5, -1, 30mmAmmoTR, 1, 120, 0, 0, 0, 0, NoFallOff, 1, 1, 0, 0, Pooled, 0, 800, 2200, 200
+30mmAmmoAP, 120, Kinetic, Energy, Energy, Kinetic, 0.8, -1, -1, 1.5, 0.3, -1, 1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 800, 2200, 200
+30mmAmmoHE, 1, Kinetic, Energy, Energy, Kinetic, 0.4, -1, -1, 5, 0.01, -1, 1.2, -1, 30mmCRAMAmmoS, 1, 0, 0, 0, 0, 0, NoFallOff, 1, 20, 0.5, 0, Linear, 0, 800, 2200, 200
+30mmAmmoT, 50, Kinetic, Energy, Energy, Kinetic, 0.01, -1, -1, -1, 0.01, -1, 0.5, -1, 30mmAmmoTR, 1, 120, 0, 0, 0, 0, NoFallOff, 1, 1, 0, 0, Pooled, 0, 800, 2200, 200
+30mmAmmoAP, 120, Kinetic, Energy, Energy, Kinetic, 0.8, -1, -1, 1.5, 0.3, -1, 1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 800, 2200, 200
+30mmAmmoHE, 1, Kinetic, Energy, Energy, Kinetic, 0.4, -1, -1, 5, 0.01, -1, 1.2, -1, 30mmCRAMAmmoS, 1, 0, 0, 0, 0, 0, NoFallOff, 1, 20, 0.5, 0, Linear, 0, 800, 2200, 200
+TankPlasmaAmmo, 100, Energy, Energy, Energy, Energy, -1, 0.4, -1, -1, 0.7, 0.8, 3, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 2.59999990463257, 15000, 0, 0, Pooled, 0, 500, 2500, 300
+PlFXshots, 1, Energy, Energy, Energy, Energy, -1, 0.5, -1, -1, -1, -1, 25, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 500, 2000, 300
+PlFXshots2, 1, Kinetic, Energy, Energy, Kinetic, -1, 0.1, -1, -1, -1, -1, 1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 500, 1500, 300
+30mmAmmoT, 50, Kinetic, Energy, Energy, Kinetic, 0.01, -1, -1, -1, 0.01, -1, 0.5, -1, 30mmAmmoTR, 1, 120, 0, 0, 0, 0, NoFallOff, 1, 1, 0, 0, Pooled, 0, 800, 2200, 200
+30mmAmmoAP, 120, Kinetic, Energy, Energy, Kinetic, 0.8, -1, -1, 1.5, 0.3, -1, 1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 800, 2200, 200
+30mmAmmoHE, 1, Kinetic, Energy, Energy, Kinetic, 0.4, -1, -1, 5, 0.01, -1, 1.2, -1, 30mmCRAMAmmoS, 1, 0, 0, 0, 0, 0, NoFallOff, 1, 20, 0.5, 0, Linear, 0, 800, 2200, 200
+30mmDUAmmo, 1, Kinetic, Energy, Energy, Kinetic, 0.3, -1, -1, 5, 0.1, -1, 1.2, -1, 30mmCRAMAmmoS, 1, 0, 0, 0, 0, 0, NoFallOff, 1, 30, 0.5, 0, Linear, 0, 800, 2200, 200
+30mmAmmoDU, 180, Kinetic, Energy, Energy, Kinetic, 0.8, -1, -1, -1, 0.4, -1, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 800, 2200, 200
+30mmCRAMAmmo, 1, Kinetic, Energy, Energy, Energy, 0.3, -1, -1, 0.8, 0.01, -1, 1.2, -1, 30mmCRAMAmmoS, 1, 0, 0, 0, 0, 0, NoFallOff, 1, 30, 0.5, 0, Linear, 0, 1000, 2000, 200
+30mmCRAMAmmoS, 1, Kinetic, Energy, Energy, Kinetic, -1, -1, -1, -1, -1, -1, -1, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 810, 200, 8
+30mmAmmoTR, 5, Kinetic, Energy, Energy, Kinetic, 0.01, -1, -1, -1, 0.01, -1, 0.5, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 75, 200, 120
+Flak200mm, 1, Energy, Energy, Energy, Energy, -1, 0.4, -1, -1, 0.4, 0.8, 4, -1, C200mmPDAOE, 1, 0, 0, 0, 0, 0, NoFallOff, 7.5, 100, 0, 0, InvCurve, 0, 650, 3500, 600
+C200mmShrapnel, 200, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, -1, 4, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 40, 20
+C200mmShrapnelbase, 10, Kinetic, Kinetic, Kinetic, Kinetic, -1, 0.4, -1, -1, 0.4, 0.8, 4, -1, C200mmShrapnel, 50, 360, 0, 0, 0, 0, NoFallOff, 5, 7500, 0, 0, Pooled, 0, 0, 2, 3
+HE203mm, 1, Energy, Energy, Energy, Energy, -1, 0.4, -1, -1, 0.4, 0.8, 4, -1, C200mmShrapnelbase, 1, 0, 0, 0, 0, 0, NoFallOff, 5, 300, 0, 0, InvCurve, 0, 650, 8000, 1000
+AP203mm, 2000, Kinetic, Kinetic, Kinetic, Kinetic, -1, 0.4, -1, -1, 1.5, 0.8, 1.5, -1, C200mmAPHEShrapbase, 1, 120, 0, 0, 0, 0, NoFallOff, 1, 0.1, 0, 0, Pooled, 0, 600, 8000, 1000
+C200mmAPHEShrapbase, 6000, Kinetic, Kinetic, Kinetic, Kinetic, -1, 0.4, -1, -1, 1.5, 0.8, 1.5, -1, C200mmShrapnel, 25, 360, 0, 0, 0, 0, NoFallOff, 5, 200, 0, 0, InvCurve, 0, 100, 100, 200
+C200mmPDAOE, 0.1, Kinetic, Kinetic, Kinetic, Kinetic, -1, 0.4, -1, -1, 0.4, 0.8, 4, -1, C200mmShrapnelbase, 1, 0, 0, 0, 0, 0, NoFallOff, 35, 0.1, 0, 0, Pooled, 0, 0, 1, 3
+LV203mmammo, 1, Energy, Energy, Energy, Energy, -1, 0.4, -1, -1, 0.4, 0.8, 4, -1, H203ShrapBase, 1, 0, 0, 0, 0, 0, NoFallOff, 5, 300, 0, 0, InvCurve, 0, 125, 20000, 3000
+MV203mmammo, 1, Energy, Energy, Energy, Energy, -1, 0.4, -1, -1, 0.4, 0.8, 4, -1, H203ShrapBase, 1, 0, 0, 0, 0, 0, NoFallOff, 5, 300, 0, 0, InvCurve, 0, 225, 20000, 3000
+HV203mmammo, 1, Kinetic, Energy, Energy, Energy, -1, 0.4, -1, -1, 0.4, 0.8, 4, -1, H203ShrapBase, 1, 0, 0, 0, 0, 0, NoFallOff, 5, 300, 0, 0, InvCurve, 0, 325, 20000, 3000
+H203mmammoShrap, 200, Kinetic, Kinetic, Kinetic, Kinetic, -1, -1, -1, -1, -1, -1, 4, -1, None, 0, 0, 0, 0, 0, 0, NoFallOff, 0, 0, 0, 0, NoFallOff, 0, 0, 300, 60
+H203ShrapBase, 10, Kinetic, Kinetic, Kinetic, Kinetic, -1, 0.4, -1, 0.9, 0.4, 0.8, 4, -1, H203mmammoShrap, 50, 360, 0, 0, 0, 0, NoFallOff, 5, 7500, 0, 0, Pooled, 0, 0, 5, 5
+HVF203mmammo, 1, Kinetic, Energy, Energy, Energy, -1, 0.4, -1, -1, 0.4, -1, 3, -1, H203ShrapBase, 1, 0, 0, 0, 0, 0, NoFallOff, 2, 2000, 4, 0, Linear, 0, 325, 3500, 780

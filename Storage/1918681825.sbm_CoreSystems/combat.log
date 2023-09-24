@@ -1,0 +1,993 @@
+09-22-23_23-23-38-501 - Logging Started
+09-22-23_23-28-12-783 - New Threat Detected:(NPC-AI) Research Base #44 (MyCubeGrid, 133364768527080566)
+ - by: Static Grid 1249 (MyCubeGrid, 91086273737301249)Attacking Weapon:Longsword Missile Battery [Weapon] Owner:144115188075855977 - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855977 - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:0.2074305 - isFocus:False
+
+09-22-23_23-37-09-368 - New Threat Detected:Static Grid 1249 (MyCubeGrid, 91086273737301249)
+ - by: (NPC-ACS) WKZ-LG Mercury-AT1 (MyCubeGrid, 108510607131166799)Attacking Weapon:Pulsar Shock Cannon [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:7.014395 - isFocus:False
+
+09-22-23_23-37-09-414 - New Threat Detected:$nower (MyCharacter, 89341681656014213)
+ - by: (NPC-ACS) WKZ-LG Mercury-AT1 (MyCubeGrid, 108510607131166799)Attacking Weapon:Interceptor PD [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+09-23-23_00-26-36-590 - New Threat Detected:Small Grid 5818 (MyCubeGrid, 74991935284095818)
+ - by: Cloverleaf Raider (MyCubeGrid, 128482237559690975)Attacking Weapon:Small Missile Turret [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+09-23-23_00-26-36-925 - New Threat Detected:Small Grid 5818 (MyCubeGrid, 74991935284095818)
+ - by: Cloverleaf Raider (MyCubeGrid, 141618155765745923)Attacking Weapon:Small Missile Turret [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+09-23-23_00-26-59-852 - New Threat Detected:Small Grid 8885 (MyCubeGrid, 110775849916938885)
+ - by: Cloverleaf Raider (MyCubeGrid, 128482237559690975)Attacking Weapon:Small Gatling Turret [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_00-27-00-792 - New Threat Detected:Static Grid 7307 (MyCubeGrid, 133880955968827307)
+ - by: Cloverleaf Raider (MyCubeGrid, 128482237559690975)Attacking Weapon:Small Flechette Launcher [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_00-27-02-215 - New Threat Detected:Static Grid 1249 (MyCubeGrid, 91086273737301249)
+ - by: Cloverleaf Raider (MyCubeGrid, 128482237559690975)Attacking Weapon:25mm Prowler [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:21.57203 - isFocus:True
+
+09-23-23_00-27-02-256 - New Threat Detected:Small Grid 5818 (MyCubeGrid, 74991935284095818)
+ - by: The Little Sea Rover (MyCubeGrid, 98316381008009642)Attacking Weapon:30mm RevolverCannon CIWS [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_00-27-04-616 - New Threat Detected:Static Grid 7307 (MyCubeGrid, 133880955968827307)
+ - by: The Little Sea Rover (MyCubeGrid, 98316381008009642)Attacking Weapon:30mm RevolverCannon CIWS [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_00-27-04-622 - New Threat Detected:Small Grid 8885 (MyCubeGrid, 110775849916938885)
+ - by: The Little Sea Rover (MyCubeGrid, 92297151794562984)Attacking Weapon:Small Missile Turret [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_00-27-05-807 - New Threat Detected:Static Grid 1249 (MyCubeGrid, 91086273737301249)
+ - by: Cloverleaf Raider (MyCubeGrid, 141618155765745923)Attacking Weapon:M870 Point Defense [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:16.68103 - isFocus:True
+
+09-23-23_00-27-05-922 - New Threat Detected:Small Grid 8885 (MyCubeGrid, 110775849916938885)
+ - by: Cloverleaf Raider (MyCubeGrid, 141618155765745923)Attacking Weapon:Small Missile Turret [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_00-27-08-024 - New Threat Detected:Small Grid 9259 (MyCubeGrid, 115785351514619259)
+ - by: The Little Sea Rover (MyCubeGrid, 98316381008009642)Attacking Weapon:Autocannon Turret [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:0 - isFocus:True
+
+09-23-23_00-27-08-321 - New Threat Detected:Small Grid 5818 (MyCubeGrid, 74991935284095818)
+ - by: The Little Sea Rover (MyCubeGrid, 92297151794562984)Attacking Weapon:Small Gatling Turret [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_00-27-08-389 - New Threat Detected:The Little Sea Rover (MyCubeGrid, 98316381008009642)
+ - by: Static Grid 1249 (MyCubeGrid, 91086273737301249)Attacking Weapon:500mm Gun Turret [Weapon] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:0.009182759 - isFocus:False
+
+09-23-23_00-27-08-606 - New Threat Detected:Small Grid 8483 (MyCubeGrid, 84631945420188483)
+ - by: Cloverleaf Raider (MyCubeGrid, 128482237559690975)Attacking Weapon:Small Flechette Launcher [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:0 - isFocus:True
+
+09-23-23_00-27-10-946 - New Threat Detected:The Little Sea Rover (MyCubeGrid, 92297151794562984)
+ - by: Static Grid 1249 (MyCubeGrid, 91086273737301249)Attacking Weapon:500mm Gun Turret [Weapon] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:0.00919781 - isFocus:False
+
+09-23-23_00-27-10-960 - New Threat Detected:Small Grid 8483 (MyCubeGrid, 84631945420188483)
+ - by: The Little Sea Rover (MyCubeGrid, 92297151794562984)Attacking Weapon:Small Gatling Turret [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:0 - isFocus:True
+
+09-23-23_00-27-12-463 - New Threat Detected:Static Grid 7307 (MyCubeGrid, 133880955968827307)
+ - by: The Little Sea Rover (MyCubeGrid, 92297151794562984)Attacking Weapon:Small Missile Turret [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_00-27-12-978 - New Threat Detected:Static Grid 1249 (MyCubeGrid, 91086273737301249)
+ - by: The Little Sea Rover (MyCubeGrid, 92297151794562984)Attacking Weapon:Small Gatling Turret [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:108.7215 - isFocus:True
+
+09-23-23_00-27-14-428 - New Threat Detected:Cloverleaf Raider (MyCubeGrid, 128482237559690975)
+ - by: Static Grid 1249 (MyCubeGrid, 91086273737301249)Attacking Weapon:500mm Gun Turret [Weapon] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:0.04635632 - isFocus:False
+
+09-23-23_00-27-18-765 - New Threat Detected:Static Grid 7307 (MyCubeGrid, 133880955968827307)
+ - by: Cloverleaf Raider (MyCubeGrid, 141618155765745923)Attacking Weapon:M870 Point Defense [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_00-27-30-634 - New Threat Detected:Cloverleaf Raider (MyCubeGrid, 141618155765745923)
+ - by: Static Grid 1249 (MyCubeGrid, 91086273737301249)Attacking Weapon:500mm Gun Turret [Weapon] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:0.05994832 - isFocus:False
+
+09-23-23_00-27-43-352 - New Threat Detected:Small Grid 9259 (MyCubeGrid, 115785351514619259)
+ - by: Cloverleaf Raider (MyCubeGrid, 141618155765745923)Attacking Weapon:Small Gatling Turret [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:0 - isFocus:True
+
+09-23-23_00-27-54-177 - New Threat Detected:Static Grid 1249 (MyCubeGrid, 91086273737301249)
+ - by: The Little Sea Rover (MyCubeGrid, 98316381008009642)Attacking Weapon:30mm RevolverCannon CIWS [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:108.8997 - isFocus:True
+
+09-23-23_00-27-57-947 - New Threat Detected:$nower (MyCharacter, 100476059730135667)
+ - by: The Little Sea Rover (MyCubeGrid, 98316381008009642)Attacking Weapon:Autocannon Turret [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_00-29-48-412 - New Threat Detected:$nower (MyCharacter, 102636535148761843)
+ - by: The Little Sea Rover (MyCubeGrid, 92297151794562984)Attacking Weapon:Small Missile Turret [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_00-29-57-718 - New Threat Detected:Small Grid 2405 (MyCubeGrid, 98798906485302405)
+ - by: The Little Sea Rover (MyCubeGrid, 92297151794562984)Attacking Weapon:Small Missile Turret [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_00-30-19-543 - New Threat Detected:Small Grid 7958 (MyCubeGrid, 80799606915407958)
+ - by: Static Grid 1249 (MyCubeGrid, 91086273737301249)Attacking Weapon:500mm Gun Turret [Weapon] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+09-23-23_00-42-11-427 - New Threat Detected:(NPC-AI) Research Base #44 (MyCubeGrid, 133364768527080566)
+ - by: [SEMS]-Reliant-Mk2 (MyCubeGrid, 116380106028191330)Attacking Weapon:Whirlwind Light Cannon [Weapon] Owner:144115188075855914 - Faction:Space Engineer Merchant Services(287903586359121113) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855914 - Faction:Space Engineer Merchant Services(287903586359121113) - Relationship:Enemies - ThreatLevel:0.5177211 - isFocus:True
+
+09-23-23_00-53-36-795 - New Threat Detected:The Little Sea Rover (MyCubeGrid, 98316381008009642)
+ - by: (NPC-ACS) Wasp Drone (MyCubeGrid, 112509205650851616)Attacking Weapon:Small Missile Launcher [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0 - isFocus:True
+
+09-23-23_01-00-23-768 - New Threat Detected:Moura (MyCharacter, 83164866591866247)
+ - by: (NPC-ACS) Lady Bug 03 (MyCubeGrid, 138342581499477719)Attacking Weapon:Interceptor PD [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_01-02-50-404 - New Threat Detected:(NPC-ACS) Lady Bug 03 (MyCubeGrid, 138342581499477719)
+ - by: [SEMS]-Fort-Victoria-Mk3 (MyCubeGrid, 79261001904748902)Attacking Weapon:Hydra MLRS [Weapon] Owner:144115188075855914 - Faction:Space Engineer Merchant Services(287903586359121113) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855914 - Faction:Space Engineer Merchant Services(287903586359121113) - Relationship:Enemies - ThreatLevel:0.07171479 - isFocus:True
+
+09-23-23_01-02-50-446 - New Threat Detected:Static Grid 1582 (MyCubeGrid, 78098436526731582)
+ - by: [SEMS]-Fort-Victoria-Mk3 (MyCubeGrid, 79261001904748902)Attacking Weapon:BD203mm Howitzer Turret [Weapon] Owner:144115188075855914 - Faction:Space Engineer Merchant Services(287903586359121113) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855914 - Faction:Space Engineer Merchant Services(287903586359121113) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_01-32-22-465 - New Threat Detected:Static Grid 7307 (MyCubeGrid, 133880955968827307)
+ - by: (NPC-AI) Drone Repair Facility #04 (MyCubeGrid, 112957697745985463)Attacking Weapon:M870 Point Defense [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:10 - isFocus:True
+
+09-23-23_01-33-21-671 - New Threat Detected:Moura (MyCharacter, 142723020492758333)
+ - by: (NPC-AI) Research Base #44 (MyCubeGrid, 123094282368875139)Attacking Weapon:ATLAS PDC [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_01-45-05-477 - New Threat Detected:[SEMS]-Fort-Victoria-Mk3 (MyCubeGrid, 79261001904748902)
+ - by: (NPC-ACS) WKZ-LG Masque 01-AT2 (MyCubeGrid, 116424122777416958)Attacking Weapon:Aurora Combat Laser [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.8565035 - isFocus:True
+
+09-23-23_01-45-50-012 - New Threat Detected:[SEMS]-Arrowhead-Mk-1 (MyCubeGrid, 84820992361595477)
+ - by: (NPC-ACS) WKZ-LG Masque 01-AT2 (MyCubeGrid, 116424122777416958)Attacking Weapon:Hurricane Heavy Cannon [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.1208261 - isFocus:True
+
+09-23-23_01-47-44-971 - New Threat Detected:(NPC-ACS) WKZ-LG Masque 01-AT2 (MyCubeGrid, 116424122777416958)
+ - by: (NPC-PLX) Ward of Lothian (MyCubeGrid, 136810503492948943)Attacking Weapon:Longsword Missile Battery [Weapon] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Relationship:Enemies - ThreatLevel:0.2084184 - isFocus:False
+
+09-23-23_02-08-17-833 - New Threat Detected:[SEMS]-Fort-Victoria-Mk3 (MyCubeGrid, 79261001904748902)
+ - by: (NPC-ACS) Golden Spear 01-AT1 (MyCubeGrid, 142958644100660597)Attacking Weapon:BD203mm Howitzer Turret [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:2.16245 - isFocus:True
+
+09-23-23_03-27-19-732 - New Threat Detected:DELTA Earth Base (MyCubeGrid, 78174471556049422)
+ - by: Cloverleaf Raider (MyCubeGrid, 108170260167051727)Attacking Weapon:Sabre Missile Hardpoint [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_03-27-29-703 - New Threat Detected:Nave Mãe (MyCubeGrid, 102502639763195704)
+ - by: The Little Sea Rover (MyCubeGrid, 95101143789302516)Attacking Weapon:Argus PDL [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_03-27-31-887 - New Threat Detected:DELTA Earth Base (MyCubeGrid, 78174471556049422)
+ - by: The Little Sea Rover (MyCubeGrid, 95101143789302516)Attacking Weapon:Argus PDL [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_03-27-51-018 - New Threat Detected:Moura (MyCubeGrid, 98798906485302405)
+ - by: The Little Sea Rover (MyCubeGrid, 95101143789302516)Attacking Weapon:Argus PDL [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_03-42-17-642 - New Threat Detected:Cloverleaf Raider (MyCubeGrid, 108170260167051727)
+ - by: [Keen]-Cursor-Mk1 (MyCubeGrid, 121392288168303034)Attacking Weapon:Sabre Missile Hardpoint [Weapon] Owner:144115188075855964 - Faction:Supreme Shipbuilding(286207551837461775) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855964 - Faction:Supreme Shipbuilding(286207551837461775) - Relationship:Enemies - ThreatLevel:0.5018651 - isFocus:True
+
+09-23-23_03-42-19-864 - New Threat Detected:[Keen]-Cursor-Mk1 (MyCubeGrid, 121392288168303034)
+ - by: The Little Sea Rover (MyCubeGrid, 95101143789302516)Attacking Weapon:Autocannon Turret [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:725.882 - isFocus:True
+
+09-23-23_03-42-20-850 - New Threat Detected:The Little Sea Rover (MyCubeGrid, 76409932167275777)
+ - by: [Keen]-Cursor-Mk1 (MyCubeGrid, 121392288168303034)Attacking Weapon:Small Missile Turret [Weapon] Owner:144115188075855964 - Faction:Supreme Shipbuilding(286207551837461775) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855964 - Faction:Supreme Shipbuilding(286207551837461775) - Relationship:Enemies - ThreatLevel:0.002664375 - isFocus:True
+
+09-23-23_03-42-20-887 - New Threat Detected:[Keen]-Cursor-Mk1 (MyCubeGrid, 121392288168303034)
+ - by: The Little Sea Rover (MyCubeGrid, 76409932167275777)Attacking Weapon:Small Missile Turret [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:375.3225 - isFocus:True
+
+09-23-23_03-42-41-026 - New Threat Detected:The Little Sea Rover (MyCubeGrid, 95101143789302516)
+ - by: [Keen]-Cursor-Mk1 (MyCubeGrid, 121392288168303034)Attacking Weapon:Small Missile Turret [Weapon] Owner:144115188075855964 - Faction:Supreme Shipbuilding(286207551837461775) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855964 - Faction:Supreme Shipbuilding(286207551837461775) - Relationship:Enemies - ThreatLevel:0.001377634 - isFocus:True
+
+09-23-23_03-42-57-027 - New Threat Detected:Small Grid 5440 (MyCubeGrid, 94006669983675440)
+ - by: The Little Sea Rover (MyCubeGrid, 95101143789302516)Attacking Weapon:Autocannon Turret [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_03-43-41-003 - New Threat Detected:Small Grid 2236 (MyCubeGrid, 121764526918222236)
+ - by: The Little Sea Rover (MyCubeGrid, 95101143789302516)Attacking Weapon:Autocannon Turret [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_03-43-59-933 - New Threat Detected:Small Grid 852 (MyCubeGrid, 127206309821530852)
+ - by: The Little Sea Rover (MyCubeGrid, 95101143789302516)Attacking Weapon:Autocannon Turret [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:0 - isFocus:True
+
+09-23-23_03-44-00-965 - New Threat Detected:Small Grid 4173 (MyCubeGrid, 132299461678484173)
+ - by: The Little Sea Rover (MyCubeGrid, 95101143789302516)Attacking Weapon:Autocannon Turret [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_05-10-02-251 - New Threat Detected:Cloverleaf Raider (MyCubeGrid, 108170260167051727)
+ - by: DELTA Earth Base (MyCubeGrid, 78174471556049422)Attacking Weapon:30mm SubTurret1 [Weapon] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_05-10-02-270 - New Threat Detected:Cloverleaf Raider (MyCubeGrid, 137203992567327521)
+ - by: DELTA Earth Base (MyCubeGrid, 78174471556049422)Attacking Weapon:30mm SubTurret2 [Weapon] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:0.03255747 - isFocus:True
+
+09-23-23_05-10-05-436 - New Threat Detected:The Little Sea Rover (MyCubeGrid, 95101143789302516)
+ - by: DELTA Earth Base (MyCubeGrid, 78174471556049422)Attacking Weapon:30mm SubTurret1 [Weapon] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:0.002429891 - isFocus:True
+
+09-23-23_05-26-32-247 - New Threat Detected:DELTA Earth Base (MyCubeGrid, 78174471556049422)
+ - by: (NPC-PLX) Ward of Lothian (MyCubeGrid, 89054889155529689)Attacking Weapon:BD203mm Howitzer Turret [Weapon] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Relationship:Enemies - ThreatLevel:3.501143 - isFocus:True
+
+09-23-23_05-26-33-109 - New Threat Detected:(NPC-PLX) Ward of Lothian (MyCubeGrid, 89054889155529689)
+ - by: DELTA Earth Base (MyCubeGrid, 78174471556049422)Attacking Weapon:500mm Gun Turret [Weapon] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:0.285621 - isFocus:True
+
+09-23-23_05-42-13-022 - New Threat Detected:DELTA Earth Base (MyCubeGrid, 78174471556049422)
+ - by: (NPC-ACS) THI-430-B Thrush (MyCubeGrid, 140768322259124333)Attacking Weapon:Apollo 250mm Railgun Turret [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:40.17943 - isFocus:True
+
+09-23-23_05-42-13-101 - New Threat Detected:(NPC-ACS) THI-430-B Thrush (MyCubeGrid, 140768322259124333)
+ - by: DELTA Earth Base (MyCubeGrid, 78174471556049422)Attacking Weapon:500mm Gun Turret [Weapon] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:0.02488836 - isFocus:True
+
+09-23-23_13-56-55-931 - New Threat Detected:(NPC-ACS) Iapetus 01-AT2 (MyCubeGrid, 114894550240910262)
+ - by: DELTA Earth Base (MyCubeGrid, 78174471556049422)Attacking Weapon:500mm Gun Turret [Weapon] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:0.0885045 - isFocus:True
+
+09-23-23_14-11-18-468 - New Threat Detected:The Little Sea Rover (MyCubeGrid, 76409932167275777)
+ - by: (NPC-ACS) Golden Spear 01 (MyCubeGrid, 86720572359107690)Attacking Weapon:Reaper Pulse Cannon [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.004385024 - isFocus:True
+
+09-23-23_14-11-20-571 - New Threat Detected:(NPC-ACS) Golden Spear 01 (MyCubeGrid, 86720572359107690)
+ - by: DELTA Earth Base (MyCubeGrid, 78174471556049422)Attacking Weapon:500mm Gun Turret [Weapon] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:1.071707 - isFocus:True
+
+09-23-23_14-26-54-859 - New Threat Detected:Cloverleaf Raider (MyCubeGrid, 139856970973027479)
+ - by: DELTA Earth Base (MyCubeGrid, 78174471556049422)Attacking Weapon:30mm SubTurret2 [Weapon] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:0.0174765 - isFocus:True
+
+09-23-23_14-26-56-750 - New Threat Detected:Cloverleaf Raider (MyCubeGrid, 94509148645736341)
+ - by: DELTA Earth Base (MyCubeGrid, 78174471556049422)Attacking Weapon:500mm Gun Turret [Weapon] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:0.06381588 - isFocus:True
+
+09-23-23_14-26-57-959 - New Threat Detected:DELTA Earth Base (MyCubeGrid, 78174471556049422)
+ - by: Cloverleaf Raider (MyCubeGrid, 139856970973027479)Attacking Weapon:AC-54 Chord [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:57.2197 - isFocus:True
+
+09-23-23_14-26-58-899 - New Threat Detected:DELTA Earth Base (MyCubeGrid, 78174471556049422)
+ - by: The Little Sea Rover (MyCubeGrid, 73226500168050514)Attacking Weapon:30mm RevolverCannon CIWS [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:484.3325 - isFocus:True
+
+09-23-23_14-27-05-679 - New Threat Detected:The Little Sea Rover (MyCubeGrid, 127297929317779725)
+ - by: DELTA Earth Base (MyCubeGrid, 78174471556049422)Attacking Weapon:500mm Gun Turret [Weapon] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:0.003570343 - isFocus:True
+
+09-23-23_14-27-19-391 - New Threat Detected:Moura (MyCubeGrid, 98798906485302405)
+ - by: Cloverleaf Raider (MyCubeGrid, 139856970973027479)Attacking Weapon:Small Gatling Turret [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_14-27-25-864 - New Threat Detected:DELTA Earth Base (MyCubeGrid, 78174471556049422)
+ - by: Cloverleaf Raider (MyCubeGrid, 94509148645736341)Attacking Weapon:Nyx Missile Hardpoint [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:15.67008 - isFocus:True
+
+09-23-23_14-27-44-500 - New Threat Detected:DELTA Earth Base (MyCubeGrid, 78174471556049422)
+ - by: The Little Sea Rover (MyCubeGrid, 127297929317779725)Attacking Weapon:AC-54 Chord [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:280.0851 - isFocus:True
+
+09-23-23_14-27-54-594 - New Threat Detected:Nave Mãe (MyCubeGrid, 102502639763195704)
+ - by: The Little Sea Rover (MyCubeGrid, 127297929317779725)Attacking Weapon:M910 Point Defense [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_14-28-03-430 - New Threat Detected:Small Grid 852 (MyCubeGrid, 127206309821530852)
+ - by: The Little Sea Rover (MyCubeGrid, 127297929317779725)Attacking Weapon:M910 Point Defense [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:0 - isFocus:True
+
+09-23-23_14-28-04-646 - New Threat Detected:Small Grid 8520 (MyCubeGrid, 141501469178368520)
+ - by: DELTA Earth Base (MyCubeGrid, 78174471556049422)Attacking Weapon:30mm SubTurret1 [Weapon] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_14-28-28-701 - New Threat Detected:The Little Sea Rover (MyCubeGrid, 73226500168050514)
+ - by: DELTA Earth Base (MyCubeGrid, 78174471556049422)Attacking Weapon:Riptide Flak [Weapon] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:0.002064697 - isFocus:True
+
+09-23-23_14-28-46-760 - New Threat Detected:Small Grid 9828 (MyCubeGrid, 78867673221559828)
+ - by: DELTA Earth Base (MyCubeGrid, 78174471556049422)Attacking Weapon:30mm SubTurret1 [Weapon] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:0.004129404 - isFocus:True
+
+09-23-23_14-57-14-535 - New Threat Detected:(NPC-IBR) Mobile Drilling Platform (MyCubeGrid, 116902838065681105)
+ - by: DELTA Earth Base (MyCubeGrid, 78174471556049422)Attacking Weapon:500mm Gun Turret [Weapon] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:0.0305772 - isFocus:True
+
+09-23-23_15-15-52-518 - New Threat Detected:The Little Sea Rover (MyCubeGrid, 76409932167275777)
+ - by: [ISL]-Atlas-AO-720 (MyCubeGrid, 82518042279620501)Attacking Weapon:M910 Point Defense [Weapon] Owner:144115188075855912 - Faction:Interstellar Logistics Fleet(260052935521577410) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855912 - Faction:Interstellar Logistics Fleet(260052935521577410) - Relationship:Enemies - ThreatLevel:1.316164 - isFocus:True
+
+09-23-23_15-15-57-697 - New Threat Detected:Cloverleaf Raider (MyCubeGrid, 108170260167051727)
+ - by: [ISL]-Atlas-AO-720 (MyCubeGrid, 82518042279620501)Attacking Weapon:AC-54 Chord [Weapon] Owner:144115188075855912 - Faction:Interstellar Logistics Fleet(260052935521577410) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855912 - Faction:Interstellar Logistics Fleet(260052935521577410) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_15-16-48-540 - New Threat Detected:Small Grid 2418 (MyCubeGrid, 119368173320502418)
+ - by: [ISL]-Atlas-AO-720 (MyCubeGrid, 82518042279620501)Attacking Weapon:AC-54 Chord [Weapon] Owner:144115188075855912 - Faction:Interstellar Logistics Fleet(260052935521577410) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855912 - Faction:Interstellar Logistics Fleet(260052935521577410) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_15-29-21-598 - New Threat Detected:(NPC-ACS) Mulgara Scout 01 (MyCubeGrid, 76527840825318539)
+ - by: DELTA Earth Base (MyCubeGrid, 78174471556049422)Attacking Weapon:500mm Gun Turret [Weapon] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:0.01576563 - isFocus:True
+
+09-23-23_17-24-18-767 - New Threat Detected:[Wreck]-Economy-OrbitalStation-6 (MyCubeGrid, 137845444683008636)
+ - by: (NPC-IBR) Mobile Drilling Platform (MyCubeGrid, 74059056429458050)Attacking Weapon:Pulsar Shock Cannon [Weapon] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+09-23-23_17-24-21-835 - New Threat Detected:[SEMS]-Arrowhead-Mk-1 (MyCubeGrid, 132151879237326261)
+ - by: (NPC-ACS) Sunflower-SF5 (MyCubeGrid, 111731143747927937)Attacking Weapon:Nova Phase Blaster [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:118.8457 - isFocus:True
+
+09-23-23_17-24-22-048 - New Threat Detected:(NPC-ACS) Sunflower-SF5 (MyCubeGrid, 111731143747927937)
+ - by: [SEMS]-Arrowhead-Mk-1 (MyCubeGrid, 132151879237326261)Attacking Weapon:Small Missile Launcher [Weapon] Owner:144115188075855914 - Faction:Space Engineer Merchant Services(287903586359121113) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855914 - Faction:Space Engineer Merchant Services(287903586359121113) - Relationship:Enemies - ThreatLevel:0.00841427 - isFocus:True
+
+09-23-23_17-27-52-943 - New Threat Detected:[ISL]-Atlas-AO-720 (MyCubeGrid, 82518042279620501)
+ - by: [SEMS]-Arrowhead-Mk-1 (MyCubeGrid, 113307877826133543)Attacking Weapon:Small Missile Launcher [Weapon] Owner:144115188075855914 - Faction:Space Engineer Merchant Services(287903586359121113) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855914 - Faction:Space Engineer Merchant Services(287903586359121113) - Relationship:Enemies - ThreatLevel:0.2360867 - isFocus:True
+
+09-23-23_17-29-02-267 - New Threat Detected:Small Grid 6033 (MyCubeGrid, 141793129114656033)
+ - by: [SEMS]-Arrowhead-Mk-1 (MyCubeGrid, 113307877826133543)Attacking Weapon:Small Missile Launcher [Weapon] Owner:144115188075855914 - Faction:Space Engineer Merchant Services(287903586359121113) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855914 - Faction:Space Engineer Merchant Services(287903586359121113) - Relationship:Enemies - ThreatLevel:0 - isFocus:True
+
+09-23-23_17-29-08-097 - New Threat Detected:Small Grid 8366 (MyCubeGrid, 125186348938128366)
+ - by: [SEMS]-Arrowhead-Mk-1 (MyCubeGrid, 113307877826133543)Attacking Weapon:Small Missile Launcher [Weapon] Owner:144115188075855914 - Faction:Space Engineer Merchant Services(287903586359121113) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855914 - Faction:Space Engineer Merchant Services(287903586359121113) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_17-34-31-442 - New Threat Detected:[SEMS]-Arrowhead-Mk-1 (MyCubeGrid, 90548561038538115)
+ - by: Small Grid 3324 (MyCubeGrid, 107570066894328402)Attacking Weapon:Sabre Missile Hardpoint [Weapon] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Relationship:Enemies - ThreatLevel:0.009484155 - isFocus:True
+
+09-23-23_17-39-24-309 - New Threat Detected:Small Grid 5106 (MyCubeGrid, 84032350917245106)
+ - by: (NPC-IBR) Defense Installation (MyCubeGrid, 82315842767535123)Attacking Weapon:Oculus Ball-PDL [Weapon] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_17-46-38-442 - New Threat Detected:(NPC-ACS) Buzzard Mk.07-T (MyCubeGrid, 128966086546547276)
+ - by: Hangman's Hollow (MyCubeGrid, 131573901458502540)Attacking Weapon:Athena 115mm Railgun Turret [Weapon] Owner:144115188075855913 - Faction:Junkers(227816149238607166) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855913 - Faction:Junkers(227816149238607166) - Relationship:Enemies - ThreatLevel:0.6697544 - isFocus:False
+
+09-23-23_17-46-41-666 - New Threat Detected:(NPC-ACS) Buzzard Mk.07-T (MyCubeGrid, 128966086546547276)
+ - by: The Hangman's Delight (MyCubeGrid, 142247913563008851)Attacking Weapon:500mm Gun Turret [Weapon] Owner:144115188075855913 - Faction:Junkers(227816149238607166) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855913 - Faction:Junkers(227816149238607166) - Relationship:Enemies - ThreatLevel:0.1701605 - isFocus:False
+
+09-23-23_17-46-42-737 - New Threat Detected:(NPC-ACS) Buzzard Mk.07-T (MyCubeGrid, 128966086546547276)
+ - by: Unsung Hollows (MyCubeGrid, 128523092077904110)Attacking Weapon:11A2R1 [Weapon] Owner:144115188075855913 - Faction:Junkers(227816149238607166) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855913 - Faction:Junkers(227816149238607166) - Relationship:Enemies - ThreatLevel:0.4034912 - isFocus:False
+
+09-23-23_17-47-12-702 - New Threat Detected:(NPC-ACS) Buzzard Mk.07-T (MyCubeGrid, 128966086546547276)
+ - by: [SEMS]-Arrowhead-Mk-1 (MyCubeGrid, 93725779115237117)Attacking Weapon:M870 Point Defense [Weapon] Owner:144115188075855914 - Faction:Space Engineer Merchant Services(287903586359121113) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855914 - Faction:Space Engineer Merchant Services(287903586359121113) - Relationship:Enemies - ThreatLevel:2.468228 - isFocus:True
+
+09-23-23_17-47-12-826 - New Threat Detected:[SEMS]-Arrowhead-Mk-1 (MyCubeGrid, 93725779115237117)
+ - by: (NPC-ACS) Buzzard Mk.07-T (MyCubeGrid, 128966086546547276)Attacking Weapon:ATLAS PDC [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.4051489 - isFocus:True
+
+09-23-23_17-47-21-753 - New Threat Detected:The Little Sea Rover (MyCubeGrid, 75064612432028914)
+ - by: (NPC-ACS) Buzzard Mk.07-T (MyCubeGrid, 128966086546547276)Attacking Weapon:ATLAS PDC [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.03859071 - isFocus:True
+
+09-23-23_17-47-25-933 - New Threat Detected:[SEMS]-Arrowhead-Mk-1 (MyCubeGrid, 93725779115237117)
+ - by: The Little Sea Rover (MyCubeGrid, 75064612432028914)Attacking Weapon:25mm Prowler [Weapon] Owner:144115188075855913 - Faction:Junkers(227816149238607166) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855913 - Faction:Junkers(227816149238607166) - Relationship:Enemies - ThreatLevel:10.49861 - isFocus:True
+
+09-23-23_17-47-30-985 - New Threat Detected:The Little Sea Rover (MyCubeGrid, 75064612432028914)
+ - by: [SEMS]-Arrowhead-Mk-1 (MyCubeGrid, 93725779115237117)Attacking Weapon:Small Gatling Turret [Weapon] Owner:144115188075855914 - Faction:Space Engineer Merchant Services(287903586359121113) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855914 - Faction:Space Engineer Merchant Services(287903586359121113) - Relationship:Enemies - ThreatLevel:0.09525069 - isFocus:True
+
+09-23-23_17-48-02-236 - New Threat Detected:Small Grid 483 (MyCubeGrid, 125568224371220483)
+ - by: (NPC-ACS) Buzzard Mk.07-T (MyCubeGrid, 128966086546547276)Attacking Weapon:ATLAS PDC [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_18-00-22-622 - New Threat Detected:[SEMS]-Arrowhead-Mk-1 (MyCubeGrid, 134035768693640529)
+ - by: Small Grid 3324 (MyCubeGrid, 107570066894328402)Attacking Weapon:22mm PROWLER Chaingun [Weapon] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Relationship:Enemies - ThreatLevel:0.02606433 - isFocus:True
+
+09-23-23_18-06-54-152 - New Threat Detected:[SEMS]-M-Base Mk1 (MyCubeGrid, 85110504573326351)
+ - by: (NPC-IBR) Fortress Tower (MyCubeGrid, 121035559207668453)Attacking Weapon:Athena 115mm Railgun Turret [Weapon] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Relationship:Enemies - ThreatLevel:2.094661 - isFocus:True
+
+09-23-23_18-08-58-999 - New Threat Detected:[SEMS]-Arrowhead-Mk-1 (MyCubeGrid, 113307877826133543)
+ - by: (NPC-IBR) Defense Installation (MyCubeGrid, 82315842767535123)Attacking Weapon:25mm Prowler [Weapon] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Relationship:Enemies - ThreatLevel:0.01706499 - isFocus:True
+
+09-23-23_18-09-40-569 - New Threat Detected:[SEMS]-Arrowhead-Mk-1 (MyCubeGrid, 113307877826133543)
+ - by: (NPC-IBR) Defense Installation (MyCubeGrid, 110821398820651544)Attacking Weapon:Oculus Ball-PDL [Weapon] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Relationship:Enemies - ThreatLevel:0.04594797 - isFocus:False
+
+09-23-23_18-09-40-728 - New Threat Detected:[SEMS]-Arrowhead-Mk-1 (MyCubeGrid, 113307877826133543)
+ - by: (NPC-IBR) Fortress Tower (MyCubeGrid, 121035559207668453)Attacking Weapon:Vulcan Turret [Weapon] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Relationship:Enemies - ThreatLevel:0.0718607 - isFocus:True
+
+09-23-23_18-09-43-253 - New Threat Detected:[SEMS]-Arrowhead-Mk-1 (MyCubeGrid, 113307877826133543)
+ - by: Small Grid 3324 (MyCubeGrid, 120917385883208136)Attacking Weapon:Small Missile Launcher [Weapon] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Relationship:Enemies - ThreatLevel:0.3486797 - isFocus:True
+
+09-23-23_18-09-55-223 - New Threat Detected:Small Grid 2024 (MyCubeGrid, 135919068742762024)
+ - by: Small Grid 3324 (MyCubeGrid, 120917385883208136)Attacking Weapon:Small Missile Launcher [Weapon] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_18-09-55-772 - New Threat Detected:Small Grid 2024 (MyCubeGrid, 135919068742762024)
+ - by: (NPC-IBR) Defense Installation (MyCubeGrid, 110821398820651544)Attacking Weapon:ATLAS PDC [Weapon] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+09-23-23_18-10-00-460 - New Threat Detected:Small Grid 2024 (MyCubeGrid, 135919068742762024)
+ - by: (NPC-IBR) Fortress Tower (MyCubeGrid, 121035559207668453)Attacking Weapon:Oculus Ball-PDL [Weapon] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_18-19-02-395 - New Threat Detected:DELTA Earth Base (MyCubeGrid, 78174471556049422)
+ - by: (NPC-PLX) Shadow (MyCubeGrid, 123191099899956927)Attacking Weapon:Athena 115mm Railgun Turret [Weapon] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Relationship:Enemies - ThreatLevel:12.01063 - isFocus:False
+
+09-23-23_18-34-45-870 - New Threat Detected:[VC]-Processing-Station (MyCubeGrid, 115098339299184251)
+ - by: (NPC-ACS) 'Humboldt' Exploration Ship 02 (MyCubeGrid, 97448780403712442)Attacking Weapon:Whirlwind Light Cannon [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:1.057948 - isFocus:False
+
+09-23-23_18-34-45-969 - New Threat Detected:ricardomanskefilho (MyCharacter, 73184932381055437)
+ - by: (NPC-ACS) 'Humboldt' Exploration Ship 02 (MyCubeGrid, 97448780403712442)Attacking Weapon:Interceptor PD [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:False
+
+09-23-23_18-37-01-516 - New Threat Detected:[VC]-Strike-Fighter (MyCubeGrid, 100402356866648070)
+ - by: (NPC-ACS) 'Humboldt' Exploration Ship 02 (MyCubeGrid, 97448780403712442)Attacking Weapon:Gravastar Laser Turret [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.7964314 - isFocus:True
+
+09-23-23_18-37-01-678 - New Threat Detected:(NPC-ACS) 'Humboldt' Exploration Ship 02 (MyCubeGrid, 97448780403712442)
+ - by: [VC]-Strike-Fighter (MyCubeGrid, 100402356866648070)Attacking Weapon:Small Missile Turret [Weapon] Owner:144115188075855915 - Faction:Void Corporation(256641049513017746) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855915 - Faction:Void Corporation(256641049513017746) - Relationship:Enemies - ThreatLevel:1.255601 - isFocus:True
+
+09-23-23_18-44-54-596 - New Threat Detected:(NPC-ACS) 'Humboldt' Exploration Ship 02 (MyCubeGrid, 97448780403712442)
+ - by: [VC]-Strike-Fighter (MyCubeGrid, 124638690737991851)Attacking Weapon:Small Missile Launcher [Weapon] Owner:144115188075855915 - Faction:Void Corporation(256641049513017746) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855915 - Faction:Void Corporation(256641049513017746) - Relationship:Enemies - ThreatLevel:0.05182927 - isFocus:True
+
+09-23-23_18-44-54-695 - New Threat Detected:[VC]-Strike-Fighter (MyCubeGrid, 124638690737991851)
+ - by: (NPC-ACS) 'Humboldt' Exploration Ship 02 (MyCubeGrid, 97448780403712442)Attacking Weapon:25mm Prowler [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:19.29412 - isFocus:True
+
+09-23-23_19-13-36-198 - New Threat Detected:DELTA Earth Base (MyCubeGrid, 78174471556049422)
+ - by: (NPC-ACS) Freshmaker 01 (MyCubeGrid, 143055062743266073)Attacking Weapon:400mm Gun Turret [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:14.93413 - isFocus:True
+
+09-23-23_19-24-23-102 - New Threat Detected:Small Grid 8356 (MyCubeGrid, 140604863009478356)
+ - by: (NPC-ACS) Callisto 01-AT1 (MyCubeGrid, 88510305999774638)Attacking Weapon:Mark 15 Breakwater [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_19-32-17-915 - New Threat Detected:(NPC-AI) Research Base #43 (MyCubeGrid, 129687797819697467)
+ - by: (NPC-PLX) Eidolon (MyCubeGrid, 129856679375383219)Attacking Weapon:Punisher Burst Cannon [Weapon] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Relationship:Enemies - ThreatLevel:0.2425652 - isFocus:True
+
+09-23-23_19-38-12-951 - New Threat Detected:ricardomanskefilho (MyCharacter, 131841136737509302)
+ - by: (NPC-PLX) Shadow (MyCubeGrid, 124066575665377292)Attacking Weapon:Interceptor PD [Weapon] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_19-53-24-810 - New Threat Detected:(NPC-AI) Research Base #43 (MyCubeGrid, 129687797819697467)
+ - by: (NPC-IBR) Fortress Tower (MyCubeGrid, 132780604872541782)Attacking Weapon:Athena 115mm Railgun Turret [Weapon] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Relationship:Enemies - ThreatLevel:0.1145361 - isFocus:True
+
+09-23-23_19-53-25-233 - New Threat Detected:(NPC-ACS) Sunflower-SF5-AT2 (MyCubeGrid, 83493424040324577)
+ - by: (NPC-IBR) Fortress Tower (MyCubeGrid, 132780604872541782)Attacking Weapon:M66 Sentry [Weapon] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Relationship:Enemies - ThreatLevel:0.1244016 - isFocus:True
+
+09-23-23_19-53-50-512 - New Threat Detected:(NPC-IBR) Patrol Drone (MyCubeGrid, 115970434336856958)
+ - by: (NPC-ACS) Sunflower-SF5-AT2 (MyCubeGrid, 83493424040324577)Attacking Weapon:Nucleon Laser Shotgun [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.09742704 - isFocus:True
+
+09-23-23_19-54-54-818 - New Threat Detected:(NPC-IBR) Patrol Drone (MyCubeGrid, 101010866385345947)
+ - by: (NPC-ACS) Sunflower-SF5-AT2 (MyCubeGrid, 83493424040324577)Attacking Weapon:Nova Phase Blaster [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.04404766 - isFocus:True
+
+09-23-23_20-06-26-011 - New Threat Detected:(NPC-IBR) Fortress Tower (MyCubeGrid, 132780604872541782)
+ - by: The Hangman's Delight (MyCubeGrid, 116536773910652242)Attacking Weapon:Quasar Shock Cannon [Weapon] Owner:144115188075855913 - Faction:Junkers(227816149238607166) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855913 - Faction:Junkers(227816149238607166) - Relationship:Enemies - ThreatLevel:1.034361 - isFocus:True
+
+09-23-23_20-06-26-604 - New Threat Detected:(NPC-AI) Research Base #43 (MyCubeGrid, 129687797819697467)
+ - by: Unsung Hollows (MyCubeGrid, 100232213702337323)Attacking Weapon:Large Assault Cannon Turret [Weapon] Owner:144115188075855913 - Faction:Junkers(227816149238607166) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855913 - Faction:Junkers(227816149238607166) - Relationship:Enemies - ThreatLevel:0.3841074 - isFocus:True
+
+09-23-23_20-07-12-647 - New Threat Detected:(NPC-AI) Research Base #43 (MyCubeGrid, 129687797819697467)
+ - by: The Little Sea Rover (MyCubeGrid, 72537785790361670)Attacking Weapon:Autocannon Turret [Weapon] Owner:144115188075855913 - Faction:Junkers(227816149238607166) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855913 - Faction:Junkers(227816149238607166) - Relationship:Enemies - ThreatLevel:4.480787 - isFocus:True
+
+09-23-23_20-07-14-088 - New Threat Detected:The Little Sea Rover (MyCubeGrid, 72537785790361670)
+ - by: (NPC-AI) Research Base #43 (MyCubeGrid, 129687797819697467)Attacking Weapon:30mm RevolverCannon CIWS [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.2231751 - isFocus:True
+
+09-23-23_20-07-27-359 - New Threat Detected:Static Grid 1108 (MyCubeGrid, 104465761075001108)
+ - by: The Little Sea Rover (MyCubeGrid, 72537785790361670)Attacking Weapon:Autocannon Turret [Weapon] Owner:144115188075855913 - Faction:Junkers(227816149238607166) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855913 - Faction:Junkers(227816149238607166) - Relationship:Enemies - ThreatLevel:7.335444 - isFocus:True
+
+09-23-23_20-12-24-942 - New Threat Detected:AirF Hanger Dock (MyCubeGrid, 72435182800703942)
+ - by: (NPC-AI) Research Base #43 (MyCubeGrid, 120139097057307100)Attacking Weapon:AC-54 Chord [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_20-12-57-447 - New Threat Detected:Static Grid 3956 (MyCubeGrid, 140744358682823956)
+ - by: The Little Sea Rover (MyCubeGrid, 72537785790361670)Attacking Weapon:30mm RevolverCannon CIWS [Weapon] Owner:144115188075855913 - Faction:Junkers(227816149238607166) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855913 - Faction:Junkers(227816149238607166) - Relationship:Enemies - ThreatLevel:1.020042 - isFocus:True
+
+09-23-23_20-13-08-250 - New Threat Detected:(NPC-AI) Research Base #43 (MyCubeGrid, 120139097057307100)
+ - by: [SEMS]-Arrowhead-Mk-1 (MyCubeGrid, 107260584645411193)Attacking Weapon:AC-54 Chord [Weapon] Owner:144115188075855914 - Faction:Space Engineer Merchant Services(287903586359121113) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855914 - Faction:Space Engineer Merchant Services(287903586359121113) - Relationship:Enemies - ThreatLevel:0.4148796 - isFocus:True
+
+09-23-23_20-13-10-210 - New Threat Detected:[SEMS]-Arrowhead-Mk-1 (MyCubeGrid, 115272809749965573)
+ - by: (NPC-AI) Research Base #43 (MyCubeGrid, 120139097057307100)Attacking Weapon:Gravastar Laser Turret [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:1.589055 - isFocus:True
+
+09-23-23_20-13-10-230 - New Threat Detected:(NPC-AI) Research Base #43 (MyCubeGrid, 120139097057307100)
+ - by: [SEMS]-Arrowhead-Mk-1 (MyCubeGrid, 115272809749965573)Attacking Weapon:Small Gatling Turret [Weapon] Owner:144115188075855914 - Faction:Space Engineer Merchant Services(287903586359121113) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855914 - Faction:Space Engineer Merchant Services(287903586359121113) - Relationship:Enemies - ThreatLevel:0.6293049 - isFocus:True
+
+09-23-23_20-13-55-746 - New Threat Detected:[SEMS]-Arrowhead-Mk-1 (MyCubeGrid, 107260584645411193)
+ - by: (NPC-AI) Research Base #43 (MyCubeGrid, 120139097057307100)Attacking Weapon:Gravastar Laser Turret [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:2.410338 - isFocus:True
+
+09-23-23_20-14-21-465 - New Threat Detected:AirF Hanger Dock (MyCubeGrid, 72435182800703942)
+ - by: (NPC-ACS) Cubiculus One-AT1 (MyCubeGrid, 111391341760350327)Attacking Weapon:500mm Gun Turret [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_20-14-35-030 - New Threat Detected:Static Grid 1576 (MyCubeGrid, 99676405740961576)
+ - by: [SEMS]-Arrowhead-Mk-1 (MyCubeGrid, 107260584645411193)Attacking Weapon:Small Flechette Launcher [Weapon] Owner:144115188075855914 - Faction:Space Engineer Merchant Services(287903586359121113) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855914 - Faction:Space Engineer Merchant Services(287903586359121113) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_20-14-36-321 - New Threat Detected:Static Grid 3140 (MyCubeGrid, 97688967093973140)
+ - by: [SEMS]-Arrowhead-Mk-1 (MyCubeGrid, 115272809749965573)Attacking Weapon:Small Gatling Turret [Weapon] Owner:144115188075855914 - Faction:Space Engineer Merchant Services(287903586359121113) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855914 - Faction:Space Engineer Merchant Services(287903586359121113) - Relationship:Enemies - ThreatLevel:0.2233852 - isFocus:True
+
+09-23-23_20-14-55-690 - New Threat Detected:Static Grid 9515 (MyCubeGrid, 110540294295439515)
+ - by: [SEMS]-Arrowhead-Mk-1 (MyCubeGrid, 115272809749965573)Attacking Weapon:Small Gatling Turret [Weapon] Owner:144115188075855914 - Faction:Space Engineer Merchant Services(287903586359121113) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855914 - Faction:Space Engineer Merchant Services(287903586359121113) - Relationship:Enemies - ThreatLevel:0 - isFocus:True
+
+09-23-23_20-17-40-670 - New Threat Detected:[SEMS]-Arrowhead-Mk-1 (MyCubeGrid, 115272809749965573)
+ - by: (NPC-ACS) Cubiculus One-AT1 (MyCubeGrid, 111391341760350327)Attacking Weapon:30mm SubTurret1 [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.08962497 - isFocus:True
+
+09-23-23_20-17-40-781 - New Threat Detected:(NPC-ACS) Cubiculus One-AT1 (MyCubeGrid, 111391341760350327)
+ - by: [SEMS]-Arrowhead-Mk-1 (MyCubeGrid, 115272809749965573)Attacking Weapon:Small Gatling Turret [Weapon] Owner:144115188075855914 - Faction:Space Engineer Merchant Services(287903586359121113) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855914 - Faction:Space Engineer Merchant Services(287903586359121113) - Relationship:Enemies - ThreatLevel:11.15761 - isFocus:True
+
+09-23-23_20-17-47-913 - New Threat Detected:(NPC-ACS) Cubiculus One-AT1 (MyCubeGrid, 111391341760350327)
+ - by: [SEMS]-Arrowhead-Mk-1 (MyCubeGrid, 107260584645411193)Attacking Weapon:Autocannon Turret [Weapon] Owner:144115188075855914 - Faction:Space Engineer Merchant Services(287903586359121113) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855914 - Faction:Space Engineer Merchant Services(287903586359121113) - Relationship:Enemies - ThreatLevel:7.355835 - isFocus:True
+
+09-23-23_20-17-48-837 - New Threat Detected:[SEMS]-Arrowhead-Mk-1 (MyCubeGrid, 107260584645411193)
+ - by: (NPC-ACS) Cubiculus One-AT1 (MyCubeGrid, 111391341760350327)Attacking Weapon:500mm Gun Turret [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.1359465 - isFocus:True
+
+09-23-23_20-18-18-649 - New Threat Detected:Small Grid 9028 (MyCubeGrid, 95923832869549028)
+ - by: (NPC-ACS) Cubiculus One-AT1 (MyCubeGrid, 111391341760350327)Attacking Weapon:Aurora Combat Laser [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_20-18-21-594 - New Threat Detected:Small Grid 1157 (MyCubeGrid, 119902534704931157)
+ - by: (NPC-ACS) Cubiculus One-AT1 (MyCubeGrid, 111391341760350327)Attacking Weapon:Large Missile Turret [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_20-18-23-400 - New Threat Detected:Small Grid 1111 (MyCubeGrid, 127259529872361111)
+ - by: (NPC-ACS) Cubiculus One-AT1 (MyCubeGrid, 111391341760350327)Attacking Weapon:30mm SubTurret2 [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_20-18-29-093 - New Threat Detected:Small Grid 2285 (MyCubeGrid, 138921366075562285)
+ - by: (NPC-ACS) Cubiculus One-AT1 (MyCubeGrid, 111391341760350327)Attacking Weapon:Large Missile Turret [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_20-32-44-259 - New Threat Detected:[SEMS]-Arrowhead-Mk-1 (MyCubeGrid, 100184661930830450)
+ - by: (NPC-ACS) Panini Sidecar 02 (MyCubeGrid, 111777628286928030)Attacking Weapon:Apollo 250mm Railgun Turret [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:3.711897 - isFocus:True
+
+09-23-23_20-33-26-075 - New Threat Detected:(NPC-ACS) Panini Sidecar 02 (MyCubeGrid, 111777628286928030)
+ - by: [SEMS]-Arrowhead-Mk-1 (MyCubeGrid, 100184661930830450)Attacking Weapon:Nyx Missile Hardpoint [Weapon] Owner:144115188075855914 - Faction:Space Engineer Merchant Services(287903586359121113) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855914 - Faction:Space Engineer Merchant Services(287903586359121113) - Relationship:Enemies - ThreatLevel:0.269404 - isFocus:True
+
+09-23-23_20-51-06-289 - New Threat Detected:base terra 4587 (MyCubeGrid, 82634338499264959)
+ - by: (NPC-ACS) WKZ-LG Mercury-AT2 (MyCubeGrid, 136723219105970467)Attacking Weapon:Magnetar Shock Cannon [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_21-35-35-072 - New Threat Detected:ricardomanskefilho (MyCharacter, 90845364672253601)
+ - by: (NPC-ACS) WKZ-LG Mercury-AT2 (MyCubeGrid, 79075287621141148)Attacking Weapon:Interceptor PD [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_21-58-54-412 - New Threat Detected:The Little Sea Rover (MyCubeGrid, 140242363189442318)
+ - by: (NPC-IBR) Mobile Drilling Platform (MyCubeGrid, 97180341275399236)Attacking Weapon:AC-85 Echo [Weapon] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_22-13-28-304 - New Threat Detected:DELTA Earth Base (MyCubeGrid, 78174471556049422)
+ - by: (NPC-IBR) Aquila Strike Corvette (MyCubeGrid, 98292699525395222)Attacking Weapon:Longsword Missile Battery [Weapon] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Relationship:Enemies - ThreatLevel:1.921611 - isFocus:True
+
+09-23-23_22-48-29-319 - New Threat Detected:(NPC-ACS) Peon-AT2 (MyCubeGrid, 104789929619580150)
+ - by: DELTA Earth Base (MyCubeGrid, 78174471556049422)Attacking Weapon:Starfall Rocket Artillery [Weapon] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:0.03894512 - isFocus:True
+
+09-23-23_22-50-16-472 - New Threat Detected:(NPC-ACS) Wasp Drone (MyCubeGrid, 135698173530134771)
+ - by: DELTA Earth Base (MyCubeGrid, 78174471556049422)Attacking Weapon:30mm SubTurret2 [Weapon] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:0.8778033 - isFocus:True
+
+09-23-23_22-53-07-499 - New Threat Detected:(NPC-ACS) Mayfly Drone (MyCubeGrid, 80922835891169880)
+ - by: DELTA Earth Base (MyCubeGrid, 78174471556049422)Attacking Weapon:Starfall Rocket Artillery [Weapon] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:0.8779485 - isFocus:False
+
+09-23-23_23-00-58-234 - New Threat Detected:(NPC-ACS) The Stingray 01 (MyCubeGrid, 120953162117409719)
+ - by: DELTA Earth Base (MyCubeGrid, 78174471556049422)Attacking Weapon:Starfall Rocket Artillery [Weapon] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:0.01454607 - isFocus:False
+
+09-23-23_23-01-37-947 - New Threat Detected:(NPC-ACS) Wasp Drone Mk2 (MyCubeGrid, 137087311779081634)
+ - by: DELTA Earth Base (MyCubeGrid, 78174471556049422)Attacking Weapon:500mm Gun Turret [Weapon] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:0.8767516 - isFocus:False
+
+09-23-23_23-02-05-160 - New Threat Detected:(NPC-ACS) Mosquito Drone Mk2 (MyCubeGrid, 116266045098491071)
+ - by: DELTA Earth Base (MyCubeGrid, 78174471556049422)Attacking Weapon:Starfall Rocket Artillery [Weapon] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:0.002064692 - isFocus:False
+
+09-23-23_23-02-35-912 - New Threat Detected:(NPC-ACS) Mosquito Drone (MyCubeGrid, 107570038090757745)
+ - by: DELTA Earth Base (MyCubeGrid, 78174471556049422)Attacking Weapon:Riptide Flak [Weapon] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:10 - isFocus:False
+
+09-23-23_23-18-26-749 - New Threat Detected:The Little Sea Rover (MyCubeGrid, 140242363189442318)
+ - by: (NPC-ACS) JXS Scrabler 01 (MyCubeGrid, 91924406407396878)Attacking Weapon:Starfall Rocket Artillery [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_23-52-25-109 - New Threat Detected:ISMN Outpost 898433423134856303 (MyCubeGrid, 136749745369571316)
+ - by: [VC]-Processing-Station (MyCubeGrid, 78849244793169644)Attacking Weapon:Quasar Shock Cannon [Weapon] Owner:144115188075855915 - Faction:Void Corporation(256641049513017746) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855915 - Faction:Void Corporation(256641049513017746) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-23-23_23-53-07-529 - New Threat Detected:(NPC-IBR) Transport Courier (MyCubeGrid, 116607122648340825)
+ - by: [VC]-Strike-Fighter (MyCubeGrid, 83370034671799412)Attacking Weapon:Autocannon Turret [Weapon] Owner:144115188075855915 - Faction:Void Corporation(256641049513017746) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855915 - Faction:Void Corporation(256641049513017746) - Relationship:Enemies - ThreatLevel:0.08985957 - isFocus:True
+
+09-23-23_23-53-08-718 - New Threat Detected:[VC]-Strike-Fighter (MyCubeGrid, 83370034671799412)
+ - by: (NPC-IBR) Escort Drone (MyCubeGrid, 73900335547502300)Attacking Weapon:Small Gatling Turret [Weapon] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Relationship:Enemies - ThreatLevel:1.015624 - isFocus:True
+
+09-23-23_23-53-08-828 - New Threat Detected:[VC]-Strike-Fighter (MyCubeGrid, 83370034671799412)
+ - by: (NPC-IBR) Transport Courier (MyCubeGrid, 116607122648340825)Attacking Weapon:Quasar Shock Cannon [Weapon] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Relationship:Enemies - ThreatLevel:11.12848 - isFocus:True
+
+09-23-23_23-53-43-683 - New Threat Detected:[VC]-Strike-Fighter (MyCubeGrid, 83370034671799412)
+ - by: (NPC-IBR) Escort Drone (MyCubeGrid, 75554592581301704)Attacking Weapon:Nyx Missile Hardpoint [Weapon] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Relationship:Enemies - ThreatLevel:7.41306 - isFocus:True
+
+09-23-23_23-53-43-719 - New Threat Detected:(NPC-IBR) Escort Drone (MyCubeGrid, 75554592581301704)
+ - by: [VC]-Strike-Fighter (MyCubeGrid, 83370034671799412)Attacking Weapon:Autocannon Turret [Weapon] Owner:144115188075855915 - Faction:Void Corporation(256641049513017746) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855915 - Faction:Void Corporation(256641049513017746) - Relationship:Enemies - ThreatLevel:0.1348971 - isFocus:True
+
+09-23-23_23-54-27-359 - New Threat Detected:[VC]-Strike-Fighter (MyCubeGrid, 81915257821554577)
+ - by: (NPC-IBR) Transport Courier (MyCubeGrid, 116607122648340825)Attacking Weapon:Whirlwind Light Cannon [Weapon] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Relationship:Enemies - ThreatLevel:0.3796772 - isFocus:True
+
+09-23-23_23-54-28-755 - New Threat Detected:[VC]-Strike-Fighter (MyCubeGrid, 81915257821554577)
+ - by: (NPC-IBR) Escort Drone (MyCubeGrid, 75554592581301704)Attacking Weapon:Autocannon Turret [Weapon] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Relationship:Enemies - ThreatLevel:0.252916 - isFocus:True
+
+09-23-23_23-54-28-806 - New Threat Detected:(NPC-IBR) Escort Drone (MyCubeGrid, 75554592581301704)
+ - by: [VC]-Strike-Fighter (MyCubeGrid, 81915257821554577)Attacking Weapon:Small Flechette Launcher [Weapon] Owner:144115188075855915 - Faction:Void Corporation(256641049513017746) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855915 - Faction:Void Corporation(256641049513017746) - Relationship:Enemies - ThreatLevel:3.953882 - isFocus:True
+
+09-23-23_23-54-33-937 - New Threat Detected:(NPC-IBR) Transport Courier (MyCubeGrid, 116607122648340825)
+ - by: [VC]-Strike-Fighter (MyCubeGrid, 81915257821554577)Attacking Weapon:Small Flechette Launcher [Weapon] Owner:144115188075855915 - Faction:Void Corporation(256641049513017746) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855915 - Faction:Void Corporation(256641049513017746) - Relationship:Enemies - ThreatLevel:2.633816 - isFocus:True
+
+09-23-23_23-54-55-770 - New Threat Detected:[VC]-Strike-Fighter (MyCubeGrid, 81915257821554577)
+ - by: (NPC-IBR) Escort Drone (MyCubeGrid, 73900335547502300)Attacking Weapon:Small Gatling Turret [Weapon] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Relationship:Enemies - ThreatLevel:0.03465068 - isFocus:True
+
+09-24-23_00-21-30-000 - New Threat Detected:The Little Sea Rover (MyCubeGrid, 140242363189442318)
+ - by: (NPC-ACS) 'Bison' Troop Transport 01-T (MyCubeGrid, 111385044657982054)Attacking Weapon:Reaper Pulse Cannon [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-24-23_00-41-53-942 - New Threat Detected:Static Grid 3622 (MyCubeGrid, 135882379032313622)
+ - by: (NPC-ACS) Peon (MyCubeGrid, 73416396316226371)Attacking Weapon:Artillery Turret [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-24-23_00-58-32-335 - New Threat Detected:(NPC-PLX) Heroes Pride (MyCubeGrid, 129482132195716792)
+ - by: DELTA Earth Base (MyCubeGrid, 78174471556049422)Attacking Weapon:Starfall Rocket Artillery [Weapon] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:0.01656987 - isFocus:False
+
+09-24-23_01-09-12-870 - New Threat Detected:(NPC-ACS) Carryall 01-AT1 (MyCubeGrid, 141043806019779714)
+ - by: Small Grid 1104 (MyCubeGrid, 131936180168711104)Attacking Weapon:M58 Archer Missile Pods [Weapon] Owner:Moura(144115188075855998) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Moura(144115188075855998) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:0.04300945 - isFocus:True
+
+09-24-23_01-09-16-300 - New Threat Detected:Small Grid 1104 (MyCubeGrid, 131936180168711104)
+ - by: (NPC-ACS) Carryall 01-AT1 (MyCubeGrid, 141043806019779714)Attacking Weapon:30mm RevolverCannon CIWS [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:23.25071 - isFocus:True
+
+09-24-23_01-09-22-217 - New Threat Detected:(NPC-ACS) Mosquito Drone (MyCubeGrid, 104738974374427612)
+ - by: [VC]-Processing-Station (MyCubeGrid, 86056889419630027)Attacking Weapon:Starfall Rocket Artillery [Weapon] Owner:144115188075855915 - Faction:Void Corporation(256641049513017746) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855915 - Faction:Void Corporation(256641049513017746) - Relationship:Enemies - ThreatLevel:5.609727E-06 - isFocus:True
+
+09-24-23_01-09-38-935 - New Threat Detected:(NPC-ACS) Mosquito Drone (MyCubeGrid, 104738974374427612)
+ - by: Small Grid 1104 (MyCubeGrid, 131936180168711104)Attacking Weapon:M910 Point Defense [Weapon] Owner:Moura(144115188075855998) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Moura(144115188075855998) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:0.001575981 - isFocus:True
+
+09-24-23_01-11-09-986 - New Threat Detected:[VC]-Strike-Fighter (MyCubeGrid, 136863665982387046)
+ - by: (NPC-PLX) Heroes Pride (MyCubeGrid, 104414111111729868)Attacking Weapon:Small Missile Launcher [Weapon] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Relationship:Enemies - ThreatLevel:41.69229 - isFocus:True
+
+09-24-23_01-11-12-211 - New Threat Detected:[VC]-Strike-Fighter (MyCubeGrid, 136863665982387046)
+ - by: (NPC-PLX) Heroes Pride (MyCubeGrid, 129482132195716792)Attacking Weapon:Small Flechette Launcher [Weapon] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Relationship:Enemies - ThreatLevel:54.72596 - isFocus:True
+
+09-24-23_01-11-14-099 - New Threat Detected:(NPC-PLX) Heroes Pride (MyCubeGrid, 129482132195716792)
+ - by: [VC]-Strike-Fighter (MyCubeGrid, 136863665982387046)Attacking Weapon:Sabre Missile Hardpoint [Weapon] Owner:144115188075855915 - Faction:Void Corporation(256641049513017746) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855915 - Faction:Void Corporation(256641049513017746) - Relationship:Enemies - ThreatLevel:0.01827286 - isFocus:True
+
+09-24-23_01-11-18-273 - New Threat Detected:[VC]-Strike-Fighter (MyCubeGrid, 136863665982387046)
+ - by: (NPC-PLX) Frontier Outpost (MyCubeGrid, 111006284600562966)Attacking Weapon:M910 Point Defense [Weapon] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Relationship:Enemies - ThreatLevel:7.889906 - isFocus:True
+
+09-24-23_01-11-18-928 - New Threat Detected:(NPC-PLX) Frontier Outpost (MyCubeGrid, 111006284600562966)
+ - by: [VC]-Strike-Fighter (MyCubeGrid, 136863665982387046)Attacking Weapon:M910 Point Defense [Weapon] Owner:144115188075855915 - Faction:Void Corporation(256641049513017746) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855915 - Faction:Void Corporation(256641049513017746) - Relationship:Enemies - ThreatLevel:0.1267442 - isFocus:True
+
+09-24-23_01-11-48-234 - New Threat Detected:[VC]-Strike-Fighter (MyCubeGrid, 105590780051613357)
+ - by: (NPC-PLX) Heroes Pride (MyCubeGrid, 104414111111729868)Attacking Weapon:Small Missile Launcher [Weapon] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Relationship:Enemies - ThreatLevel:41.95041 - isFocus:True
+
+09-24-23_01-11-48-369 - New Threat Detected:(NPC-PLX) Heroes Pride (MyCubeGrid, 104414111111729868)
+ - by: [VC]-Strike-Fighter (MyCubeGrid, 105590780051613357)Attacking Weapon:AC-54 Chord [Weapon] Owner:144115188075855915 - Faction:Void Corporation(256641049513017746) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855915 - Faction:Void Corporation(256641049513017746) - Relationship:Enemies - ThreatLevel:0.02383767 - isFocus:True
+
+09-24-23_01-11-56-128 - New Threat Detected:(NPC-PLX) Heroes Pride (MyCubeGrid, 104414111111729868)
+ - by: [VC]-Strike-Fighter (MyCubeGrid, 136863665982387046)Attacking Weapon:M910 Point Defense [Weapon] Owner:144115188075855915 - Faction:Void Corporation(256641049513017746) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855915 - Faction:Void Corporation(256641049513017746) - Relationship:Enemies - ThreatLevel:0.02398525 - isFocus:True
+
+09-24-23_01-11-59-580 - New Threat Detected:(NPC-PLX) Frontier Outpost (MyCubeGrid, 111006284600562966)
+ - by: [VC]-Strike-Fighter (MyCubeGrid, 105590780051613357)Attacking Weapon:Sabre Missile Hardpoint [Weapon] Owner:144115188075855915 - Faction:Void Corporation(256641049513017746) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855915 - Faction:Void Corporation(256641049513017746) - Relationship:Enemies - ThreatLevel:0.1259643 - isFocus:True
+
+09-24-23_01-12-00-270 - New Threat Detected:[VC]-Strike-Fighter (MyCubeGrid, 105590780051613357)
+ - by: (NPC-PLX) Frontier Outpost (MyCubeGrid, 111006284600562966)Attacking Weapon:300mm Gun Turret [Weapon] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Relationship:Enemies - ThreatLevel:7.938755 - isFocus:True
+
+09-24-23_01-12-17-425 - New Threat Detected:[VC]-Strike-Fighter (MyCubeGrid, 105590780051613357)
+ - by: (NPC-PLX) Heroes Pride (MyCubeGrid, 129482132195716792)Attacking Weapon:M870 Point Defense [Weapon] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Relationship:Enemies - ThreatLevel:55.06479 - isFocus:True
+
+09-24-23_01-12-23-356 - New Threat Detected:Small Grid 1948 (MyCubeGrid, 136255209202831948)
+ - by: (NPC-PLX) Frontier Outpost (MyCubeGrid, 111006284600562966)Attacking Weapon:Nova Phase Blaster [Weapon] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-24-23_01-12-26-212 - New Threat Detected:Small Grid 2155 (MyCubeGrid, 141828348503512155)
+ - by: (NPC-PLX) Heroes Pride (MyCubeGrid, 104414111111729868)Attacking Weapon:Argus PDL [Weapon] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Relationship:Enemies - ThreatLevel:0.312983 - isFocus:True
+
+09-24-23_01-12-26-212 - New Threat Detected:Small Grid 2155 (MyCubeGrid, 141828348503512155)
+ - by: (NPC-PLX) Frontier Outpost (MyCubeGrid, 111006284600562966)Attacking Weapon:M910 Point Defense [Weapon] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Relationship:Enemies - ThreatLevel:0.05922934 - isFocus:True
+
+09-24-23_01-12-31-298 - New Threat Detected:(NPC-ACS) Mosquito Drone (MyCubeGrid, 107786898633747531)
+ - by: Small Grid 1104 (MyCubeGrid, 131936180168711104)Attacking Weapon:M910 Point Defense [Weapon] Owner:Moura(144115188075855998) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Moura(144115188075855998) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:0.001575711 - isFocus:True
+
+09-24-23_01-12-38-197 - New Threat Detected:Small Grid 8793 (MyCubeGrid, 89272120643598793)
+ - by: (NPC-PLX) Frontier Outpost (MyCubeGrid, 111006284600562966)Attacking Weapon:ATLAS PDC [Weapon] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Relationship:Enemies - ThreatLevel:0.01510144 - isFocus:True
+
+09-24-23_01-12-59-755 - New Threat Detected:Small Grid 2155 (MyCubeGrid, 141828348503512155)
+ - by: (NPC-PLX) Heroes Pride (MyCubeGrid, 129482132195716792)Attacking Weapon:M870 Point Defense [Weapon] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Relationship:Enemies - ThreatLevel:0.4108265 - isFocus:True
+
+09-24-23_01-13-11-098 - New Threat Detected:(NPC-ACS) Wasp Drone (MyCubeGrid, 140642634110091786)
+ - by: Small Grid 1104 (MyCubeGrid, 131936180168711104)Attacking Weapon:M910 Point Defense [Weapon] Owner:Moura(144115188075855998) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Moura(144115188075855998) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:0.001424791 - isFocus:True
+
+09-24-23_01-13-27-778 - New Threat Detected:Small Grid 8793 (MyCubeGrid, 89272120643598793)
+ - by: (NPC-PLX) Heroes Pride (MyCubeGrid, 104414111111729868)Attacking Weapon:Argus PDL [Weapon] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Relationship:Enemies - ThreatLevel:0.07979989 - isFocus:True
+
+09-24-23_01-14-15-872 - New Threat Detected:(NPC-PLX) Bunker (MyCubeGrid, 143588938195875748)
+ - by: (NPC-ACS) TAC-02 Mantis (MyCubeGrid, 83917570874091078)Attacking Weapon:Pulsar Shock Cannon [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.4954325 - isFocus:True
+
+09-24-23_01-14-56-488 - New Threat Detected:(NPC-ACS) Wasp Drone (MyCubeGrid, 140642634110091786)
+ - by: DELTA Earth Base (MyCubeGrid, 78174471556049422)Attacking Weapon:500mm Gun Turret [Weapon] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:0.00173564 - isFocus:False
+
+09-24-23_01-25-01-153 - New Threat Detected:(NPC-PLX) Frontier Outpost (MyCubeGrid, 111006284600562966)
+ - by: [VC]-Strike-Fighter (MyCubeGrid, 124096740018070485)Attacking Weapon:Small Missile Launcher [Weapon] Owner:144115188075855915 - Faction:Void Corporation(256641049513017746) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855915 - Faction:Void Corporation(256641049513017746) - Relationship:Enemies - ThreatLevel:2.70817 - isFocus:True
+
+09-24-23_01-25-01-644 - New Threat Detected:[VC]-Strike-Fighter (MyCubeGrid, 124096740018070485)
+ - by: (NPC-PLX) Frontier Outpost (MyCubeGrid, 111006284600562966)Attacking Weapon:25mm Prowler [Weapon] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Relationship:Enemies - ThreatLevel:0.3692531 - isFocus:True
+
+09-24-23_01-25-07-220 - New Threat Detected:[VC]-Strike-Fighter (MyCubeGrid, 124096740018070485)
+ - by: (NPC-PLX) Heroes Pride (MyCubeGrid, 129482132195716792)Attacking Weapon:M870 Point Defense [Weapon] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Relationship:Enemies - ThreatLevel:2.561213 - isFocus:True
+
+09-24-23_01-26-18-345 - New Threat Detected:[VC]-Strike-Fighter (MyCubeGrid, 124096740018070485)
+ - by: (NPC-PLX) Heroes Pride (MyCubeGrid, 104414111111729868)Attacking Weapon:Argus PDL [Weapon] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Relationship:Enemies - ThreatLevel:1.951228 - isFocus:True
+
+09-24-23_01-26-46-163 - New Threat Detected:Small Grid 8793 (MyCubeGrid, 89272120643598793)
+ - by: (NPC-PLX) Heroes Pride (MyCubeGrid, 129482132195716792)Attacking Weapon:M870 Point Defense [Weapon] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Relationship:Enemies - ThreatLevel:0.1047466 - isFocus:True
+
+09-24-23_01-33-41-515 - New Threat Detected:Small Grid 6774 (MyCubeGrid, 90976071152446774)
+ - by: (NPC-PLX) Heroes Pride (MyCubeGrid, 129482132195716792)Attacking Weapon:M870 Point Defense [Weapon] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Relationship:Enemies - ThreatLevel:0 - isFocus:True
+
+09-24-23_01-37-00-176 - New Threat Detected:[VC]-Strike-Fighter (MyCubeGrid, 79827390781808901)
+ - by: (NPC-PLX) Frontier Outpost (MyCubeGrid, 111006284600562966)Attacking Weapon:Gravastar Laser Turret [Weapon] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Relationship:Enemies - ThreatLevel:8.242117 - isFocus:True
+
+09-24-23_01-37-00-252 - New Threat Detected:(NPC-PLX) Frontier Outpost (MyCubeGrid, 111006284600562966)
+ - by: [VC]-Strike-Fighter (MyCubeGrid, 79827390781808901)Attacking Weapon:Small Missile Launcher [Weapon] Owner:144115188075855915 - Faction:Void Corporation(256641049513017746) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855915 - Faction:Void Corporation(256641049513017746) - Relationship:Enemies - ThreatLevel:0.121328 - isFocus:True
+
+09-24-23_01-37-19-503 - New Threat Detected:[VC]-Strike-Fighter (MyCubeGrid, 79827390781808901)
+ - by: (NPC-PLX) Heroes Pride (MyCubeGrid, 104414111111729868)Attacking Weapon:Argus PDL [Weapon] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Relationship:Enemies - ThreatLevel:43.55346 - isFocus:True
+
+09-24-23_01-37-27-749 - New Threat Detected:[VC]-Strike-Fighter (MyCubeGrid, 79827390781808901)
+ - by: (NPC-PLX) Heroes Pride (MyCubeGrid, 129482132195716792)Attacking Weapon:M870 Point Defense [Weapon] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Relationship:Enemies - ThreatLevel:57.16897 - isFocus:True
+
+09-24-23_01-37-29-014 - New Threat Detected:Small Grid 980 (MyCubeGrid, 79826304214010980)
+ - by: (NPC-PLX) Frontier Outpost (MyCubeGrid, 111006284600562966)Attacking Weapon:ATLAS PDC [Weapon] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Relationship:Enemies - ThreatLevel:0.02045493 - isFocus:True
+
+09-24-23_01-37-57-780 - New Threat Detected:(NPC-PLX) Heroes Pride (MyCubeGrid, 129482132195716792)
+ - by: [VC]-Strike-Fighter (MyCubeGrid, 79827390781808901)Attacking Weapon:Small Missile Turret [Weapon] Owner:144115188075855915 - Faction:Void Corporation(256641049513017746) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855915 - Faction:Void Corporation(256641049513017746) - Relationship:Enemies - ThreatLevel:0.01749201 - isFocus:True
+
+09-24-23_01-41-59-815 - New Threat Detected:Small Grid 5489 (MyCubeGrid, 97063476338395489)
+ - by: (NPC-PLX) Heroes Pride (MyCubeGrid, 129482132195716792)Attacking Weapon:M870 Point Defense [Weapon] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Relationship:Enemies - ThreatLevel:0 - isFocus:True
+
+09-24-23_01-42-33-792 - New Threat Detected:Small Grid 980 (MyCubeGrid, 79826304214010980)
+ - by: (NPC-PLX) Heroes Pride (MyCubeGrid, 129482132195716792)Attacking Weapon:M870 Point Defense [Weapon] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Relationship:Enemies - ThreatLevel:0.1418795 - isFocus:True
+
+09-24-23_01-43-14-719 - New Threat Detected:Small Grid 9812 (MyCubeGrid, 94816838781489812)
+ - by: (NPC-PLX) Heroes Pride (MyCubeGrid, 129482132195716792)Attacking Weapon:M870 Point Defense [Weapon] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Relationship:Enemies - ThreatLevel:0 - isFocus:True
+
+09-24-23_01-45-29-591 - New Threat Detected:Small Grid 2257 (MyCubeGrid, 73610669152142257)
+ - by: (NPC-PLX) Heroes Pride (MyCubeGrid, 129482132195716792)Attacking Weapon:M870 Point Defense [Weapon] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Relationship:Enemies - ThreatLevel:0.9453833 - isFocus:True
+
+09-24-23_01-46-31-421 - New Threat Detected:Small Grid 1104 (MyCubeGrid, 131936180168711104)
+ - by: (NPC-IBR) Sky Factory (MyCubeGrid, 86096422123151803)Attacking Weapon:Longsword Missile Battery [Weapon] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Relationship:Enemies - ThreatLevel:2.710449 - isFocus:True
+
+09-24-23_01-46-32-243 - New Threat Detected:The Little Sea Rover (MyCubeGrid, 140242363189442318)
+ - by: (NPC-IBR) Sky Factory (MyCubeGrid, 86096422123151803)Attacking Weapon:300mm Gun Turret [Weapon] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-24-23_01-46-32-939 - New Threat Detected:(NPC-IBR) Sky Factory (MyCubeGrid, 86096422123151803)
+ - by: DELTA Earth Base (MyCubeGrid, 78174471556049422)Attacking Weapon:500mm Gun Turret [Weapon] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:0.4494356 - isFocus:False
+
+09-24-23_01-48-28-519 - New Threat Detected:Small Grid 1948 (MyCubeGrid, 136255209202831948)
+ - by: (NPC-PLX) Heroes Pride (MyCubeGrid, 104414111111729868)Attacking Weapon:Argus PDL [Weapon] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Relationship:Enemies - ThreatLevel:0 - isFocus:True
+
+09-24-23_01-50-33-374 - New Threat Detected:[VC]-Strike-Fighter (MyCubeGrid, 127284254873673073)
+ - by: (NPC-IBR) Sky Factory (MyCubeGrid, 86096422123151803)Attacking Weapon:25mm Prowler [Weapon] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855910 - Faction:Imber Corporation(286114054273501418) - Relationship:Enemies - ThreatLevel:2.007311 - isFocus:True
+
+09-24-23_01-50-35-335 - New Threat Detected:(NPC-IBR) Sky Factory (MyCubeGrid, 86096422123151803)
+ - by: [VC]-Strike-Fighter (MyCubeGrid, 127284254873673073)Attacking Weapon:Sabre Missile Hardpoint [Weapon] Owner:144115188075855915 - Faction:Void Corporation(256641049513017746) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855915 - Faction:Void Corporation(256641049513017746) - Relationship:Enemies - ThreatLevel:0.4981789 - isFocus:True
+
+09-24-23_02-04-15-099 - New Threat Detected:The Little Sea Rover (MyCubeGrid, 140242363189442318)
+ - by: (NPC-ACS) TAC-02 Mantis (MyCubeGrid, 85970443519313343)Attacking Weapon:Punisher Burst Cannon [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-24-23_02-04-15-270 - New Threat Detected:(NPC-ACS) TAC-02 Mantis (MyCubeGrid, 85970443519313343)
+ - by: DELTA Earth Base (MyCubeGrid, 78174471556049422)Attacking Weapon:500mm Gun Turret [Weapon] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:0.0997993 - isFocus:False
+
+09-24-23_02-19-24-426 - New Threat Detected:Small Grid 1104 (MyCubeGrid, 131936180168711104)
+ - by: (NPC-ACS) Iapetus 01 (MyCubeGrid, 118185883903566914)Attacking Weapon:Starfall Rocket Artillery [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.003558701 - isFocus:True
+
+09-24-23_02-50-17-054 - New Threat Detected:The Little Sea Rover (MyCubeGrid, 140242363189442318)
+ - by: (NPC-PLX) Triton (MyCubeGrid, 119405610506798555)Attacking Weapon:Cyclone Heavy Cannon [Weapon] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-24-23_02-50-17-980 - New Threat Detected:(NPC-PLX) Arrowhead (MyCubeGrid, 132303786114156705)
+ - by: DELTA Earth Base (MyCubeGrid, 78174471556049422)Attacking Weapon:500mm Gun Turret [Weapon] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:1.831245 - isFocus:False
+
+09-24-23_03-08-23-995 - New Threat Detected:(NPC-ACS) JXS Scrabler 02 (MyCubeGrid, 106895661861508897)
+ - by: DELTA Earth Base (MyCubeGrid, 78174471556049422)Attacking Weapon:500mm Gun Turret [Weapon] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:0.04189084 - isFocus:False
+
+09-24-23_03-21-26-725 - New Threat Detected:Small Grid 1104 (MyCubeGrid, 131936180168711104)
+ - by: (NPC-ACS) WKZ-LG Mjolnir 01-AT2 (MyCubeGrid, 121790258078734077)Attacking Weapon:500mm Gun Turret [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.003557785 - isFocus:True
+
+09-24-23_03-21-27-251 - New Threat Detected:(NPC-ACS) WKZ-LG Mjolnir 01-AT2 (MyCubeGrid, 121790258078734077)
+ - by: DELTA Earth Base (MyCubeGrid, 78174471556049422)Attacking Weapon:500mm Gun Turret [Weapon] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:Müller(144115188075855977) - Faction:DELTA(262145205765407714) - Relationship:Enemies - ThreatLevel:342.3963 - isFocus:False
+
+09-24-23_03-21-59-403 - New Threat Detected:DELTA Earth Base (MyCubeGrid, 78174471556049422)
+ - by: (NPC-ACS) WKZ-LG Mjolnir 01-AT2 (MyCubeGrid, 121790258078734077)Attacking Weapon:500mm Gun Turret [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.002920593 - isFocus:True
+
+09-24-23_03-38-14-779 - New Threat Detected:The Little Sea Rover (MyCubeGrid, 140242363189442318)
+ - by: (NPC-ACS) Mulgara Scout 01 (MyCubeGrid, 117986895749346438)Attacking Weapon:AC-54 Chord [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-24-23_10-52-34-200 - New Threat Detected:ISMN Outpost 898433423134856303 (MyCubeGrid, 84111367068007135)
+ - by: (NPC-ACS) WKZ-LG Mercury-AT2 (MyCubeGrid, 73838495503504175)Attacking Weapon:Whirlwind Light Cannon [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-24-23_10-57-46-711 - New Threat Detected:ricardomanskefilho (MyCharacter, 122818143266232458)
+ - by: [Pirate]-Planetary-Base-Small (MyCubeGrid, 130917100926411044)Attacking Weapon:Vulcan Turret [Weapon] Owner:ricardomanskefilho(144115188075856232) - Faction:NA - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-24-23_10-58-36-625 - New Threat Detected:(NPC-ACS) WKZ-LG Mercury-AT2 (MyCubeGrid, 73838495503504175)
+ - by: [Keen]-Cursor-Mk1 (MyCubeGrid, 79229650309105207)Attacking Weapon:Sabre Missile Hardpoint [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:388.2645 - isFocus:True
+
+09-24-23_10-58-37-696 - New Threat Detected:[Keen]-Cursor-Mk1 (MyCubeGrid, 79229650309105207)
+ - by: (NPC-ACS) WKZ-LG Mercury-AT2 (MyCubeGrid, 73838495503504175)Attacking Weapon:Gravastar Laser Turret [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.002575564 - isFocus:True
+
+09-24-23_10-58-58-796 - New Threat Detected:[Keen]-Thunderhog (MyCubeGrid, 76641582685974039)
+ - by: (NPC-ACS) WKZ-LG Mercury-AT2 (MyCubeGrid, 73838495503504175)Attacking Weapon:Gravastar Laser Turret [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.002606427 - isFocus:True
+
+09-24-23_10-58-58-826 - New Threat Detected:(NPC-ACS) WKZ-LG Mercury-AT2 (MyCubeGrid, 73838495503504175)
+ - by: [Keen]-Thunderhog (MyCubeGrid, 76641582685974039)Attacking Weapon:Sabre Missile Hardpoint [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:383.667 - isFocus:True
+
+09-24-23_11-02-21-018 - New Threat Detected:ricardomanskefilho (MyCharacter, 121795129586511338)
+ - by: [Pirate]-Planetary-Base-Small (MyCubeGrid, 130917100926411044)Attacking Weapon:Vulcan Turret [Weapon] Owner:ricardomanskefilho(144115188075856232) - Faction:NA - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-24-23_11-05-00-602 - New Threat Detected:ricardomanskefilho (MyCharacter, 96063309389158969)
+ - by: [Pirate]-Planetary-Base-Small (MyCubeGrid, 130917100926411044)Attacking Weapon:Vulcan Turret [Weapon] Owner:ricardomanskefilho(144115188075856232) - Faction:NA - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-24-23_11-12-10-764 - New Threat Detected:The Little Sea Rover (MyCubeGrid, 85518889106106567)
+ - by: (NPC-PLX) Oban Tide Mk2 (MyCubeGrid, 133555375264903588)Attacking Weapon:203mm Gun Turret [Weapon] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855908 - Faction:Parallax Concepts(238541583554611769) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-24-23_11-23-38-850 - New Threat Detected:base terra 4587 (MyCubeGrid, 82634338499264959)
+ - by: (NPC-ACS) Peon (MyCubeGrid, 77677984139994121)Attacking Weapon:AC-85 Echo [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-24-23_11-27-18-779 - New Threat Detected:The Little Sea Rover (MyCubeGrid, 104898268663973653)
+ - by: (NPC-ACS) Peon (MyCubeGrid, 77677984139994121)Attacking Weapon:203mm Single Gun Turret [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-24-23_11-54-12-245 - New Threat Detected:ricardomanskefilho (MyCharacter, 88912113665027084)
+ - by: [Pirate]-Platform-6572 (MyCubeGrid, 74525267996610616)Attacking Weapon:ATLAS PDC [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+09-24-23_11-54-22-702 - New Threat Detected: [Junk]-Junker-Space-Drone (MyCubeGrid, 80775595173194089)
+ - by: (NPC-ACS) WKZ-LG Bio-weapon Transport (MyCubeGrid, 98469634023545658)Attacking Weapon:Reaper Pulse Cannon [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.8223622 - isFocus:True
+
+09-24-23_11-54-22-982 - New Threat Detected:(NPC-ACS) WKZ-LG Bio-weapon Transport (MyCubeGrid, 98469634023545658)
+ - by:  [Junk]-Junker-Space-Drone (MyCubeGrid, 80775595173194089)Attacking Weapon:Sabre Missile Hardpoint [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:1.216009 - isFocus:True
+
+09-24-23_11-54-27-178 - New Threat Detected:(NPC-ACS) WKZ-LG Bio-weapon Transport (MyCubeGrid, 98469634023545658)
+ - by:  [Junk]-Junker-Space-Drone (MyCubeGrid, 100026998738021193)Attacking Weapon:Small Flechette Launcher [Weapon] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855894 - Faction:Space Pirates(273060811546874192) - Relationship:Enemies - ThreatLevel:1.09736 - isFocus:True
+
+09-24-23_11-54-57-629 - New Threat Detected: [Junk]-Junker-Space-Drone (MyCubeGrid, 100026998738021193)
+ - by: (NPC-ACS) WKZ-LG Bio-weapon Transport (MyCubeGrid, 98469634023545658)Attacking Weapon:Reaper Pulse Cannon [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.9112776 - isFocus:True
+
+09-24-23_11-55-28-532 - New Threat Detected:Small Grid 8403 (MyCubeGrid, 128367519333908403)
+ - by: (NPC-ACS) WKZ-LG Bio-weapon Transport (MyCubeGrid, 98469634023545658)Attacking Weapon:Reaper Pulse Cannon [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+

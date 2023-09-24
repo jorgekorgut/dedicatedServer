@@ -1,0 +1,496 @@
+09-22-23_02-38-24-685 - Logging Started
+09-22-23_02-38-25-023 - Energy 3S is NOT enabled for client prediction
+09-22-23_02-38-25-023 - Energy 3S does not qualify for fixed weapon client reload verification
+09-22-23_02-38-25-034 - Energy 2S is NOT enabled for client prediction
+09-22-23_02-38-25-034 - Energy 2S does not qualify for fixed weapon client reload verification
+09-22-23_02-38-25-037 - Energy 1S is NOT enabled for client prediction
+09-22-23_02-38-25-037 - Energy 1S does not qualify for fixed weapon client reload verification
+09-22-23_02-38-25-040 - Energy 3L is NOT enabled for client prediction
+09-22-23_02-38-25-040 - Energy 3L does not qualify for fixed weapon client reload verification
+09-22-23_02-38-25-043 - Energy 2L is NOT enabled for client prediction
+09-22-23_02-38-25-043 - Energy 2L does not qualify for fixed weapon client reload verification
+09-22-23_02-38-25-046 - Energy 1L is NOT enabled for client prediction
+09-22-23_02-38-25-046 - Energy 1L does not qualify for fixed weapon client reload verification
+09-22-23_02-38-25-051 - Ballistic 1S is NOT enabled for client prediction
+09-22-23_02-38-25-051 - Ballistic 1S does not qualify for fixed weapon client reload verification
+09-22-23_02-38-25-053 - Ballistic 2S is NOT enabled for client prediction
+09-22-23_02-38-25-053 - Ballistic 2S does not qualify for fixed weapon client reload verification
+09-22-23_02-38-25-055 - Ballistic 3S is NOT enabled for client prediction
+09-22-23_02-38-25-055 - Ballistic 3S does not qualify for fixed weapon client reload verification
+09-22-23_02-38-25-058 - Ballistic 1L is NOT enabled for client prediction
+09-22-23_02-38-25-058 - Ballistic 1L does not qualify for fixed weapon client reload verification
+09-22-23_02-38-25-060 - Ballistic 2L is NOT enabled for client prediction
+09-22-23_02-38-25-060 - Ballistic 2L does not qualify for fixed weapon client reload verification
+09-22-23_02-38-25-062 - Ballistic 3L is NOT enabled for client prediction
+09-22-23_02-38-25-062 - Ballistic 3L does not qualify for fixed weapon client reload verification
+09-22-23_02-38-25-064 - EnergyCannon 1S is NOT enabled for client prediction
+09-22-23_02-38-25-064 - EnergyCannon 1S does not qualify for fixed weapon client reload verification
+09-22-23_02-38-25-067 - EnergyCannon 2S is NOT enabled for client prediction
+09-22-23_02-38-25-067 - EnergyCannon 2S does not qualify for fixed weapon client reload verification
+09-22-23_02-38-25-069 - EnergyCannon 3S is NOT enabled for client prediction
+09-22-23_02-38-25-069 - EnergyCannon 3S does not qualify for fixed weapon client reload verification
+09-22-23_02-38-25-072 - EnergyCannon 1L is NOT enabled for client prediction
+09-22-23_02-38-25-072 - EnergyCannon 1L does not qualify for fixed weapon client reload verification
+09-22-23_02-38-25-074 - EnergyCannon 2L is NOT enabled for client prediction
+09-22-23_02-38-25-074 - EnergyCannon 2L does not qualify for fixed weapon client reload verification
+09-22-23_02-38-25-077 - EnergyCannon 3L is NOT enabled for client prediction
+09-22-23_02-38-25-077 - EnergyCannon 3L does not qualify for fixed weapon client reload verification
+09-22-23_02-38-25-079 - Ballistic Cannon 1S is NOT enabled for client prediction
+09-22-23_02-38-25-079 - Ballistic Cannon 1S does not qualify for fixed weapon client reload verification
+09-22-23_02-38-25-081 - Ballistic Cannon 2S is NOT enabled for client prediction
+09-22-23_02-38-25-081 - Ballistic Cannon 2S does not qualify for fixed weapon client reload verification
+09-22-23_02-38-25-084 - Ballistic Cannon 3S is NOT enabled for client prediction
+09-22-23_02-38-25-084 - Ballistic Cannon 3S does not qualify for fixed weapon client reload verification
+09-22-23_02-38-25-086 - Ballistic Cannon 1S is NOT enabled for client prediction
+09-22-23_02-38-25-086 - Ballistic Cannon 1S does not qualify for fixed weapon client reload verification
+09-22-23_02-38-25-088 - Ballistic Cannon 2S is NOT enabled for client prediction
+09-22-23_02-38-25-088 - Ballistic Cannon 2S does not qualify for fixed weapon client reload verification
+09-22-23_02-38-25-090 - Ballistic Cannon 3S is NOT enabled for client prediction
+09-22-23_02-38-25-090 - Ballistic Cannon 3S does not qualify for fixed weapon client reload verification
+09-22-23_02-38-25-093 - 40mm ATLAS is NOT enabled for client prediction
+09-22-23_02-38-25-096 - 40mm ATLAS is NOT enabled for client prediction
+09-22-23_02-38-25-098 - 40mm ATLAS is NOT enabled for client prediction
+09-22-23_02-38-25-100 - AryxAuroraAmmo is NOT enabled for client prediction
+09-22-23_02-38-25-103 - 400nm Pulse Laser is NOT enabled for client prediction
+09-22-23_02-38-25-105 - 400nm Pulse Laser is NOT enabled for client prediction
+09-22-23_02-38-25-107 - AryxAutocannonAmmoWC is NOT enabled for client prediction
+09-22-23_02-38-25-110 - AryxAutocannonAmmoWC is NOT enabled for client prediction
+09-22-23_02-38-25-112 - AryxAutocannonAmmoWC is NOT enabled for client prediction
+09-22-23_02-38-25-115 - AryxNovaAmmo is NOT enabled for client prediction
+09-22-23_02-38-25-116 - AryxEnergyNovaAmmo is NOT enabled for client prediction
+09-22-23_02-38-25-119 - Punisher AP 70mm is NOT enabled for client prediction
+09-22-23_02-38-25-119 - Punisher HE 70mm is NOT enabled for client prediction
+09-22-23_02-38-25-119 - AryxFlakShrapWC is NOT enabled for client prediction
+09-22-23_02-38-25-123 - Punisher AP 70mm is NOT enabled for client prediction
+09-22-23_02-38-25-124 - Punisher HE 70mm is NOT enabled for client prediction
+09-22-23_02-38-25-124 - AryxFlakShrapWC is NOT enabled for client prediction
+09-22-23_02-38-25-127 - Punisher AP 70mm is NOT enabled for client prediction
+09-22-23_02-38-25-128 - Punisher HE 70mm is NOT enabled for client prediction
+09-22-23_02-38-25-128 - AryxFlakShrapWC is NOT enabled for client prediction
+09-22-23_02-38-25-158 - Striker Missile is NOT enabled for client prediction
+09-22-23_02-38-25-158 - Striker Missile Stage 2 is NOT enabled for client prediction
+09-22-23_02-38-25-159 - Disrupt-Striker Missile is NOT enabled for client prediction
+09-22-23_02-38-25-160 - Drain-Striker Missile is NOT enabled for client prediction
+09-22-23_02-38-25-161 - Striker Missile Drain Effect is NOT enabled for client prediction
+09-22-23_02-38-25-177 - Devastator Fusion Torpedo is NOT enabled for client prediction
+09-22-23_02-38-25-178 - Shieldbreaker-Devastator Torpedo is NOT enabled for client prediction
+09-22-23_02-38-25-179 - Devastator Torpedo is NOT enabled for client prediction
+09-22-23_02-38-25-179 - AryxEnergyTorpEMPCharge is NOT enabled for client prediction
+09-22-23_02-38-25-180 - AryxEnergyTorp is NOT enabled for client prediction
+09-22-23_02-38-25-372 - Ion Devastator Torpedo is NOT enabled for client prediction
+09-22-23_02-38-25-373 - Concussion Devastator Launched is NOT enabled for client prediction
+09-22-23_02-38-25-373 - Concussion Devastator EMP is NOT enabled for client prediction
+09-22-23_02-38-25-373 - AryxKineticFrags is NOT enabled for client prediction
+09-22-23_02-38-25-388 - Sabre Missile is NOT enabled for client prediction
+09-22-23_02-38-25-389 - Sabre Missile Full Speed is NOT enabled for client prediction
+09-22-23_02-38-25-391 - Disrupt-Sabre Missile is NOT enabled for client prediction
+09-22-23_02-38-25-391 - Lancer Missile Full Speed is NOT enabled for client prediction
+09-22-23_02-38-25-392 - Missile Frags is NOT enabled for client prediction
+09-22-23_02-38-25-392 - Armoured-Sabre Missile is NOT enabled for client prediction
+09-22-23_02-38-25-400 - Sabre Missile is NOT enabled for client prediction
+09-22-23_02-38-25-401 - Sabre Missile Full Speed is NOT enabled for client prediction
+09-22-23_02-38-25-575 - Disrupt-Sabre Missile is NOT enabled for client prediction
+09-22-23_02-38-25-576 - Lancer Missile Full Speed is NOT enabled for client prediction
+09-22-23_02-38-25-576 - Missile Frags is NOT enabled for client prediction
+09-22-23_02-38-25-577 - Armoured-Sabre Missile is NOT enabled for client prediction
+09-22-23_02-38-25-586 - Sabre Missile is NOT enabled for client prediction
+09-22-23_02-38-25-587 - Sabre Missile Full Speed is NOT enabled for client prediction
+09-22-23_02-38-25-588 - Disrupt-Sabre Missile is NOT enabled for client prediction
+09-22-23_02-38-25-589 - Lancer Missile Full Speed is NOT enabled for client prediction
+09-22-23_02-38-25-589 - Missile Frags is NOT enabled for client prediction
+09-22-23_02-38-25-590 - Armoured-Sabre Missile is NOT enabled for client prediction
+09-22-23_02-38-25-599 - Flechette84mmAmmoDef is NOT enabled for client prediction
+09-22-23_02-38-25-601 - Disruptor84mmAmmoDef is NOT enabled for client prediction
+09-22-23_02-38-25-602 - Flechette84mmFullSpeed is NOT enabled for client prediction
+09-22-23_02-38-25-603 - Disruptor84mmFullSpeed is NOT enabled for client prediction
+09-22-23_02-38-25-609 - Flechette84mmAmmoDef is NOT enabled for client prediction
+09-22-23_02-38-25-610 - Disruptor84mmAmmoDef is NOT enabled for client prediction
+09-22-23_02-38-25-611 - Flechette84mmFullSpeed is NOT enabled for client prediction
+09-22-23_02-38-25-612 - Disruptor84mmFullSpeed is NOT enabled for client prediction
+09-22-23_02-38-25-612 - Missile Frags is NOT enabled for client prediction
+09-22-23_02-38-25-618 - Flechette84mmAmmoDef is NOT enabled for client prediction
+09-22-23_02-38-25-619 - Disruptor84mmAmmoDef is NOT enabled for client prediction
+09-22-23_02-38-25-620 - Flechette84mmFullSpeed is NOT enabled for client prediction
+09-22-23_02-38-25-795 - Disruptor84mmFullSpeed is NOT enabled for client prediction
+09-22-23_02-38-25-795 - Missile Frags is NOT enabled for client prediction
+09-22-23_02-38-25-801 - AryxFlakAmmoWC is NOT enabled for client prediction
+09-22-23_02-38-25-801 - AryxFlakShrapWC is NOT enabled for client prediction
+09-22-23_02-38-25-804 - AryxHeavyFlakAmmoWC is NOT enabled for client prediction
+09-22-23_02-38-25-805 - AryxHeavyFlakShrapWC is NOT enabled for client prediction
+09-22-23_02-38-25-807 - Oculus Laser is NOT enabled for client prediction
+09-22-23_02-38-25-811 - AryxLightCoilgunPiercingAmmoWC is NOT enabled for client prediction
+09-22-23_02-38-25-814 - AryxSmallFocusBeamAmmo is NOT enabled for client prediction
+09-22-23_02-38-25-814 - AryxSmallFocusBeamAmmo does not qualify for fixed weapon client reload verification
+09-22-23_02-38-25-817 - 25mm CODEX Ammunition is NOT enabled for client prediction
+09-22-23_02-38-25-819 - 25mm CODEX Ammunition is NOT enabled for client prediction
+09-22-23_02-38-25-822 - 25mm CODEX Ammunition is NOT enabled for client prediction
+09-22-23_02-38-25-824 - 25mm CODEX Ammunition is NOT enabled for client prediction
+09-22-23_02-38-25-826 - 25mm CODEX Ammunition is NOT enabled for client prediction
+09-22-23_02-38-25-833 - AryxRailgunAmmoWC is NOT enabled for client prediction
+09-22-23_02-38-25-843 - AryxPDRailgunAmmo is NOT enabled for client prediction
+09-22-23_02-38-25-845 - AryxNucleonLaserAmmo is NOT enabled for client prediction
+09-22-23_02-38-25-848 - AryxShotgunAmmoWC is NOT enabled for client prediction
+09-22-23_02-38-25-851 - Smart Projectile Ammo is NOT enabled for client prediction
+09-22-23_02-38-25-851 - Energy Smart Ammo is NOT enabled for client prediction
+09-22-23_02-38-25-855 - MainAmmo is NOT enabled for client prediction
+09-22-23_02-38-25-855 - AWELightningAmmo is NOT enabled for client prediction
+09-22-23_02-38-25-860 - Trident Plasma Beam is NOT enabled for client prediction
+09-22-23_02-38-25-863 - AryxWarriorAmmoAP is NOT enabled for client prediction
+09-22-23_02-38-25-866 - 120mm Heavy Shell is NOT enabled for client prediction
+09-22-23_02-38-25-866 - AryxKineticFrags is NOT enabled for client prediction
+09-22-23_02-38-25-871 - 240mm Heavy Shell is NOT enabled for client prediction
+09-22-23_02-38-25-871 - AryxKineticFrags is NOT enabled for client prediction
+09-22-23_02-38-25-876 - 240mm Heavy Shell is NOT enabled for client prediction
+09-22-23_02-38-25-876 - AryxKineticFrags is NOT enabled for client prediction
+09-22-23_02-38-25-879 - 480mm Heavy Shell is NOT enabled for client prediction
+09-22-23_02-38-25-880 - AryxKineticFrags is NOT enabled for client prediction
+09-22-23_02-38-25-883 - 600mm Heavy Shell is NOT enabled for client prediction
+09-22-23_02-38-25-884 - AryxKineticFrags is NOT enabled for client prediction
+09-22-23_02-38-25-887 - 600mm Heavy Shell is NOT enabled for client prediction
+09-22-23_02-38-25-888 - AryxKineticFrags is NOT enabled for client prediction
+09-22-23_02-38-25-891 - 600mm Heavy Shell is NOT enabled for client prediction
+09-22-23_02-38-25-891 - AryxKineticFrags is NOT enabled for client prediction
+09-22-23_02-38-25-894 - Quasar Energy Bolt is NOT enabled for client prediction
+09-22-23_02-38-25-897 - Quasar Energy Bolt is NOT enabled for client prediction
+09-22-23_02-38-25-927 - Thane Fusion Warhead is NOT enabled for client prediction
+09-22-23_02-38-25-928 - Thane Fusion Warhead Fired is NOT enabled for client prediction
+09-22-23_02-38-25-929 - Javelin Kinetic Penetrator is NOT enabled for client prediction
+09-22-23_02-38-25-930 - Javelin FullSpeed is NOT enabled for client prediction
+09-22-23_02-38-25-931 - Breacher Armourbuster Warhead is NOT enabled for client prediction
+09-22-23_02-38-25-931 - Breacher Armourbuster FullSpeed is NOT enabled for client prediction
+09-22-23_02-38-25-932 - Desolator Field Warhead is NOT enabled for client prediction
+09-22-23_02-38-25-933 - AWE Desolator Supernuke is NOT enabled for client prediction
+09-22-23_02-38-25-933 - AryxDesolatorFieldCharge is NOT enabled for client prediction
+09-22-23_02-38-25-934 - AryxDesolatorPullCharge is NOT enabled for client prediction
+09-22-23_02-38-25-934 - Broadsword Disruptor Warhead is NOT enabled for client prediction
+09-22-23_02-38-25-935 - Broadsword Disruptor FullSpeed is NOT enabled for client prediction
+09-22-23_02-38-25-936 - Annihilator Antimatter Torpedo Hyperion is NOT enabled for client prediction
+09-22-23_02-38-26-117 - Annihilator Torpedo Hyperion is NOT enabled for client prediction
+09-22-23_02-38-26-117 - Large Antimatter Bolt is NOT enabled for client prediction
+09-22-23_02-38-26-130 - Singularity Frags is NOT enabled for client prediction
+09-22-23_02-38-26-130 - Singularity Gravity is NOT enabled for client prediction
+09-22-23_02-38-26-130 - Singularity Horizon is NOT enabled for client prediction
+09-22-23_02-38-26-130 - Singularity Gravity Damage is NOT enabled for client prediction
+09-22-23_02-38-26-130 - Singularity Stage 2 is NOT enabled for client prediction
+09-22-23_02-38-26-134 - AryxReaperAmmoWC is NOT enabled for client prediction
+09-22-23_02-38-26-134 - Reaper Antimatter Bolt is NOT enabled for client prediction
+09-22-23_02-38-26-147 - AryxSmallFocusBeamAmmo is NOT enabled for client prediction
+09-22-23_02-38-26-147 - AryxSmallFocusPulseAmmo is NOT enabled for client prediction
+09-22-23_02-38-26-150 - Interceptor PD Rocket is NOT enabled for client prediction
+09-22-23_02-38-26-164 - Sidekick Combat Drone is NOT enabled for client prediction
+09-22-23_02-38-26-164 - AryxATLASAmmoDroneWC is NOT enabled for client prediction
+09-22-23_02-38-26-165 - Falcon Combat Drone is NOT enabled for client prediction
+09-22-23_02-38-26-165 - 120mm Heavy Shell is NOT enabled for client prediction
+09-22-23_02-38-26-166 - Stormrider Combat Drone is NOT enabled for client prediction
+09-22-23_02-38-26-167 - AryxEnergyNovaAmmo is NOT enabled for client prediction
+09-22-23_02-38-26-169 - AryxGaussAmmoWC is NOT enabled for client prediction
+09-22-23_02-38-26-172 - Zarya Pulse Laser is NOT enabled for client prediction
+09-22-23_02-38-26-172 - Zarya Pulse Laser does not qualify for fixed weapon client reload verification
+09-22-23_02-38-26-176 - AryxSmallFocusBeamLanceAmmo is NOT enabled for client prediction
+09-22-23_02-38-26-186 - Devastator Fusion Torpedo is NOT enabled for client prediction
+09-22-23_02-38-26-186 - Shieldbreaker-Devastator Torpedo is NOT enabled for client prediction
+09-22-23_02-38-26-187 - Devastator Torpedo is NOT enabled for client prediction
+09-22-23_02-38-26-187 - AryxEnergyTorpEMPCharge is NOT enabled for client prediction
+09-22-23_02-38-26-188 - AryxEnergyTorp is NOT enabled for client prediction
+09-22-23_02-38-26-189 - Ion Devastator Torpedo is NOT enabled for client prediction
+09-22-23_02-38-26-190 - Concussion Devastator Launched is NOT enabled for client prediction
+09-22-23_02-38-26-190 - Concussion Devastator EMP is NOT enabled for client prediction
+09-22-23_02-38-26-190 - AryxKineticFrags is NOT enabled for client prediction
+09-22-23_02-38-26-194 - 480mm Heavy Shell is NOT enabled for client prediction
+09-22-23_02-38-26-194 - AryxKineticFrags is NOT enabled for client prediction
+09-22-23_02-38-26-197 - AryxHeavyCoilgunPiercingAmmoWC is NOT enabled for client prediction
+09-22-23_02-38-26-200 - AryxTeslaBeamAmmo is NOT enabled for client prediction
+09-22-23_02-38-26-200 - AryxTeslaBeamAmmo does not qualify for fixed weapon client reload verification
+09-22-23_02-38-26-204 - 85mm AP ECHO is NOT enabled for client prediction
+09-22-23_02-38-26-204 - 85mm HE ECHO is NOT enabled for client prediction
+09-22-23_02-38-26-205 - HE Echo Frags is NOT enabled for client prediction
+09-22-23_02-38-26-209 - AryxWarriorAmmoAP is NOT enabled for client prediction
+09-22-23_02-38-26-210 - AryxWarriorAmmoAP does not qualify for fixed weapon client reload verification
+09-22-23_02-38-26-212 - Spartan Energy Bolt is NOT enabled for client prediction
+09-22-23_02-38-26-219 - MG61T Vulcan Ammo is NOT enabled for client prediction
+09-22-23_02-38-26-411 - Red Flare is NOT enabled for client prediction
+09-22-23_02-38-26-412 - Red Flare Burn is NOT enabled for client prediction
+09-22-23_02-38-26-413 - Blue Flare Burn is NOT enabled for client prediction
+09-22-23_02-38-26-414 - Green Flare is NOT enabled for client prediction
+09-22-23_02-38-26-414 - Green Flare Burn is NOT enabled for client prediction
+09-22-23_02-38-26-422 - 720nm Laser - MODRED is NOT enabled for client prediction
+09-22-23_02-38-26-422 - 580nm Laser - MODYEL is NOT enabled for client prediction
+09-22-23_02-38-26-423 - 525nm Laser - MODGRN is NOT enabled for client prediction
+09-22-23_02-38-26-423 - 450nm Laser - MODBLU is NOT enabled for client prediction
+09-22-23_02-38-26-423 - 380nm Laser - MODVIO is NOT enabled for client prediction
+09-22-23_02-38-26-426 - 240mm Heavy Shell [Windfall] is NOT enabled for client prediction
+09-22-23_02-38-26-427 - AryxKineticFrags is NOT enabled for client prediction
+09-22-23_02-38-26-429 - Furion Plasma is NOT enabled for client prediction
+09-22-23_02-38-26-429 - Furion Plasma does not qualify for fixed weapon client reload verification
+09-22-23_02-38-26-429 - Furion Plasma has large largeCollisionSize: 15 meters
+09-22-23_02-38-26-432 - Pulsar Energy Bolt is NOT enabled for client prediction
+09-22-23_02-38-26-439 - Red Flare is NOT enabled for client prediction
+09-22-23_02-38-26-440 - Red Flare Burn is NOT enabled for client prediction
+09-22-23_02-38-26-440 - Blue Flare is NOT enabled for client prediction
+09-22-23_02-38-26-441 - Blue Flare Burn is NOT enabled for client prediction
+09-22-23_02-38-26-441 - Green Flare is NOT enabled for client prediction
+09-22-23_02-38-26-442 - Green Flare Burn is NOT enabled for client prediction
+09-22-23_02-38-26-453 - Gladius Missile is NOT enabled for client prediction
+09-22-23_02-38-26-453 - Gladius Missile Launched is NOT enabled for client prediction
+09-22-23_02-38-26-454 - Impulse Gladius Missile is NOT enabled for client prediction
+09-22-23_02-38-26-455 - Impulse Gladius Missile Launched is NOT enabled for client prediction
+09-22-23_02-38-26-456 - Gladius Phase Missile is NOT enabled for client prediction
+09-22-23_02-38-26-457 - Gladius Phase Missile Launched is NOT enabled for client prediction
+09-22-23_02-38-26-464 - Centurion Ion Beam is NOT enabled for client prediction
+09-22-23_02-38-26-465 - Centurion EMP Fragment is NOT enabled for client prediction
+09-22-23_02-38-26-465 - Centurion JumpNull Fragment is NOT enabled for client prediction
+09-22-23_02-38-26-468 - Medusa Phase Bolt is NOT enabled for client prediction
+09-22-23_02-38-26-651 - 1000mm Avalanche Mortar Shell is NOT enabled for client prediction
+09-22-23_02-38-26-651 - AryxKineticFrags is NOT enabled for client prediction
+09-22-23_02-38-26-657 - Mini Graviton Traction Beam is NOT enabled for client prediction
+09-22-23_02-38-26-657 - Mini Graviton Traction Beam does not qualify for fixed weapon client reload verification
+09-22-23_02-38-26-660 - Argus Laser is NOT enabled for client prediction
+09-22-23_02-38-26-685 - Starfall Rail-Rocket is NOT enabled for client prediction
+09-22-23_02-38-26-686 - Starfall Rail-Rocket Flight Stage is NOT enabled for client prediction
+09-22-23_02-38-26-687 - Starfall Rail-Rocket Deadlock Stage is NOT enabled for client prediction
+09-22-23_02-38-26-687 - AryxKineticFrags is NOT enabled for client prediction
+09-22-23_02-38-26-691 - 120mm Heavy Shell [Storm] is NOT enabled for client prediction
+09-22-23_02-38-26-691 - AryxKineticFrags is NOT enabled for client prediction
+09-22-23_02-38-26-694 - Sabre Missile Single-use is NOT enabled for client prediction
+09-22-23_02-38-26-697 - Spartan Energy Bolt is NOT enabled for client prediction
+09-22-23_02-38-26-697 - Spartan Energy Bolt does not qualify for fixed weapon client reload verification
+09-22-23_02-38-26-699 - AryxNovaAmmo is NOT enabled for client prediction
+09-22-23_02-38-26-699 - AryxNovaAmmo does not qualify for fixed weapon client reload verification
+09-22-23_02-38-26-702 - AryxNucleonLaserAmmo is NOT enabled for client prediction
+09-22-23_02-38-26-711 - Nyx Phase Missile is NOT enabled for client prediction
+09-22-23_02-38-26-712 - Nyx Phase Missile Launched is NOT enabled for client prediction
+09-22-23_02-38-26-715 - 400nm Pulse Laser is NOT enabled for client prediction
+09-22-23_02-38-26-715 - 400nm Pulse Laser does not qualify for fixed weapon client reload verification
+09-22-23_02-38-26-912 - AP is NOT enabled for client prediction
+09-22-23_02-38-26-913 - MXA_CoilgunH_APFuse is NOT enabled for client prediction
+09-22-23_02-38-26-913 - MXA_CoilgunH_Shrapnel is NOT enabled for client prediction
+09-22-23_02-38-26-918 - HE is NOT enabled for client prediction
+09-22-23_02-38-26-926 - Guided is NOT enabled for client prediction
+09-22-23_02-38-26-927 - MXA_CoilgunH_GAmmo is NOT enabled for client prediction
+09-22-23_02-38-26-939 - AP is NOT enabled for client prediction
+09-22-23_02-38-26-939 - MXA_CoilgunL_Shrapnel is NOT enabled for client prediction
+09-22-23_02-38-26-944 - Flak is NOT enabled for client prediction
+09-22-23_02-38-26-944 - MXA_CoilgunL_Flak is NOT enabled for client prediction
+09-22-23_02-38-27-122 - HE is NOT enabled for client prediction
+09-22-23_02-38-27-122 - Prox is NOT enabled for client prediction
+09-22-23_02-38-27-127 - HE is NOT enabled for client prediction
+09-22-23_02-38-27-127 - Prox is NOT enabled for client prediction
+09-22-23_02-38-27-131 - HE is NOT enabled for client prediction
+09-22-23_02-38-27-131 - Prox is NOT enabled for client prediction
+09-22-23_02-38-27-134 - HE is NOT enabled for client prediction
+09-22-23_02-38-27-134 - Prox is NOT enabled for client prediction
+09-22-23_02-38-27-144 - AP is NOT enabled for client prediction
+09-22-23_02-38-27-145 - MXA_BreakWater_APFuse is NOT enabled for client prediction
+09-22-23_02-38-27-145 - MXA_BreakWater_Shrapnel is NOT enabled for client prediction
+09-22-23_02-38-27-149 - HE is NOT enabled for client prediction
+09-22-23_02-38-27-156 - Guided is NOT enabled for client prediction
+09-22-23_02-38-27-157 - MXA_BreakWater_GAmmo is NOT enabled for client prediction
+09-22-23_02-38-27-161 - MXA_Sabre_Coilgun_Ammo is NOT enabled for client prediction
+09-22-23_02-38-27-161 - MXA_Sabre_Coilgun_Ammo does not qualify for fixed weapon client reload verification
+09-22-23_02-38-27-161 - MXA_Sabre_Coilgun_Shrapnel is NOT enabled for client prediction
+09-22-23_02-38-27-161 - MXA_Sabre_Coilgun_Shrapnel does not qualify for fixed weapon client reload verification
+09-22-23_02-38-27-165 - MXA_Sabre_Coilgun_Ammo is NOT enabled for client prediction
+09-22-23_02-38-27-165 - MXA_Sabre_Coilgun_Ammo does not qualify for fixed weapon client reload verification
+09-22-23_02-38-27-165 - MXA_Sabre_Coilgun_Shrapnel is NOT enabled for client prediction
+09-22-23_02-38-27-165 - MXA_Sabre_Coilgun_Shrapnel does not qualify for fixed weapon client reload verification
+09-22-23_02-38-27-353 - AP is NOT enabled for client prediction
+09-22-23_02-38-27-353 - MXA_SoFCoilgun_Shrapnel is NOT enabled for client prediction
+09-22-23_02-38-27-354 - HE is NOT enabled for client prediction
+09-22-23_02-38-27-366 - MXA_MACL_Shrapnel is NOT enabled for client prediction
+09-22-23_02-38-27-367 - MXA_MACL_Impact is NOT enabled for client prediction
+09-22-23_02-38-27-373 - MXA_MACL_S_Shrapnel is NOT enabled for client prediction
+09-22-23_02-38-27-374 - MXA_MACL_S_HPAmmo is NOT enabled for client prediction
+09-22-23_02-38-27-556 - MXA_SMAC_Shrapnel is NOT enabled for client prediction
+09-22-23_02-38-27-556 - MXA_SMAC_HPAmmo is NOT enabled for client prediction
+09-22-23_02-38-27-563 - MXA_MACL_S_Shrapnel is NOT enabled for client prediction
+09-22-23_02-38-27-563 - MXA_MACL_S_HPAmmo is NOT enabled for client prediction
+09-22-23_02-38-27-568 - MXA_M2MAC_S_Shrapnel is NOT enabled for client prediction
+09-22-23_02-38-27-569 - MXA_M2MAC_S_HPAmmo is NOT enabled for client prediction
+09-22-23_02-38-32-989 - Explosive is NOT enabled for client prediction
+09-22-23_02-38-32-990 - MXA_ArcherPods_AccelStage is NOT enabled for client prediction
+09-22-23_02-38-32-991 - MXA_ArcherPods_Stage is NOT enabled for client prediction
+09-22-23_02-38-32-991 - MXA_ArcherPods_Shrapnel is NOT enabled for client prediction
+09-22-23_02-38-32-992 - Kinetic is NOT enabled for client prediction
+09-22-23_02-38-32-992 - MXA_ArcherPods_KineticAccelStage is NOT enabled for client prediction
+09-22-23_02-38-32-993 - MXA_ArcherPods_KineticStage is NOT enabled for client prediction
+09-22-23_02-38-32-993 - MXA_ArcherPods_KineticShrapnel is NOT enabled for client prediction
+09-22-23_02-38-34-781 - Explosive is NOT enabled for client prediction
+09-22-23_02-38-34-975 - MXA_M58ArcherPods_AccelStage is NOT enabled for client prediction
+09-22-23_02-38-34-976 - MXA_M58ArcherPods_Stage is NOT enabled for client prediction
+09-22-23_02-38-34-978 - MXA_M58ArcherPods_Shrapnel is NOT enabled for client prediction
+09-22-23_02-38-34-979 - Kinetic is NOT enabled for client prediction
+09-22-23_02-38-34-980 - MXA_M58ArcherPods_KineticAccelStage is NOT enabled for client prediction
+09-22-23_02-38-34-983 - MXA_M58ArcherPods_KineticStage is NOT enabled for client prediction
+09-22-23_02-38-34-984 - MXA_M58ArcherPods_KineticShrapnel is NOT enabled for client prediction
+09-22-23_02-38-36-935 - Explosive is NOT enabled for client prediction
+09-22-23_02-38-36-936 - MXA_M58ArcherPods_S_AccelStage is NOT enabled for client prediction
+09-22-23_02-38-36-937 - MXA_M58ArcherPods_S_Stage is NOT enabled for client prediction
+09-22-23_02-38-36-938 - MXA_M58ArcherPods_S_Shrapnel is NOT enabled for client prediction
+09-22-23_02-38-36-938 - Kinetic is NOT enabled for client prediction
+09-22-23_02-38-36-939 - MXA_M58ArcherPods_S_KineticAccelStage is NOT enabled for client prediction
+09-22-23_02-38-36-940 - MXA_M58ArcherPods_S_KineticStage is NOT enabled for client prediction
+09-22-23_02-38-36-940 - MXA_M58ArcherPods_S_KineticShrapnel is NOT enabled for client prediction
+09-22-23_02-38-37-335 - MXA_Shiva_Ammo is NOT enabled for client prediction
+09-22-23_02-38-37-335 - MXA_Shiva_EMPStage is NOT enabled for client prediction
+09-22-23_02-38-37-336 - MXA_Shiva_AmmoE is NOT enabled for client prediction
+09-22-23_02-38-37-940 - Fixed is NOT enabled for client prediction
+09-22-23_02-38-37-944 - MXA_Moray_Mine is NOT enabled for client prediction
+09-22-23_02-38-37-944 - MXA_Moray_Mine has large largeCollisionSize: 6.25 meters
+09-22-23_02-38-37-944 - Smart is NOT enabled for client prediction
+09-22-23_02-38-37-948 - MXA_Moray_SMine is NOT enabled for client prediction
+09-22-23_02-38-37-948 - MXA_Moray_Shrapnel is NOT enabled for client prediction
+09-22-23_02-38-37-953 - 25mm NATO is NOT enabled for client prediction
+09-22-23_02-38-37-955 - 25mm NATO is NOT enabled for client prediction
+09-22-23_02-38-37-958 - 25mm NATO is NOT enabled for client prediction
+09-22-23_02-38-37-960 - 25mm NATO is NOT enabled for client prediction
+09-22-23_02-38-37-965 - 200mm Missile is NOT enabled for client prediction
+09-22-23_02-38-37-968 - 200mm Missile is NOT enabled for client prediction
+09-22-23_02-38-37-971 - 200mm Missile is NOT enabled for client prediction
+09-22-23_02-38-37-974 - 200mm Missile is NOT enabled for client prediction
+09-22-23_02-38-37-978 - 200mm Missile is NOT enabled for client prediction
+09-22-23_02-38-37-980 - 200mm Missile is NOT enabled for client prediction
+09-22-23_02-38-37-984 - MR-50A is NOT enabled for client prediction
+09-22-23_02-38-37-984 - 5.56x45mm is NOT enabled for client prediction
+09-22-23_02-38-37-986 - Autocannon Shell is NOT enabled for client prediction
+09-22-23_02-38-37-986 - Autocannon Shell does not qualify for fixed weapon client reload verification
+09-22-23_02-38-37-989 - Autocannon Shell is NOT enabled for client prediction
+09-22-23_02-38-37-998 - Assault Cannon Shell is NOT enabled for client prediction
+09-22-23_02-38-38-005 - Assault Cannon Shell is NOT enabled for client prediction
+09-22-23_02-38-38-195 - Artillery Shell is NOT enabled for client prediction
+09-22-23_02-38-38-219 - R75ammo is NOT enabled for client prediction
+09-22-23_02-38-38-219 - railgunShrapnel is NOT enabled for client prediction
+09-22-23_02-38-38-219 - RailFXshots is NOT enabled for client prediction
+09-22-23_02-38-38-219 - RailFXshots2 is NOT enabled for client prediction
+09-22-23_02-38-38-225 - railgunShrapnel is NOT enabled for client prediction
+09-22-23_02-38-38-232 - railgunShrapnel2 is NOT enabled for client prediction
+09-22-23_02-38-38-239 - R150ammo is NOT enabled for client prediction
+09-22-23_02-38-38-239 - railgunShrapnel2 is NOT enabled for client prediction
+09-22-23_02-38-38-239 - RailFXshot is NOT enabled for client prediction
+09-22-23_02-38-38-240 - RailFXshot2 is NOT enabled for client prediction
+09-22-23_02-38-38-240 - railgunShrapnel2B is NOT enabled for client prediction
+09-22-23_02-38-38-245 - railgunShrapnel3 is NOT enabled for client prediction
+09-22-23_02-38-38-255 - R250ammo is NOT enabled for client prediction
+09-22-23_02-38-38-255 - railgunShrapnel3 is NOT enabled for client prediction
+09-22-23_02-38-38-255 - RailFXshotl is NOT enabled for client prediction
+09-22-23_02-38-38-256 - RailFXshotl2 is NOT enabled for client prediction
+09-22-23_02-38-38-260 - R250ammo is NOT enabled for client prediction
+09-22-23_02-38-38-260 - railgunShrapnel3 is NOT enabled for client prediction
+09-22-23_02-38-38-260 - RailFXshotl is NOT enabled for client prediction
+09-22-23_02-38-38-260 - RailFXshotl2 is NOT enabled for client prediction
+09-22-23_02-38-38-264 - R250ammo is NOT enabled for client prediction
+09-22-23_02-38-38-265 - railgunShrapnel3 is NOT enabled for client prediction
+09-22-23_02-38-38-265 - RailFXshotl is NOT enabled for client prediction
+09-22-23_02-38-38-265 - RailFXshotl2 is NOT enabled for client prediction
+09-22-23_02-38-38-269 - R250ammo is NOT enabled for client prediction
+09-22-23_02-38-38-269 - railgunShrapnel3 is NOT enabled for client prediction
+09-22-23_02-38-38-270 - RailFXshotl is NOT enabled for client prediction
+09-22-23_02-38-38-270 - RailFXshotl2 is NOT enabled for client prediction
+09-22-23_02-38-38-272 - AMSLaser is NOT enabled for client prediction
+09-22-23_02-38-38-280 - 30mmAmmoT is NOT enabled for client prediction
+09-22-23_02-38-38-280 - 30mmAmmoAP is NOT enabled for client prediction
+09-22-23_02-38-38-280 - 30mmAmmoHE is NOT enabled for client prediction
+09-22-23_02-38-38-280 - 30mmDUAmmo is NOT enabled for client prediction
+09-22-23_02-38-38-281 - 30mmAmmoDU is NOT enabled for client prediction
+09-22-23_02-38-38-281 - 30mmCRAMAmmo is NOT enabled for client prediction
+09-22-23_02-38-38-281 - 30mmCRAMAmmoS is NOT enabled for client prediction
+09-22-23_02-38-38-281 - 30mmAmmoTR is NOT enabled for client prediction
+09-22-23_02-38-38-292 - 30mmAmmoTT is NOT enabled for client prediction
+09-22-23_02-38-38-292 - 30mmAmmoAP is NOT enabled for client prediction
+09-22-23_02-38-38-292 - 30mmAmmoHE is NOT enabled for client prediction
+09-22-23_02-38-38-292 - 30mmDUAmmoT is NOT enabled for client prediction
+09-22-23_02-38-38-293 - 30mmAmmoDU is NOT enabled for client prediction
+09-22-23_02-38-38-293 - 30mmCRAMAmmo is NOT enabled for client prediction
+09-22-23_02-38-38-293 - 30mmCRAMAmmoS is NOT enabled for client prediction
+09-22-23_02-38-38-293 - 30mmAmmoTR is NOT enabled for client prediction
+09-22-23_02-38-38-300 - LV203mmammo is NOT enabled for client prediction
+09-22-23_02-38-38-301 - MV203mmammo is NOT enabled for client prediction
+09-22-23_02-38-38-302 - HV203mmammo is NOT enabled for client prediction
+09-22-23_02-38-38-302 - H203mmammoShrap is NOT enabled for client prediction
+09-22-23_02-38-38-302 - H203ShrapBase is NOT enabled for client prediction
+09-22-23_02-38-38-304 - HVF203mmammo is NOT enabled for client prediction
+09-22-23_02-38-38-309 - Flak100mm is NOT enabled for client prediction
+09-22-23_02-38-38-310 - C100mmShrapnel is NOT enabled for client prediction
+09-22-23_02-38-38-310 - C100mmShrapnelbase is NOT enabled for client prediction
+09-22-23_02-38-38-310 - HE100mm is NOT enabled for client prediction
+09-22-23_02-38-38-319 - Flak200mm is NOT enabled for client prediction
+09-22-23_02-38-38-319 - C200mmShrapnel is NOT enabled for client prediction
+09-22-23_02-38-38-319 - C200mmShrapnelbase is NOT enabled for client prediction
+09-22-23_02-38-38-320 - HE203mm is NOT enabled for client prediction
+09-22-23_02-38-38-503 - AP203mm is NOT enabled for client prediction
+09-22-23_02-38-38-504 - C200mmAPHEShrapbase is NOT enabled for client prediction
+09-22-23_02-38-38-504 - C200mmPDAOE is NOT enabled for client prediction
+09-22-23_02-38-38-517 - C300AP is NOT enabled for client prediction
+09-22-23_02-38-38-517 - C300mmShrapnel is NOT enabled for client prediction
+09-22-23_02-38-38-518 - C300HE is NOT enabled for client prediction
+09-22-23_02-38-38-519 - C300G is NOT enabled for client prediction
+09-22-23_02-38-38-520 - C300GSecond is NOT enabled for client prediction
+09-22-23_02-38-38-521 - C300mmAPHEShrapbase is NOT enabled for client prediction
+09-22-23_02-38-38-521 - C300mmHEShrapbase is NOT enabled for client prediction
+09-22-23_02-38-38-531 - C400AP is NOT enabled for client prediction
+09-22-23_02-38-38-532 - C400mmShrapnel is NOT enabled for client prediction
+09-22-23_02-38-38-533 - C400HE is NOT enabled for client prediction
+09-22-23_02-38-38-533 - C400Cluster is NOT enabled for client prediction
+09-22-23_02-38-38-534 - C400mmAPHEShrapbase is NOT enabled for client prediction
+09-22-23_02-38-38-535 - C400CSecond is NOT enabled for client prediction
+09-22-23_02-38-38-535 - C400mmHEShrapbase is NOT enabled for client prediction
+09-22-23_02-38-38-543 - 30mmAmmoT is NOT enabled for client prediction
+09-22-23_02-38-38-543 - 30mmAmmoAP is NOT enabled for client prediction
+09-22-23_02-38-38-543 - 30mmAmmoHE is NOT enabled for client prediction
+09-22-23_02-38-38-543 - 30mmDUAmmo is NOT enabled for client prediction
+09-22-23_02-38-38-544 - 30mmAmmoDU is NOT enabled for client prediction
+09-22-23_02-38-38-544 - 30mmCRAMAmmo is NOT enabled for client prediction
+09-22-23_02-38-38-544 - 30mmCRAMAmmoS is NOT enabled for client prediction
+09-22-23_02-38-38-544 - 30mmAmmoTR is NOT enabled for client prediction
+09-22-23_02-38-38-551 - 30mmAmmoT is NOT enabled for client prediction
+09-22-23_02-38-38-551 - 30mmAmmoAP is NOT enabled for client prediction
+09-22-23_02-38-38-552 - 30mmAmmoHE is NOT enabled for client prediction
+09-22-23_02-38-38-552 - 30mmDUAmmo is NOT enabled for client prediction
+09-22-23_02-38-38-552 - 30mmAmmoDU is NOT enabled for client prediction
+09-22-23_02-38-38-552 - 30mmCRAMAmmo is NOT enabled for client prediction
+09-22-23_02-38-38-553 - 30mmCRAMAmmoS is NOT enabled for client prediction
+09-22-23_02-38-38-553 - 30mmAmmoTR is NOT enabled for client prediction
+09-22-23_02-38-38-746 - C500AP is NOT enabled for client prediction
+09-22-23_02-38-38-746 - C500mmShrapnel is NOT enabled for client prediction
+09-22-23_02-38-38-747 - C500HE is NOT enabled for client prediction
+09-22-23_02-38-38-747 - C500Casaba is NOT enabled for client prediction
+09-22-23_02-38-38-748 - C500NSecond is NOT enabled for client prediction
+09-22-23_02-38-38-748 - C500mmAPHEShrapbase is NOT enabled for client prediction
+09-22-23_02-38-38-748 - C500Effect is NOT enabled for client prediction
+09-22-23_02-38-38-749 - C500CasabaP is NOT enabled for client prediction
+09-22-23_02-38-38-749 - C500mmHEShrapbase is NOT enabled for client prediction
+09-22-23_02-38-38-749 - C500Chain is NOT enabled for client prediction
+09-22-23_02-38-38-749 - C500EMP is NOT enabled for client prediction
+09-22-23_02-38-38-749 - C500EMPBase is NOT enabled for client prediction
+09-22-23_02-38-38-753 - 30mmAmmoT is NOT enabled for client prediction
+09-22-23_02-38-38-753 - 30mmAmmoAP is NOT enabled for client prediction
+09-22-23_02-38-38-753 - 30mmAmmoHE is NOT enabled for client prediction
+09-22-23_02-38-38-755 - 30mmAmmoT is NOT enabled for client prediction
+09-22-23_02-38-38-755 - 30mmAmmoAP is NOT enabled for client prediction
+09-22-23_02-38-38-756 - 30mmAmmoHE is NOT enabled for client prediction
+09-22-23_02-38-38-772 - 30mmAmmoT is NOT enabled for client prediction
+09-22-23_02-38-38-772 - 30mmAmmoAP is NOT enabled for client prediction
+09-22-23_02-38-38-772 - 30mmAmmoHE is NOT enabled for client prediction
+09-22-23_02-38-38-773 - 30mmDUAmmo is NOT enabled for client prediction
+09-22-23_02-38-38-773 - 30mmAmmoDU is NOT enabled for client prediction
+09-22-23_02-38-38-773 - 30mmCRAMAmmo is NOT enabled for client prediction
+09-22-23_02-38-38-773 - 30mmCRAMAmmoS is NOT enabled for client prediction
+09-22-23_02-38-38-774 - 30mmAmmoTR is NOT enabled for client prediction
+09-22-23_02-38-38-782 - Flak200mm is NOT enabled for client prediction
+09-22-23_02-38-38-782 - C200mmShrapnel is NOT enabled for client prediction
+09-22-23_02-38-38-782 - C200mmShrapnelbase is NOT enabled for client prediction
+09-22-23_02-38-38-783 - HE203mm is NOT enabled for client prediction
+09-22-23_02-38-38-784 - AP203mm is NOT enabled for client prediction
+09-22-23_02-38-38-784 - C200mmAPHEShrapbase is NOT enabled for client prediction
+09-22-23_02-38-38-784 - C200mmPDAOE is NOT enabled for client prediction
+09-22-23_02-38-38-963 - LV203mmammo is NOT enabled for client prediction
+09-22-23_02-38-38-963 - MV203mmammo is NOT enabled for client prediction
+09-22-23_02-38-38-965 - HV203mmammo is NOT enabled for client prediction
+09-22-23_02-38-38-965 - H203mmammoShrap is NOT enabled for client prediction
+09-22-23_02-38-38-965 - H203ShrapBase is NOT enabled for client prediction
+09-22-23_02-38-38-966 - HVF203mmammo is NOT enabled for client prediction
+09-22-23_02-40-34-783 - WC Version: 27
+09-22-23_02-41-08-453 - [ARYXHurricaneCannon] - type:Animation - part[salvo_barrel_1] is forcing NeedsWorld on all subparts, this is due to custom child parts on vanilla turret subparts, this will greatly increase cpu usage for this weapon
+09-22-23_02-41-08-453 - [ARYX_ChordAutocannon_SG] - type:Animation - part[barrel] is forcing NeedsWorld on all subparts, this is due to custom child parts on vanilla turret subparts, this will greatly increase cpu usage for this weapon
+09-22-23_02-41-08-460 - [ARYXVulcanTurret] - type:Animation - part[barrel_right] is forcing NeedsWorld on all subparts, this is due to custom child parts on vanilla turret subparts, this will greatly increase cpu usage for this weapon
+09-22-23_02-41-11-340 - Removing incompatible weapon blocks, if you accept the risk you can modify the mods world config file to override for all clients
+09-22-23_02-41-11-340 - Incompatible weapons: LargeShipVanillaMissileTurret_SEM4, SmallInteriorTurret, LargeShipVanillaGatlingTurret_SEM4, 

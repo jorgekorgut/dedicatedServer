@@ -1,0 +1,63 @@
+09-22-23_04-40-01-166 - Logging Started
+09-22-23_15-42-03-012 - [clear] Reason:ServerRequested - ammo:4 - Trigger:On - Signal:On - Cycles:28[4294967295] - Count:1[0] - WeaponsFired:28
+09-22-23_15-42-59-106 - [clear] Reason:ServerRequested - ammo:1 - Trigger:On - Signal:On - Cycles:8[4294967295] - Count:2[0] - WeaponsFired:8
+09-22-23_15-49-26-642 - [clear] Reason:Toggle - ammo:8 - Trigger:On - Signal:MouseControl - Cycles:0[4294967295] - Count:1[0] - WeaponsFired:0
+09-22-23_15-49-31-581 - [clear] Reason:Toggle - ammo:8 - Trigger:On - Signal:MouseControl - Cycles:0[4294967295] - Count:2[0] - WeaponsFired:0
+09-22-23_15-49-31-899 - [clear] Reason:Toggle - ammo:8 - Trigger:On - Signal:MouseControl - Cycles:0[4294967295] - Count:3[0] - WeaponsFired:0
+09-22-23_15-49-32-297 - [clear] Reason:Toggle - ammo:8 - Trigger:On - Signal:MouseControl - Cycles:0[4294967295] - Count:4[0] - WeaponsFired:0
+09-22-23_15-49-33-415 - [clear] Reason:Toggle - ammo:8 - Trigger:On - Signal:MouseControl - Cycles:0[4294967295] - Count:5[0] - WeaponsFired:0
+09-22-23_15-49-33-914 - [clear] Reason:Toggle - ammo:8 - Trigger:On - Signal:MouseControl - Cycles:0[4294967295] - Count:6[0] - WeaponsFired:0
+09-22-23_15-49-35-412 - [clear] Reason:Toggle - ammo:8 - Trigger:On - Signal:MouseControl - Cycles:0[4294967295] - Count:7[0] - WeaponsFired:0
+09-22-23_15-49-35-727 - [clear] Reason:Toggle - ammo:8 - Trigger:On - Signal:MouseControl - Cycles:0[4294967295] - Count:8[0] - WeaponsFired:0
+09-22-23_15-49-58-171 - MakeReadyToShoot: canShoot:False - alreadyShooting:False - reloading:True - skipReload:False - CurrentAmmo:0 - wait:False
+09-22-23_15-49-58-172 - [server rejecting] Signal:None - CompletedCycles:0 requestType:On - Trigger:On
+09-22-23_15-49-58-173 - [clear] Reason:Rejected - ammo:0 - Trigger:On - Signal:None - Cycles:0[4294967295] - Count:8[0] - WeaponsFired:0
+09-22-23_15-49-58-221 - MakeReadyToShoot: canShoot:False - alreadyShooting:False - reloading:True - skipReload:False - CurrentAmmo:0 - wait:False
+09-22-23_15-49-58-221 - [server rejecting] Signal:None - CompletedCycles:0 requestType:On - Trigger:On
+09-22-23_15-49-58-221 - [clear] Reason:Rejected - ammo:0 - Trigger:On - Signal:None - Cycles:0[4294967295] - Count:8[0] - WeaponsFired:0
+09-22-23_15-49-58-288 - MakeReadyToShoot: canShoot:False - alreadyShooting:False - reloading:True - skipReload:False - CurrentAmmo:0 - wait:False
+09-22-23_15-49-58-288 - [server rejecting] Signal:None - CompletedCycles:0 requestType:On - Trigger:On
+09-22-23_15-49-58-288 - [clear] Reason:Rejected - ammo:0 - Trigger:On - Signal:None - Cycles:0[4294967295] - Count:8[0] - WeaponsFired:0
+09-22-23_15-49-58-922 - MakeReadyToShoot: canShoot:False - alreadyShooting:False - reloading:True - skipReload:False - CurrentAmmo:0 - wait:False
+09-22-23_15-49-58-922 - [server rejecting] Signal:None - CompletedCycles:0 requestType:On - Trigger:On
+09-22-23_15-49-58-922 - [clear] Reason:Rejected - ammo:0 - Trigger:On - Signal:None - Cycles:0[4294967295] - Count:8[0] - WeaponsFired:0
+09-22-23_15-49-58-971 - MakeReadyToShoot: canShoot:False - alreadyShooting:False - reloading:True - skipReload:False - CurrentAmmo:0 - wait:False
+09-22-23_15-49-58-971 - [server rejecting] Signal:None - CompletedCycles:0 requestType:On - Trigger:On
+09-22-23_15-49-58-971 - [clear] Reason:Rejected - ammo:0 - Trigger:On - Signal:None - Cycles:0[4294967295] - Count:8[0] - WeaponsFired:0
+09-22-23_15-49-59-021 - MakeReadyToShoot: canShoot:False - alreadyShooting:False - reloading:True - skipReload:False - CurrentAmmo:0 - wait:False
+09-22-23_15-49-59-021 - [server rejecting] Signal:None - CompletedCycles:0 requestType:On - Trigger:On
+09-22-23_15-49-59-021 - [clear] Reason:Rejected - ammo:0 - Trigger:On - Signal:None - Cycles:0[4294967295] - Count:8[0] - WeaponsFired:0
+09-22-23_15-49-59-254 - MakeReadyToShoot: canShoot:False - alreadyShooting:False - reloading:True - skipReload:False - CurrentAmmo:0 - wait:False
+09-22-23_15-49-59-254 - [server rejecting] Signal:None - CompletedCycles:0 requestType:On - Trigger:On
+09-22-23_15-49-59-254 - [clear] Reason:Rejected - ammo:0 - Trigger:On - Signal:None - Cycles:0[4294967295] - Count:8[0] - WeaponsFired:0
+09-22-23_15-49-59-304 - MakeReadyToShoot: canShoot:False - alreadyShooting:False - reloading:True - skipReload:False - CurrentAmmo:0 - wait:False
+09-22-23_15-49-59-304 - [server rejecting] Signal:None - CompletedCycles:0 requestType:On - Trigger:On
+09-22-23_15-49-59-304 - [clear] Reason:Rejected - ammo:0 - Trigger:On - Signal:None - Cycles:0[4294967295] - Count:8[0] - WeaponsFired:0
+09-22-23_16-05-58-502 - [clear] Reason:ServerRequested - ammo:46 - Trigger:On - Signal:On - Cycles:212[4294967295] - Count:1[0] - WeaponsFired:212
+09-22-23_16-05-58-502 - [clear] Reason:ServerRequested - ammo:459 - Trigger:On - Signal:On - Cycles:53[4294967295] - Count:1[0] - WeaponsFired:53
+09-22-23_16-05-58-502 - [clear] Reason:ServerRequested - ammo:0 - Trigger:On - Signal:On - Cycles:4[4294967295] - Count:1[0] - WeaponsFired:4
+09-22-23_16-05-58-502 - [clear] Reason:ServerRequested - ammo:0 - Trigger:On - Signal:On - Cycles:2[4294967295] - Count:1[0] - WeaponsFired:2
+09-22-23_16-05-58-826 - MakeReadyToShoot: canShoot:False - alreadyShooting:False - reloading:True - skipReload:False - CurrentAmmo:0 - wait:False
+09-22-23_16-05-58-826 - MakeReadyToShoot: canShoot:False - alreadyShooting:False - reloading:True - skipReload:False - CurrentAmmo:0 - wait:False
+09-22-23_16-05-59-214 - [clear] Reason:ServerRequested - ammo:0 - Trigger:On - Signal:None - Cycles:0[4294967295] - Count:1[0] - WeaponsFired:0
+09-22-23_16-05-59-774 - [clear] Reason:ServerRequested - ammo:456 - Trigger:On - Signal:On - Cycles:3[4294967295] - Count:2[0] - WeaponsFired:3
+09-22-23_16-05-59-774 - [clear] Reason:ServerRequested - ammo:0 - Trigger:On - Signal:On - Cycles:65[4294967295] - Count:1[0] - WeaponsFired:65
+09-22-23_16-05-59-774 - [clear] Reason:ServerRequested - ammo:0 - Trigger:On - Signal:None - Cycles:0[4294967295] - Count:1[0] - WeaponsFired:0
+09-22-23_16-33-18-792 - server catching up to client -- from:4 to:6
+09-22-23_16-33-19-296 - [clear] Reason:ShootSync - ammo:278 - Trigger:On - Signal:On - Cycles:6[6] - Count:1[0] - WeaponsFired:6
+09-22-23_16-35-11-422 - [clear] Reason:Toggle - ammo:70 - Trigger:On - Signal:On - Cycles:0[4294967295] - Count:2[0] - WeaponsFired:0
+09-22-23_16-35-24-753 - [clear] Reason:Toggle - ammo:2 - Trigger:On - Signal:Manual - Cycles:1[4294967295] - Count:3[0] - WeaponsFired:1
+09-22-23_16-35-25-446 - [clear] Reason:Toggle - ammo:0 - Trigger:On - Signal:Manual - Cycles:1[4294967295] - Count:4[0] - WeaponsFired:1
+09-22-23_16-35-31-929 - [clear] Reason:Toggle - ammo:282 - Trigger:On - Signal:Manual - Cycles:0[4294967295] - Count:5[0] - WeaponsFired:0
+09-22-23_16-35-32-243 - [clear] Reason:Toggle - ammo:276 - Trigger:On - Signal:Manual - Cycles:0[4294967295] - Count:6[0] - WeaponsFired:0
+09-22-23_16-35-32-939 - [clear] Reason:Toggle - ammo:260 - Trigger:On - Signal:Manual - Cycles:0[4294967295] - Count:7[0] - WeaponsFired:0
+09-22-23_16-35-36-307 - [clear] Reason:Toggle - ammo:0 - Trigger:On - Signal:Manual - Cycles:6[4294967295] - Count:8[0] - WeaponsFired:6
+09-22-23_16-35-44-030 - [clear] Reason:Toggle - ammo:98 - Trigger:On - Signal:Manual - Cycles:4[4294967295] - Count:9[0] - WeaponsFired:4
+09-22-23_16-35-47-934 - server catching up to client -- from:2 to:3
+09-22-23_16-35-48-018 - [clear] Reason:Toggle - ammo:0 - Trigger:On - Signal:Manual - Cycles:2[3] - Count:10[0] - WeaponsFired:2
+09-22-23_16-35-53-395 - [clear] Reason:Toggle - ammo:288 - Trigger:On - Signal:Manual - Cycles:0[4294967295] - Count:11[0] - WeaponsFired:0
+09-22-23_16-49-48-343 - [clear] Reason:ServerRequested - ammo:0 - Trigger:On - Signal:On - Cycles:5[4294967295] - Count:1[0] - WeaponsFired:5
+09-22-23_16-49-51-511 - [clear] Reason:ServerRequested - ammo:0 - Trigger:On - Signal:On - Cycles:2[4294967295] - Count:2[0] - WeaponsFired:2
+09-22-23_16-49-54-425 - [clear] Reason:ServerRequested - ammo:0 - Trigger:On - Signal:On - Cycles:1[4294967295] - Count:3[0] - WeaponsFired:1
+09-22-23_16-49-54-706 - MakeReadyToShoot: canShoot:False - alreadyShooting:False - reloading:True - skipReload:False - CurrentAmmo:0 - wait:False
+09-22-23_16-50-01-370 - [clear] Reason:ServerRequested - ammo:1 - Trigger:On - Signal:None - Cycles:0[4294967295] - Count:3[0] - WeaponsFired:0

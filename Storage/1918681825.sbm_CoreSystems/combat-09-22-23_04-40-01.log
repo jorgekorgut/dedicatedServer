@@ -1,0 +1,13 @@
+09-22-23_04-12-13-252 - Logging Started
+09-22-23_04-26-33-685 - New Threat Detected:The Little Sea Rover (MyCubeGrid, 92618640428960632)
+ - by: [ISL]-Hercules-AQ-1280 (MyCubeGrid, 109068364517563555)Attacking Weapon:Whirlwind Light Cannon [Weapon] Owner:144115188075855912 - Faction:Interstellar Logistics Fleet(260052935521577410) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855912 - Faction:Interstellar Logistics Fleet(260052935521577410) - Relationship:Enemies - ThreatLevel:0.04586003 - isFocus:False
+
+09-22-23_04-27-14-536 - New Threat Detected:(NPC-ACS) WKZ-LG Masque 01 (MyCubeGrid, 94944519341447325)
+ - by: [ISL]-Atlas-AO-720 (MyCubeGrid, 94149120453180797)Attacking Weapon:25mm Prowler [Weapon] Owner:144115188075855912 - Faction:Interstellar Logistics Fleet(260052935521577410) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855912 - Faction:Interstellar Logistics Fleet(260052935521577410) - Relationship:Enemies - ThreatLevel:16.44624 - isFocus:True
+
+09-22-23_04-27-15-267 - New Threat Detected:[ISL]-Atlas-AO-720 (MyCubeGrid, 94149120453180797)
+ - by: (NPC-ACS) WKZ-LG Masque 01 (MyCubeGrid, 94944519341447325)Attacking Weapon:Gravastar Laser Turret [Weapon] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Neutrals:False - Friends:False - Unowned:False
+[Ai] Owner:144115188075855909 - Faction:Assert Inc(269939021752338114) - Relationship:Enemies - ThreatLevel:0.06080417 - isFocus:True
+

@@ -1,0 +1,14 @@
+GridName, MainOwner, TotalDamage, PrimaryDamage, AOEDamage, ShieldDamage, ProjectileDamage
+The Greed of the Plunder, , 5215, 4090, 1125, 0, 0
+Cloverleaf Raider, , 3602, 2, 3600, 0, 0
+The Little Sea Rover, , 44082, 44082, 0, 0, 0
+(NPC-ACS) Spire 01, , 113963, 113843, 0, 0, 120
+(NPC-ACS) Automated Division Star Eater-AT1, , 749967, 726798, 8539, 14630, 0
+[VC]-Void-Wolf, , 179671, 500, 0, 179171, 0
+ [Junk]-Junker-Space-Drone, , 94950, 0, 0, 94950, 0
+(NPC-IBR) Monarch Transport, , 4, 0, 0, 0, 4
+(NPC-ACS) WKZ-LG Mjolnir 01-AT1, , 290, 0, 0, 0, 290
+(NPC-PLX) Oban Tide Mk2, , 50000261, 0, 0, 0, 50000261
+(NPC-PLX) Oban Tide Mk2, , 504, 0, 0, 0, 504
+The Little Sea Rover, , 62800, 62800, 0, 0, 0
+Cloverleaf Raider, , 153789, 144146, 9643, 0, 0
