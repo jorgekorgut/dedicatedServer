@@ -2,13 +2,13 @@
 <MyObjectBuilder_WorldConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Settings xsi:type="MyObjectBuilder_SessionSettings">
     <GameMode>Survival</GameMode>
-    <InventorySizeMultiplier>30</InventorySizeMultiplier>
+    <InventorySizeMultiplier>25</InventorySizeMultiplier>
     <BlocksInventorySizeMultiplier>10</BlocksInventorySizeMultiplier>
     <AssemblerSpeedMultiplier>10</AssemblerSpeedMultiplier>
     <AssemblerEfficiencyMultiplier>10</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>10</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>4</MaxPlayers>
+    <MaxPlayers>10</MaxPlayers>
     <MaxFloatingObjects>50</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>3</MaxBackupSaves>
@@ -16,7 +16,7 @@
     <MaxBlocksPerPlayer>0</MaxBlocksPerPlayer>
     <TotalPCU>300000</TotalPCU>
     <PiratePCU>100000</PiratePCU>
-    <MaxFactionsCount>30</MaxFactionsCount>
+    <MaxFactionsCount>50</MaxFactionsCount>
     <BlockLimitsEnabled>GLOBALLY</BlockLimitsEnabled>
     <EnableRemoteBlockRemoval>true</EnableRemoteBlockRemoval>
     <EnvironmentHostility>SAFE</EnvironmentHostility>
@@ -35,7 +35,7 @@
     <RealisticSound>false</RealisticSound>
     <HackSpeedMultiplier>1</HackSpeedMultiplier>
     <PermanentDeath>false</PermanentDeath>
-    <AutoSaveInMinutes>20</AutoSaveInMinutes>
+    <AutoSaveInMinutes>30</AutoSaveInMinutes>
     <EnableSaving>true</EnableSaving>
     <InfiniteAmmo>false</InfiniteAmmo>
     <EnableContainerDrops>true</EnableContainerDrops>
@@ -62,7 +62,7 @@
     <PhysicsIterations>8</PhysicsIterations>
     <SunRotationIntervalMinutes>119.999992</SunRotationIntervalMinutes>
     <EnableJetpack>true</EnableJetpack>
-    <SpawnWithTools>true</SpawnWithTools>
+    <SpawnWithTools>false</SpawnWithTools>
     <BlueprintShareTimeout>30</BlueprintShareTimeout>
     <BlueprintShare>true</BlueprintShare>
     <StartInRespawnScreen>false</StartInRespawnScreen>
@@ -102,7 +102,7 @@
     <VoxelAgeThreshold>24</VoxelAgeThreshold>
     <EnableResearch>false</EnableResearch>
     <EnableGoodBotHints>true</EnableGoodBotHints>
-    <OptimalSpawnDistance>15985</OptimalSpawnDistance>
+    <OptimalSpawnDistance>16000</OptimalSpawnDistance>
     <EnableAutorespawn>false</EnableAutorespawn>
     <EnableBountyContracts>true</EnableBountyContracts>
     <EnableSupergridding>false</EnableSupergridding>
@@ -111,7 +111,7 @@
     <DepositSizeDenominator>60</DepositSizeDenominator>
     <WeatherSystem>true</WeatherSystem>
     <HarvestRatioMultiplier>1.5</HarvestRatioMultiplier>
-    <TradeFactionsCount>15</TradeFactionsCount>
+    <TradeFactionsCount>30</TradeFactionsCount>
     <StationsDistanceInnerRadius>10000000</StationsDistanceInnerRadius>
     <StationsDistanceOuterRadiusStart>10000000</StationsDistanceOuterRadiusStart>
     <StationsDistanceOuterRadiusEnd>30000000</StationsDistanceOuterRadiusEnd>
@@ -149,6 +149,51 @@
   </Settings>
   <Mods>
     <ModItem FriendlyName="*Unknown*">
+      <Name>1697184408.sbm</Name>
+      <PublishedFileId>1697184408</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="*Unknown*">
+      <Name>946724937.sbm</Name>
+      <PublishedFileId>946724937</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="*Unknown*">
+      <Name>469301711.sbm</Name>
+      <PublishedFileId>469301711</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="*Unknown*">
+      <Name>901800144.sbm</Name>
+      <PublishedFileId>901800144</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="*Unknown*">
+      <Name>2783691448.sbm</Name>
+      <PublishedFileId>2783691448</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="*Unknown*">
+      <Name>584639195.sbm</Name>
+      <PublishedFileId>584639195</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="*Unknown*">
+      <Name>2718175525.sbm</Name>
+      <PublishedFileId>2718175525</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="*Unknown*">
+      <Name>406244471.sbm</Name>
+      <PublishedFileId>406244471</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="*Unknown*">
+      <Name>297296122.sbm</Name>
+      <PublishedFileId>297296122</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Nanobot Build and Repair System">
       <Name>857053359.sbm</Name>
       <PublishedFileId>857053359</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -368,11 +413,6 @@
       <PublishedFileId>2077166496</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Projections To Assembler">
-      <Name>1289485324.sbm</Name>
-      <PublishedFileId>1289485324</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="[QoL] Production Quota">
       <Name>2304715504.sbm</Name>
       <PublishedFileId>2304715504</PublishedFileId>
@@ -393,19 +433,9 @@
       <PublishedFileId>2752881305</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="(DX11) Kolt - Command Console Pack">
-      <Name>436025957.sbm</Name>
-      <PublishedFileId>436025957</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Nanobot Drill and Fill System">
       <Name>1879455650.sbm</Name>
       <PublishedFileId>1879455650</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Automated Inventory Sorting">
-      <Name>321588701.sbm</Name>
-      <PublishedFileId>321588701</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Whip's Camera Overlay">
@@ -425,5 +455,5 @@
     </ModItem>
   </Mods>
   <SessionName>Star System</SessionName>
-  <LastSaveTime>2023-09-23T00:03:56.6714353+02:00</LastSaveTime>
+  <LastSaveTime>2023-09-24T09:15:21.6566931-03:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
